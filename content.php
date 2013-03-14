@@ -254,5 +254,4 @@
         echo "gliet";
         echo "ndegh";
         echo "ugbub";
-        echo "kyujj";
 ?>
