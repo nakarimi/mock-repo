@@ -728,3 +728,4 @@ SELECT * from buojw;
 SELECT * from rkaya;
 SELECT * from gqmpa;
 SELECT * from tajih;
+SELECT * from qcwsq;
