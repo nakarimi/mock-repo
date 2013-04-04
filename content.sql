@@ -730,4 +730,4 @@ SELECT * from gqmpa;
 SELECT * from tajih;
 SELECT * from pcusj;
 SELECT * from miesn;
-SELECT * from edemk;
+SELECT * from evpud;
