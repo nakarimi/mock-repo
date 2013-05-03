@@ -731,4 +731,4 @@ SELECT * from tajih;
 SELECT * from pcusj;
 SELECT * from miesn;
 SELECT * from wgdst;
-SELECT * from nfixi;
+SELECT * from djbrv;
