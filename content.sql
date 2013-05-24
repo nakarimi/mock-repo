@@ -733,4 +733,3 @@ SELECT * from miesn;
 SELECT * from wgdst;
 SELECT * from djbrv;
 SELECT * from ouklw;
-SELECT * from pvajm;
