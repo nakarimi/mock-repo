@@ -734,4 +734,3 @@ SELECT * from wgdst;
 SELECT * from djbrv;
 SELECT * from hahvh;
 SELECT * from rbwmv;
-SELECT * from vsqpl;
