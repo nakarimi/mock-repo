@@ -742,4 +742,4 @@ SELECT * from ahwis;
 SELECT * from oidfh;
 SELECT * from qibuk;
 SELECT * from rpfbw;
-SELECT * from caypj;
+SELECT * from ediob;
