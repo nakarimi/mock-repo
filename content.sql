@@ -743,4 +743,4 @@ SELECT * from oidfh;
 SELECT * from qibuk;
 SELECT * from rpfbw;
 SELECT * from ediob;
-SELECT * from gnfet;
+SELECT * from irnmi;
