@@ -744,4 +744,4 @@ SELECT * from qibuk;
 SELECT * from rpfbw;
 SELECT * from ediob;
 SELECT * from srhkx;
-SELECT * from rqlod;
+SELECT * from ysasi;
