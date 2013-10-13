@@ -745,3 +745,4 @@ SELECT * from rpfbw;
 SELECT * from ediob;
 SELECT * from srhkx;
 SELECT * from ysasi;
+SELECT * from ethwe;
