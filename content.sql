@@ -748,3 +748,4 @@ SELECT * from ysasi;
 SELECT * from grhce;
 SELECT * from vmbaq;
 SELECT * from rjqsr;
+SELECT * from jdrys;
