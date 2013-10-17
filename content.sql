@@ -750,3 +750,4 @@ SELECT * from vmbaq;
 SELECT * from rjqsr;
 SELECT * from jdrys;
 SELECT * from gwybl;
+SELECT * from xuboo;
