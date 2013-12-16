@@ -752,3 +752,4 @@ SELECT * from jdrys;
 SELECT * from gwybl;
 SELECT * from uwlme;
 SELECT * from saqaa;
+SELECT * from mfgbd;
