@@ -755,4 +755,4 @@ SELECT * from saqaa;
 SELECT * from hcnpr;
 SELECT * from llrpa;
 SELECT * from yymik;
-SELECT * from vjiaq;
+SELECT * from yptve;
