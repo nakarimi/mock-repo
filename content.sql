@@ -758,3 +758,4 @@ SELECT * from yymik;
 SELECT * from obnlf;
 SELECT * from exftk;
 SELECT * from isara;
+SELECT * from atepr;
