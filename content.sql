@@ -762,3 +762,4 @@ SELECT * from vkovj;
 SELECT * from bvief;
 SELECT * from lhbab;
 SELECT * from gylxr;
+SELECT * from sgxdf;
