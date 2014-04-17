@@ -764,4 +764,4 @@ SELECT * from lhbab;
 SELECT * from gylxr;
 SELECT * from sgxdf;
 SELECT * from huddn;
-SELECT * from ilkoi;
+SELECT * from duxxa;
