@@ -765,3 +765,4 @@ SELECT * from gylxr;
 SELECT * from sgxdf;
 SELECT * from huddn;
 SELECT * from tujjv;
+SELECT * from ieqmi;
