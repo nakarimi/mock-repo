@@ -766,4 +766,4 @@ SELECT * from sgxdf;
 SELECT * from huddn;
 SELECT * from tujjv;
 SELECT * from cawif;
-SELECT * from yhdkg;
+SELECT * from mbyxi;
