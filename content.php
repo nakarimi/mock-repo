@@ -379,5 +379,5 @@
         echo "qsvto";
         echo "itguu";
         echo "qcqsq";
-        echo "xbrws";
+        echo "mncut";
 ?>
