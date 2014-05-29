@@ -379,5 +379,4 @@
         echo "qsvto";
         echo "itguu";
         echo "qcqsq";
-        echo "joymx";
 ?>
