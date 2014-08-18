@@ -770,4 +770,4 @@ SELECT * from pwogu;
 SELECT * from pnlys;
 SELECT * from shdje;
 SELECT * from gynne;
-SELECT * from viqpp;
+SELECT * from jqtxa;
