@@ -771,3 +771,4 @@ SELECT * from pnlys;
 SELECT * from shdje;
 SELECT * from gynne;
 SELECT * from xcxfc;
+SELECT * from aqlwj;
