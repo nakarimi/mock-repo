@@ -773,4 +773,4 @@ SELECT * from gynne;
 SELECT * from xcxfc;
 SELECT * from nvvfr;
 SELECT * from pbtkh;
-SELECT * from ctglc;
+SELECT * from dkeqt;
