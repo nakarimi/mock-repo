@@ -774,4 +774,4 @@ SELECT * from xcxfc;
 SELECT * from nvvfr;
 SELECT * from pbtkh;
 SELECT * from bubdr;
-SELECT * from txnwl;
+SELECT * from nvdfi;
