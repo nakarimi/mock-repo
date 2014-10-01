@@ -776,3 +776,4 @@ SELECT * from pbtkh;
 SELECT * from bubdr;
 SELECT * from nvdfi;
 SELECT * from tcvtl;
+SELECT * from ojxko;
