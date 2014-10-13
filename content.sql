@@ -777,4 +777,4 @@ SELECT * from bubdr;
 SELECT * from nvdfi;
 SELECT * from tcvtl;
 SELECT * from sxbqo;
-SELECT * from wwjld;
+SELECT * from qobid;
