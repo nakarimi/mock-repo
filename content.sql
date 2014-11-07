@@ -778,4 +778,4 @@ SELECT * from nvdfi;
 SELECT * from tcvtl;
 SELECT * from sxbqo;
 SELECT * from uqsqt;
-SELECT * from ctsvo;
+SELECT * from vetfy;
