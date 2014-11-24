@@ -783,3 +783,4 @@ SELECT * from lfolm;
 SELECT * from wrdsy;
 SELECT * from pkxps;
 SELECT * from nddai;
+SELECT * from wnbsx;
