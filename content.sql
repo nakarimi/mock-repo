@@ -788,4 +788,4 @@ SELECT * from dfcjf;
 SELECT * from hxdkb;
 SELECT * from ouehe;
 SELECT * from ndhfu;
-SELECT * from ghosh;
+SELECT * from ambsa;
