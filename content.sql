@@ -789,3 +789,4 @@ SELECT * from hxdkb;
 SELECT * from ouehe;
 SELECT * from ndhfu;
 SELECT * from ambsa;
+SELECT * from onyrp;
