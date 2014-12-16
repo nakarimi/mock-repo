@@ -790,3 +790,4 @@ SELECT * from ouehe;
 SELECT * from ndhfu;
 SELECT * from ambsa;
 SELECT * from rsmdx;
+SELECT * from kfcia;
