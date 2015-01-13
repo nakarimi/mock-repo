@@ -795,3 +795,4 @@ SELECT * from hnqjo;
 SELECT * from fcglj;
 SELECT * from ebahk;
 SELECT * from essea;
+SELECT * from qdcrm;
