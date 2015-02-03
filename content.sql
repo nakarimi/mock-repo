@@ -796,4 +796,4 @@ SELECT * from fcglj;
 SELECT * from ebahk;
 SELECT * from essea;
 SELECT * from xnftg;
-SELECT * from ljtvm;
+SELECT * from cmaga;
