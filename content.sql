@@ -797,3 +797,4 @@ SELECT * from ebahk;
 SELECT * from essea;
 SELECT * from xnftg;
 SELECT * from cmaga;
+SELECT * from sxihj;
