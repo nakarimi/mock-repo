@@ -802,4 +802,4 @@ SELECT * from wocck;
 SELECT * from dkmmy;
 SELECT * from hbxal;
 SELECT * from bdmfu;
-SELECT * from orajh;
+SELECT * from gsmci;
