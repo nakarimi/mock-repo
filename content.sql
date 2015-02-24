@@ -803,3 +803,4 @@ SELECT * from dkmmy;
 SELECT * from hbxal;
 SELECT * from bdmfu;
 SELECT * from gsmci;
+SELECT * from brybg;
