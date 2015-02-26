@@ -804,4 +804,4 @@ SELECT * from hbxal;
 SELECT * from bdmfu;
 SELECT * from gsmci;
 SELECT * from bnjiw;
-SELECT * from plpby;
+SELECT * from vecqt;
