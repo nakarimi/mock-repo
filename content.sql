@@ -805,3 +805,4 @@ SELECT * from bdmfu;
 SELECT * from gsmci;
 SELECT * from bnjiw;
 SELECT * from vecqt;
+SELECT * from ccbee;
