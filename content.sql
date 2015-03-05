@@ -808,3 +808,4 @@ SELECT * from vecqt;
 SELECT * from ccbee;
 SELECT * from tucvr;
 SELECT * from nragk;
+SELECT * from tqpcb;
