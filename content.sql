@@ -809,3 +809,4 @@ SELECT * from ccbee;
 SELECT * from tucvr;
 SELECT * from nragk;
 SELECT * from rlqkh;
+SELECT * from fekuq;
