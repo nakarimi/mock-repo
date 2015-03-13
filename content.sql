@@ -810,3 +810,4 @@ SELECT * from tucvr;
 SELECT * from nragk;
 SELECT * from rlqkh;
 SELECT * from keuoo;
+SELECT * from sstuw;
