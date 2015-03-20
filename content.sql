@@ -812,3 +812,4 @@ SELECT * from rlqkh;
 SELECT * from keuoo;
 SELECT * from dlscc;
 SELECT * from jiqiq;
+SELECT * from memsq;
