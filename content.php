@@ -471,5 +471,4 @@
         echo "cnuux";
         echo "ceqkj";
         echo "jwaft";
-        echo "bwnns";
 ?>
