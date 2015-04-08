@@ -819,3 +819,4 @@ SELECT * from dmqbf;
 SELECT * from ygtoc;
 SELECT * from apsdf;
 SELECT * from ppvdy;
+SELECT * from dgujk;
