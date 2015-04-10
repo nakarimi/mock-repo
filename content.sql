@@ -821,3 +821,4 @@ SELECT * from apsdf;
 SELECT * from ppvdy;
 SELECT * from oatve;
 SELECT * from pbvfk;
+SELECT * from celtm;
