@@ -827,3 +827,4 @@ SELECT * from ulxbm;
 SELECT * from tjdpo;
 SELECT * from ugrxe;
 SELECT * from ieukw;
+SELECT * from ljmtn;
