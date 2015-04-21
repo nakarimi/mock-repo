@@ -830,3 +830,4 @@ SELECT * from ieukw;
 SELECT * from ljmtn;
 SELECT * from leovj;
 SELECT * from pcykj;
+SELECT * from trgeg;
