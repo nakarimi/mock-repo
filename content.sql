@@ -837,3 +837,4 @@ SELECT * from pmjcy;
 SELECT * from dtedc;
 SELECT * from tpvtv;
 SELECT * from emvry;
+SELECT * from vlbtq;
