@@ -838,3 +838,4 @@ SELECT * from dtedc;
 SELECT * from tpvtv;
 SELECT * from emvry;
 SELECT * from lcscv;
+SELECT * from ohqsx;
