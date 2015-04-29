@@ -840,3 +840,4 @@ SELECT * from emvry;
 SELECT * from lcscv;
 SELECT * from vmnjo;
 SELECT * from rofkr;
+SELECT * from kneal;
