@@ -849,3 +849,4 @@ SELECT * from hcjdj;
 SELECT * from tbgaq;
 SELECT * from hcwfx;
 SELECT * from qtdfq;
+SELECT * from bqsdy;
