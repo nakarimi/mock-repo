@@ -853,3 +853,4 @@ SELECT * from bqsdy;
 SELECT * from dlmen;
 SELECT * from qqkmt;
 SELECT * from pmjew;
+SELECT * from cbogv;
