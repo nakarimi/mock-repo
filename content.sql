@@ -855,3 +855,4 @@ SELECT * from qqkmt;
 SELECT * from pmjew;
 SELECT * from cbogv;
 SELECT * from nhixr;
+SELECT * from csbtb;
