@@ -858,3 +858,4 @@ SELECT * from nhixr;
 SELECT * from wkbhs;
 SELECT * from fleij;
 SELECT * from hbxbd;
+SELECT * from kipqf;
