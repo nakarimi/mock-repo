@@ -860,3 +860,4 @@ SELECT * from fleij;
 SELECT * from hbxbd;
 SELECT * from kipqf;
 SELECT * from mlove;
+SELECT * from syjpc;
