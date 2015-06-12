@@ -862,3 +862,4 @@ SELECT * from kipqf;
 SELECT * from mlove;
 SELECT * from syjpc;
 SELECT * from ynshv;
+SELECT * from euwue;
