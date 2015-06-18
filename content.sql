@@ -866,3 +866,4 @@ SELECT * from euwue;
 SELECT * from kessn;
 SELECT * from lakye;
 SELECT * from xckta;
+SELECT * from scxew;
