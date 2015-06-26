@@ -869,4 +869,5 @@ SELECT * from xckta;
 SELECT * from scxew;
 SELECT * from gxnuk;
 SELECT * from bnvqn;
-SELECT * from diqgn;
+SELECT * from xrodd;
+SELECT * from ierrx;
