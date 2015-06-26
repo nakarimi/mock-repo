@@ -871,3 +871,4 @@ SELECT * from gxnuk;
 SELECT * from bnvqn;
 SELECT * from xrodd;
 SELECT * from ierrx;
+SELECT * from rvsso;
