@@ -873,4 +873,4 @@ SELECT * from xrodd;
 SELECT * from ierrx;
 SELECT * from rvsso;
 SELECT * from jtsev;
-SELECT * from sctwg;
+SELECT * from doprt;
