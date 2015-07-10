@@ -875,3 +875,4 @@ SELECT * from rvsso;
 SELECT * from jtsev;
 SELECT * from jgkck;
 SELECT * from jpkhq;
+SELECT * from lipfc;
