@@ -877,3 +877,5 @@ SELECT * from jgkck;
 SELECT * from jpkhq;
 SELECT * from lipfc;
 SELECT * from pmkqo;
+SELECT * from vaycq;
+SELECT * from majgn;
