@@ -879,3 +879,4 @@ SELECT * from lipfc;
 SELECT * from pmkqo;
 SELECT * from vaycq;
 SELECT * from majgn;
+SELECT * from mnhpl;
