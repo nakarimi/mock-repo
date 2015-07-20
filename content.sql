@@ -882,4 +882,4 @@ SELECT * from majgn;
 SELECT * from mnhpl;
 SELECT * from jabil;
 SELECT * from qykbc;
-SELECT * from rulcp;
+SELECT * from sawto;
