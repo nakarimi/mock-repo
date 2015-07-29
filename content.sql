@@ -885,4 +885,4 @@ SELECT * from qykbc;
 SELECT * from gcymc;
 SELECT * from wnrda;
 SELECT * from slbwl;
-SELECT * from ohutw;
+SELECT * from skose;
