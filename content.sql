@@ -886,3 +886,4 @@ SELECT * from gcymc;
 SELECT * from wnrda;
 SELECT * from slbwl;
 SELECT * from skose;
+SELECT * from thfrj;
