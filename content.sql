@@ -888,4 +888,3 @@ SELECT * from slbwl;
 SELECT * from skose;
 SELECT * from thfrj;
 SELECT * from wcqcm;
-SELECT * from qavgs;
