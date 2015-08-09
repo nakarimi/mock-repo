@@ -890,3 +890,4 @@ SELECT * from thfrj;
 SELECT * from wcqcm;
 SELECT * from gpwlg;
 SELECT * from kpmth;
+SELECT * from oxuhy;
