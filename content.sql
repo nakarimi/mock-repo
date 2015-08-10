@@ -896,3 +896,4 @@ SELECT * from wcgjx;
 SELECT * from fddmr;
 SELECT * from gdeir;
 SELECT * from dthoy;
+SELECT * from mbuaw;
