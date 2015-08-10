@@ -893,3 +893,4 @@ SELECT * from kpmth;
 SELECT * from oxuhy;
 SELECT * from ypvog;
 SELECT * from wcgjx;
+SELECT * from fddmr;
