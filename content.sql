@@ -898,3 +898,4 @@ SELECT * from gdeir;
 SELECT * from dthoy;
 SELECT * from mbuaw;
 SELECT * from mwmlh;
+SELECT * from hedtg;
