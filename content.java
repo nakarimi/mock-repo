@@ -1,5 +1,5 @@
-public class Ceuimi {
+public class Cfqgom {
     public static void main() {
-        System.out.println("jcobh");
+        System.out.println("tlphs");
     }
 }
