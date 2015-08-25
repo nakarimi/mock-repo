@@ -908,3 +908,5 @@ SELECT * from pmmqx;
 SELECT * from qoolb;
 SELECT * from pxlgf;
 SELECT * from tvdoy;
+SELECT * from qqgng;
+SELECT * from rpgpu;
