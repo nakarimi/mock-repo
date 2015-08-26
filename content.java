@@ -1,5 +1,5 @@
-public class Cfqgom {
+public class Cfwlga {
     public static void main() {
-        System.out.println("tlphs");
+        System.out.println("xvkee");
     }
 }
