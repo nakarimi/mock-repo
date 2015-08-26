@@ -910,4 +910,4 @@ SELECT * from pxlgf;
 SELECT * from tvdoy;
 SELECT * from qqgng;
 SELECT * from rpgpu;
-SELECT * from omtdr;
+SELECT * from jbhny;
