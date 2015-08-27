@@ -911,3 +911,4 @@ SELECT * from tvdoy;
 SELECT * from qqgng;
 SELECT * from rpgpu;
 SELECT * from itrir;
+SELECT * from ijmfd;
