@@ -915,3 +915,4 @@ SELECT * from pycoc;
 SELECT * from ptiwg;
 SELECT * from nkhib;
 SELECT * from jhuri;
+SELECT * from qrnyy;
