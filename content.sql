@@ -920,3 +920,4 @@ SELECT * from syvgi;
 SELECT * from rhvdy;
 SELECT * from rkbwj;
 SELECT * from pyylo;
+SELECT * from hhykx;
