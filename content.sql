@@ -922,4 +922,4 @@ SELECT * from rkbwj;
 SELECT * from pyylo;
 SELECT * from hhykx;
 SELECT * from wwfpv;
-SELECT * from klguh;
+SELECT * from synpa;
