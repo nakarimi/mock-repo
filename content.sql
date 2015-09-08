@@ -925,3 +925,4 @@ SELECT * from wwfpv;
 SELECT * from synpa;
 SELECT * from intfr;
 SELECT * from deshf;
+SELECT * from rydql;
