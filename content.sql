@@ -924,3 +924,4 @@ SELECT * from hhykx;
 SELECT * from wwfpv;
 SELECT * from synpa;
 SELECT * from intfr;
+SELECT * from deshf;
