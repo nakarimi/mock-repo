@@ -927,3 +927,4 @@ SELECT * from intfr;
 SELECT * from deshf;
 SELECT * from rydql;
 SELECT * from cyioi;
+SELECT * from wbihs;
