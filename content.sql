@@ -928,3 +928,4 @@ SELECT * from deshf;
 SELECT * from rydql;
 SELECT * from cyioi;
 SELECT * from wbihs;
+SELECT * from pngwd;
