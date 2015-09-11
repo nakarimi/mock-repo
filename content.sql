@@ -930,3 +930,4 @@ SELECT * from cyioi;
 SELECT * from wbihs;
 SELECT * from pngwd;
 SELECT * from vmsbj;
+SELECT * from pwppk;
