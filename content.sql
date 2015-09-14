@@ -931,3 +931,4 @@ SELECT * from wbihs;
 SELECT * from pngwd;
 SELECT * from vmsbj;
 SELECT * from wjaxh;
+SELECT * from cukdh;
