@@ -932,3 +932,4 @@ SELECT * from pngwd;
 SELECT * from vmsbj;
 SELECT * from wjaxh;
 SELECT * from cukdh;
+SELECT * from hmgle;
