@@ -935,3 +935,4 @@ SELECT * from cukdh;
 SELECT * from hmgle;
 SELECT * from jumwi;
 SELECT * from ixylq;
+SELECT * from oarfi;
