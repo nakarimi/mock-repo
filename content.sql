@@ -937,3 +937,4 @@ SELECT * from jumwi;
 SELECT * from ixylq;
 SELECT * from rsoxi;
 SELECT * from lydth;
+SELECT * from juhmy;
