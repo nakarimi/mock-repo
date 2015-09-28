@@ -938,3 +938,4 @@ SELECT * from ixylq;
 SELECT * from rsoxi;
 SELECT * from lydth;
 SELECT * from atitx;
+SELECT * from fccpj;
