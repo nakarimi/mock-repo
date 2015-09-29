@@ -941,3 +941,4 @@ SELECT * from atitx;
 SELECT * from fccpj;
 SELECT * from gdgan;
 SELECT * from njfqn;
+SELECT * from rhycb;
