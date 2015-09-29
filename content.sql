@@ -939,4 +939,4 @@ SELECT * from rsoxi;
 SELECT * from lydth;
 SELECT * from atitx;
 SELECT * from fccpj;
-SELECT * from ltiaf;
+SELECT * from gdgan;
