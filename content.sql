@@ -940,3 +940,4 @@ SELECT * from lydth;
 SELECT * from atitx;
 SELECT * from fccpj;
 SELECT * from gdgan;
+SELECT * from njfqn;
