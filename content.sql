@@ -945,4 +945,4 @@ SELECT * from rhycb;
 SELECT * from xesjr;
 SELECT * from grenm;
 SELECT * from pvbhs;
-SELECT * from wruty;
+SELECT * from lruva;
