@@ -947,3 +947,4 @@ SELECT * from grenm;
 SELECT * from pvbhs;
 SELECT * from lruva;
 SELECT * from ixgpb;
+SELECT * from letvc;
