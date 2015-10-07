@@ -950,3 +950,4 @@ SELECT * from ixgpb;
 SELECT * from iwrnn;
 SELECT * from lsdux;
 SELECT * from fwotd;
+SELECT * from wkbsi;
