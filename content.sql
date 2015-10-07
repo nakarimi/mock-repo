@@ -951,3 +951,4 @@ SELECT * from iwrnn;
 SELECT * from lsdux;
 SELECT * from fwotd;
 SELECT * from wkbsi;
+SELECT * from lwnex;
