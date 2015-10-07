@@ -952,3 +952,4 @@ SELECT * from lsdux;
 SELECT * from fwotd;
 SELECT * from wkbsi;
 SELECT * from lwnex;
+SELECT * from xvypt;
