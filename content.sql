@@ -949,3 +949,4 @@ SELECT * from lruva;
 SELECT * from ixgpb;
 SELECT * from iwrnn;
 SELECT * from lsdux;
+SELECT * from fwotd;
