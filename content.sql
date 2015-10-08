@@ -953,3 +953,4 @@ SELECT * from fwotd;
 SELECT * from wkbsi;
 SELECT * from lwnex;
 SELECT * from jvptf;
+SELECT * from xnfkv;
