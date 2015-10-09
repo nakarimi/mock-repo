@@ -956,3 +956,4 @@ SELECT * from jvptf;
 SELECT * from xnfkv;
 SELECT * from bmnal;
 SELECT * from qwpgn;
+SELECT * from mxtii;
