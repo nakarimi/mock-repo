@@ -958,3 +958,4 @@ SELECT * from bmnal;
 SELECT * from qwpgn;
 SELECT * from pbvjj;
 SELECT * from sybdb;
+SELECT * from tenix;
