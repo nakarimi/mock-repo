@@ -959,4 +959,4 @@ SELECT * from qwpgn;
 SELECT * from pbvjj;
 SELECT * from sybdb;
 SELECT * from tenix;
-SELECT * from rjjbm;
+SELECT * from ednlp;
