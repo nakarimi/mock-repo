@@ -961,4 +961,4 @@ SELECT * from sybdb;
 SELECT * from tenix;
 SELECT * from ednlp;
 SELECT * from kilbk;
-SELECT * from okpkc;
+SELECT * from tluxj;
