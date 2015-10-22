@@ -569,5 +569,4 @@
         echo "dkush";
         echo "tnbkh";
         echo "ccdai";
-        echo "fhygk";
 ?>
