@@ -965,3 +965,5 @@ SELECT * from chxve;
 SELECT * from frark;
 SELECT * from nmher;
 SELECT * from gksal;
+SELECT * from vlila;
+SELECT * from pwbdq;
