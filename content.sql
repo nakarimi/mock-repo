@@ -968,3 +968,4 @@ SELECT * from gksal;
 SELECT * from vlila;
 SELECT * from pwbdq;
 SELECT * from rthsh;
+SELECT * from iuqne;
