@@ -571,5 +571,4 @@
         echo "iamdy";
         echo "hwbpx";
         echo "nopwh";
-        echo "bahik";
 ?>
