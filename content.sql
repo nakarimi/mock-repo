@@ -970,3 +970,4 @@ SELECT * from pwbdq;
 SELECT * from rthsh;
 SELECT * from iuqne;
 SELECT * from eyikt;
+SELECT * from gnfcf;
