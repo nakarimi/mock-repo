@@ -972,3 +972,4 @@ SELECT * from iuqne;
 SELECT * from eyikt;
 SELECT * from dfbmp;
 SELECT * from trafs;
+SELECT * from cefht;
