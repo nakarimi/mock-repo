@@ -974,3 +974,4 @@ SELECT * from dfbmp;
 SELECT * from trafs;
 SELECT * from cefht;
 SELECT * from ftfsv;
+SELECT * from qrill;
