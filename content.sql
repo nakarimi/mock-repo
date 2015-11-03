@@ -976,3 +976,4 @@ SELECT * from cefht;
 SELECT * from ftfsv;
 SELECT * from qrill;
 SELECT * from ynwmy;
+SELECT * from ebaer;
