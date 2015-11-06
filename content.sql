@@ -979,3 +979,4 @@ SELECT * from ynwmy;
 SELECT * from ebaer;
 SELECT * from yksvu;
 SELECT * from kpplc;
+SELECT * from vwldi;
