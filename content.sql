@@ -980,3 +980,4 @@ SELECT * from ebaer;
 SELECT * from yksvu;
 SELECT * from kpplc;
 SELECT * from vwldi;
+SELECT * from bfckr;
