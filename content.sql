@@ -982,3 +982,4 @@ SELECT * from kpplc;
 SELECT * from vwldi;
 SELECT * from bfckr;
 SELECT * from dosnd;
+SELECT * from uxlft;
