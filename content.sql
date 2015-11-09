@@ -983,3 +983,4 @@ SELECT * from vwldi;
 SELECT * from bfckr;
 SELECT * from dosnd;
 SELECT * from uxlft;
+SELECT * from mivop;
