@@ -986,4 +986,3 @@ SELECT * from uxlft;
 SELECT * from mivop;
 SELECT * from lvrum;
 SELECT * from bmpba;
-SELECT * from aakkg;
