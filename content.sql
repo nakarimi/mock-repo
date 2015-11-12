@@ -985,3 +985,4 @@ SELECT * from dosnd;
 SELECT * from uxlft;
 SELECT * from mivop;
 SELECT * from lvrum;
+SELECT * from bmpba;
