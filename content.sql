@@ -989,3 +989,4 @@ SELECT * from bmpba;
 SELECT * from hasqn;
 SELECT * from fqmmx;
 SELECT * from xijyv;
+SELECT * from yacac;
