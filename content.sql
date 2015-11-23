@@ -998,3 +998,4 @@ SELECT * from skkmo;
 SELECT * from qmtyb;
 SELECT * from epyjo;
 SELECT * from nbgij;
+SELECT * from ujlds;
