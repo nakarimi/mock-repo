@@ -997,3 +997,4 @@ SELECT * from cwuvw;
 SELECT * from skkmo;
 SELECT * from qmtyb;
 SELECT * from epyjo;
+SELECT * from aaktv;
