@@ -1002,3 +1002,4 @@ SELECT * from ujlds;
 SELECT * from qdaak;
 SELECT * from hiqlp;
 SELECT * from iahry;
+SELECT * from ufgxx;
