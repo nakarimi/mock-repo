@@ -1003,3 +1003,4 @@ SELECT * from qdaak;
 SELECT * from hiqlp;
 SELECT * from iahry;
 SELECT * from ufgxx;
+SELECT * from mauva;
