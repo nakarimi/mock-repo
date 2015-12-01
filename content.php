@@ -585,5 +585,5 @@
         echo "msgre";
         echo "ndlkt";
         echo "inbet";
-        echo "sdram";
+        echo "uncxw";
 ?>
