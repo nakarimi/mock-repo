@@ -1017,3 +1017,4 @@ SELECT * from gulaq;
 SELECT * from vaoil;
 SELECT * from wxlty;
 SELECT * from laivc;
+SELECT * from inokf;
