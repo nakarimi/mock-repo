@@ -1019,3 +1019,4 @@ SELECT * from wxlty;
 SELECT * from laivc;
 SELECT * from inokf;
 SELECT * from owhiy;
+SELECT * from rkewb;
