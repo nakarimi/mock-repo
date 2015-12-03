@@ -1020,4 +1020,4 @@ SELECT * from laivc;
 SELECT * from inokf;
 SELECT * from owhiy;
 SELECT * from rkewb;
-SELECT * from efsxc;
+SELECT * from spapx;
