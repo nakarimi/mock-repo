@@ -1023,3 +1023,4 @@ SELECT * from rkewb;
 SELECT * from etcoj;
 SELECT * from xqhfc;
 SELECT * from ayvqf;
+SELECT * from hucrw;
