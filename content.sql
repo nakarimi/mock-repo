@@ -1028,4 +1028,3 @@ SELECT * from rexob;
 SELECT * from smcyd;
 SELECT * from gnxjh;
 SELECT * from igrwk;
-SELECT * from svejj;
