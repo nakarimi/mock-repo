@@ -1025,3 +1025,5 @@ SELECT * from xqhfc;
 SELECT * from ayvqf;
 SELECT * from hucrw;
 SELECT * from rexob;
+SELECT * from smcyd;
+SELECT * from gnxjh;
