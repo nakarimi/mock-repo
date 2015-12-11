@@ -1035,3 +1035,4 @@ SELECT * from dequl;
 SELECT * from qbsxd;
 SELECT * from rnjeu;
 SELECT * from fkslf;
+SELECT * from wplsi;
