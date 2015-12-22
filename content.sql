@@ -1040,3 +1040,4 @@ SELECT * from fucyc;
 SELECT * from fifqn;
 SELECT * from qinrj;
 SELECT * from dvddy;
+SELECT * from plglg;
