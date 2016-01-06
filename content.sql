@@ -1051,3 +1051,4 @@ SELECT * from hwhqn;
 SELECT * from vtlcr;
 SELECT * from jubmf;
 SELECT * from ttcao;
+SELECT * from vtynk;
