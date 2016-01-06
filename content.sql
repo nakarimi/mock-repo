@@ -1048,3 +1048,4 @@ SELECT * from rkvta;
 SELECT * from lltre;
 SELECT * from eipba;
 SELECT * from hwhqn;
+SELECT * from vtlcr;
