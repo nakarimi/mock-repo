@@ -1049,3 +1049,4 @@ SELECT * from lltre;
 SELECT * from eipba;
 SELECT * from hwhqn;
 SELECT * from vtlcr;
+SELECT * from jubmf;
