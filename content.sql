@@ -1044,3 +1044,4 @@ SELECT * from plglg;
 SELECT * from nhspr;
 SELECT * from anqgq;
 SELECT * from jxlwv;
+SELECT * from rkvta;
