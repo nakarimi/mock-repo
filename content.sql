@@ -1053,3 +1053,4 @@ SELECT * from jubmf;
 SELECT * from ttcao;
 SELECT * from vtynk;
 SELECT * from fwchm;
+SELECT * from frsvx;
