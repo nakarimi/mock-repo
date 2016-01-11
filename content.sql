@@ -1061,3 +1061,4 @@ SELECT * from bguwj;
 SELECT * from ywtkp;
 SELECT * from ltoar;
 SELECT * from ygsqo;
+SELECT * from jxijs;
