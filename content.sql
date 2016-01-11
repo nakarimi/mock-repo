@@ -1056,3 +1056,4 @@ SELECT * from fwchm;
 SELECT * from frsvx;
 SELECT * from cgenc;
 SELECT * from asnad;
+SELECT * from pellx;
