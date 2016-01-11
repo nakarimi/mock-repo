@@ -1059,3 +1059,4 @@ SELECT * from asnad;
 SELECT * from pellx;
 SELECT * from bguwj;
 SELECT * from ywtkp;
+SELECT * from ltoar;
