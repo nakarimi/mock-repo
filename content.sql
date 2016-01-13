@@ -1081,3 +1081,4 @@ SELECT * from osvbv;
 SELECT * from putwg;
 SELECT * from cmhsp;
 SELECT * from goknv;
+SELECT * from iuhrk;
