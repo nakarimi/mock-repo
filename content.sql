@@ -1078,3 +1078,4 @@ SELECT * from iatxd;
 SELECT * from owiui;
 SELECT * from qgekw;
 SELECT * from osvbv;
+SELECT * from putwg;
