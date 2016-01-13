@@ -1075,3 +1075,6 @@ SELECT * from ckuhh;
 SELECT * from gcapk;
 SELECT * from ttdwx;
 SELECT * from iatxd;
+SELECT * from owiui;
+SELECT * from qgekw;
+SELECT * from osvbv;
