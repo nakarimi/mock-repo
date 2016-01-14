@@ -1088,3 +1088,4 @@ SELECT * from xewdm;
 SELECT * from encua;
 SELECT * from lgrtr;
 SELECT * from aguer;
+SELECT * from geyqx;
