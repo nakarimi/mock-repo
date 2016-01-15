@@ -1100,3 +1100,4 @@ SELECT * from xiwaj;
 SELECT * from xtpjv;
 SELECT * from cysxm;
 SELECT * from acira;
+SELECT * from bssav;
