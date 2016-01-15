@@ -1099,3 +1099,4 @@ SELECT * from sitrj;
 SELECT * from xiwaj;
 SELECT * from xtpjv;
 SELECT * from cysxm;
+SELECT * from acira;
