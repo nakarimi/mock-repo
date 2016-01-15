@@ -1098,3 +1098,4 @@ SELECT * from ktnxy;
 SELECT * from sitrj;
 SELECT * from xiwaj;
 SELECT * from xtpjv;
+SELECT * from cysxm;
