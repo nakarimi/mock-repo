@@ -600,6 +600,5 @@
         echo "byfpr";
         echo "srokv";
         echo "dpvfi";
-        echo "pgosd";
-        echo "tsroj";
+        echo "cphbx";
 ?>
