@@ -1107,3 +1107,4 @@ SELECT * from qpils;
 SELECT * from nlmjb;
 SELECT * from yehvd;
 SELECT * from jbbxu;
+SELECT * from psnyh;
