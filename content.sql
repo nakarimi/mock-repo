@@ -1109,3 +1109,5 @@ SELECT * from yehvd;
 SELECT * from jbbxu;
 SELECT * from psnyh;
 SELECT * from sddyp;
+SELECT * from ltbjw;
+SELECT * from uoksn;
