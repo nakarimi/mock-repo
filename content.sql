@@ -1111,3 +1111,4 @@ SELECT * from psnyh;
 SELECT * from sddyp;
 SELECT * from ltbjw;
 SELECT * from uoksn;
+SELECT * from auofs;
