@@ -1115,3 +1115,4 @@ SELECT * from auofs;
 SELECT * from fexnc;
 SELECT * from pqmui;
 SELECT * from tmfuf;
+SELECT * from gkbxt;
