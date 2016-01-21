@@ -1117,3 +1117,4 @@ SELECT * from pqmui;
 SELECT * from tmfuf;
 SELECT * from gkbxt;
 SELECT * from dlwul;
+SELECT * from kfnol;
