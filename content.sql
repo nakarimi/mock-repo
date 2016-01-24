@@ -1121,4 +1121,4 @@ SELECT * from kfnol;
 SELECT * from tdcnx;
 SELECT * from nxxgj;
 SELECT * from epxqs;
-SELECT * from bibun;
+SELECT * from tjsbe;
