@@ -1123,3 +1123,4 @@ SELECT * from nxxgj;
 SELECT * from epxqs;
 SELECT * from tjsbe;
 SELECT * from dppqf;
+SELECT * from hmoxd;
