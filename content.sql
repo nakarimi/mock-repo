@@ -1129,3 +1129,4 @@ SELECT * from erwrl;
 SELECT * from vlnxc;
 SELECT * from xrpmx;
 SELECT * from efjkv;
+SELECT * from lrioe;
