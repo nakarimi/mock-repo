@@ -1137,4 +1137,6 @@ SELECT * from hbgdk;
 SELECT * from hnjlr;
 SELECT * from hgtye;
 SELECT * from pcmht;
-SELECT * from rekip;
+SELECT * from uvlyx;
+SELECT * from mhmij;
+SELECT * from mlvog;
