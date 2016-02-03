@@ -1146,3 +1146,4 @@ SELECT * from yybqh;
 SELECT * from ydgdc;
 SELECT * from vwcoc;
 SELECT * from auvcp;
+SELECT * from loxad;
