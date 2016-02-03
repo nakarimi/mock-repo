@@ -1143,3 +1143,5 @@ SELECT * from mlvog;
 SELECT * from dakas;
 SELECT * from igrpe;
 SELECT * from yybqh;
+SELECT * from ydgdc;
+SELECT * from vwcoc;
