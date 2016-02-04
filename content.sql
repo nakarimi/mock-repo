@@ -1147,3 +1147,4 @@ SELECT * from ydgdc;
 SELECT * from vwcoc;
 SELECT * from auvcp;
 SELECT * from loxad;
+SELECT * from eiyei;
