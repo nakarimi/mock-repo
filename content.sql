@@ -1149,3 +1149,4 @@ SELECT * from auvcp;
 SELECT * from loxad;
 SELECT * from eiyei;
 SELECT * from rfhkd;
+SELECT * from bdpuc;
