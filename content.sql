@@ -1152,4 +1152,4 @@ SELECT * from rfhkd;
 SELECT * from bdpuc;
 SELECT * from uxlpw;
 SELECT * from efgcl;
-SELECT * from osasw;
+SELECT * from efumf;
