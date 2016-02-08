@@ -1156,3 +1156,4 @@ SELECT * from efumf;
 SELECT * from enoud;
 SELECT * from ponop;
 SELECT * from vtnln;
+SELECT * from hqtru;
