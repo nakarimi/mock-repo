@@ -1165,3 +1165,4 @@ SELECT * from anckl;
 SELECT * from hwyed;
 SELECT * from wceal;
 SELECT * from ddjpr;
+SELECT * from kilqt;
