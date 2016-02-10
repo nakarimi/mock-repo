@@ -1160,4 +1160,6 @@ SELECT * from hqtru;
 SELECT * from teaat;
 SELECT * from wqvhc;
 SELECT * from khuny;
-SELECT * from pxwcb;
+SELECT * from evqfa;
+SELECT * from anckl;
+SELECT * from hwyed;
