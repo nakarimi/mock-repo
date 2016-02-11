@@ -1170,3 +1170,4 @@ SELECT * from hemqh;
 SELECT * from vsyud;
 SELECT * from xgonf;
 SELECT * from ydqdd;
+SELECT * from whojw;
