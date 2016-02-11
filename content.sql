@@ -1168,3 +1168,4 @@ SELECT * from ddjpr;
 SELECT * from kilqt;
 SELECT * from hemqh;
 SELECT * from vsyud;
+SELECT * from xgonf;
