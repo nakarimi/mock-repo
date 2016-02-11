@@ -1166,3 +1166,5 @@ SELECT * from hwyed;
 SELECT * from wceal;
 SELECT * from ddjpr;
 SELECT * from kilqt;
+SELECT * from hemqh;
+SELECT * from vsyud;
