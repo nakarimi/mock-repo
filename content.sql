@@ -1174,3 +1174,6 @@ SELECT * from whojw;
 SELECT * from elbvf;
 SELECT * from bkker;
 SELECT * from yafxh;
+SELECT * from noxut;
+SELECT * from xwubu;
+SELECT * from wywfb;
