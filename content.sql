@@ -1178,3 +1178,5 @@ SELECT * from noxut;
 SELECT * from xwubu;
 SELECT * from wywfb;
 SELECT * from juujh;
+SELECT * from pfotm;
+SELECT * from vvmpp;
