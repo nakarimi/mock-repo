@@ -1182,3 +1182,4 @@ SELECT * from pfotm;
 SELECT * from vvmpp;
 SELECT * from ieevd;
 SELECT * from ukgol;
+SELECT * from nkskt;
