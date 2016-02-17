@@ -1184,3 +1184,4 @@ SELECT * from ieevd;
 SELECT * from ukgol;
 SELECT * from nkskt;
 SELECT * from tlyua;
+SELECT * from xchaa;
