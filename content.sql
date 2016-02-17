@@ -1186,3 +1186,4 @@ SELECT * from nkskt;
 SELECT * from tlyua;
 SELECT * from xchaa;
 SELECT * from pagao;
+SELECT * from qwied;
