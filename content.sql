@@ -1189,3 +1189,4 @@ SELECT * from pagao;
 SELECT * from qwied;
 SELECT * from sbnmb;
 SELECT * from dvhwm;
+SELECT * from uwcgm;
