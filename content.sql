@@ -1192,3 +1192,4 @@ SELECT * from dvhwm;
 SELECT * from uwcgm;
 SELECT * from ydkvi;
 SELECT * from tnikl;
+SELECT * from hxmqc;
