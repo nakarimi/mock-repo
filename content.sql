@@ -1199,3 +1199,4 @@ SELECT * from gkatf;
 SELECT * from tsaeg;
 SELECT * from djfmp;
 SELECT * from jhdxj;
+SELECT * from njwmk;
