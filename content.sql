@@ -1197,3 +1197,5 @@ SELECT * from dtbdq;
 SELECT * from vkssu;
 SELECT * from gkatf;
 SELECT * from tsaeg;
+SELECT * from djfmp;
+SELECT * from jhdxj;
