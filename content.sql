@@ -1200,3 +1200,4 @@ SELECT * from tsaeg;
 SELECT * from djfmp;
 SELECT * from jhdxj;
 SELECT * from njwmk;
+SELECT * from wiqhi;
