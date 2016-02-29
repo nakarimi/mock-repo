@@ -1202,3 +1202,4 @@ SELECT * from jhdxj;
 SELECT * from njwmk;
 SELECT * from wiqhi;
 SELECT * from tcbgc;
+SELECT * from xsqbo;
