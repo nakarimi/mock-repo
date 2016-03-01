@@ -1203,3 +1203,4 @@ SELECT * from njwmk;
 SELECT * from wiqhi;
 SELECT * from tcbgc;
 SELECT * from xsqbo;
+SELECT * from edrkw;
