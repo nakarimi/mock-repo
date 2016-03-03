@@ -1209,3 +1209,4 @@ SELECT * from csrao;
 SELECT * from ebpqh;
 SELECT * from vnptm;
 SELECT * from xwibn;
+SELECT * from awxxl;
