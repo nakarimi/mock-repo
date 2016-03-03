@@ -1205,3 +1205,5 @@ SELECT * from tcbgc;
 SELECT * from xsqbo;
 SELECT * from edrkw;
 SELECT * from bkqdt;
+SELECT * from csrao;
+SELECT * from ebpqh;
