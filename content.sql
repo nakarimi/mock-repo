@@ -1212,3 +1212,4 @@ SELECT * from xwibn;
 SELECT * from awxxl;
 SELECT * from gqhkf;
 SELECT * from jfjiu;
+SELECT * from reckn;
