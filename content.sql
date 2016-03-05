@@ -1215,3 +1215,4 @@ SELECT * from jfjiu;
 SELECT * from reckn;
 SELECT * from ipbdy;
 SELECT * from yyrlh;
+SELECT * from oqixt;
