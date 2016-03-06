@@ -1218,3 +1218,4 @@ SELECT * from yyrlh;
 SELECT * from oqixt;
 SELECT * from tmwsw;
 SELECT * from vyesd;
+SELECT * from bnwvl;
