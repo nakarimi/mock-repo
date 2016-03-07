@@ -660,5 +660,4 @@
         echo "yhhfv";
         echo "dbesh";
         echo "vinfo";
-        echo "whtgk";
 ?>
