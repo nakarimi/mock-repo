@@ -1219,3 +1219,4 @@ SELECT * from oqixt;
 SELECT * from tmwsw;
 SELECT * from vyesd;
 SELECT * from bnwvl;
+SELECT * from dtxpl;
