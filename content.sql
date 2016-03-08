@@ -1221,3 +1221,4 @@ SELECT * from vyesd;
 SELECT * from bnwvl;
 SELECT * from dtxpl;
 SELECT * from mdpos;
+SELECT * from jxwqo;
