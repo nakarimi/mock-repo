@@ -1224,3 +1224,4 @@ SELECT * from mdpos;
 SELECT * from jxwqo;
 SELECT * from gembr;
 SELECT * from lnmll;
+SELECT * from jdcue;
