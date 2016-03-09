@@ -1226,3 +1226,4 @@ SELECT * from gembr;
 SELECT * from lnmll;
 SELECT * from jdcue;
 SELECT * from uxesx;
+SELECT * from sxlnr;
