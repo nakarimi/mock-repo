@@ -1227,3 +1227,4 @@ SELECT * from lnmll;
 SELECT * from jdcue;
 SELECT * from uxesx;
 SELECT * from sxlnr;
+SELECT * from tfctw;
