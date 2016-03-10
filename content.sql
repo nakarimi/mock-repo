@@ -1230,3 +1230,4 @@ SELECT * from sxlnr;
 SELECT * from tfctw;
 SELECT * from aenpm;
 SELECT * from dfgqm;
+SELECT * from gwnfi;
