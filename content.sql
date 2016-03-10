@@ -1233,3 +1233,4 @@ SELECT * from dfgqm;
 SELECT * from gwnfi;
 SELECT * from tligy;
 SELECT * from numae;
+SELECT * from ihsil;
