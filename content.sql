@@ -1234,3 +1234,4 @@ SELECT * from gwnfi;
 SELECT * from tligy;
 SELECT * from numae;
 SELECT * from ihsil;
+SELECT * from uwkuq;
