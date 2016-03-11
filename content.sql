@@ -1236,3 +1236,4 @@ SELECT * from numae;
 SELECT * from ihsil;
 SELECT * from uwkuq;
 SELECT * from diurk;
+SELECT * from hgfrf;
