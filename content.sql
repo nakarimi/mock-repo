@@ -1240,3 +1240,4 @@ SELECT * from hgfrf;
 SELECT * from dojae;
 SELECT * from pkjtd;
 SELECT * from vwmss;
+SELECT * from rqhmp;
