@@ -1238,3 +1238,4 @@ SELECT * from uwkuq;
 SELECT * from diurk;
 SELECT * from hgfrf;
 SELECT * from dojae;
+SELECT * from pkjtd;
