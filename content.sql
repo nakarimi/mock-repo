@@ -1241,3 +1241,8 @@ SELECT * from dojae;
 SELECT * from pkjtd;
 SELECT * from vwmss;
 SELECT * from rqhmp;
+SELECT * from sinmn;
+SELECT * from vpuid;
+SELECT * from wvcum;
+SELECT * from fmbrs;
+SELECT * from cddes;
