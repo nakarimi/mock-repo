@@ -1251,3 +1251,4 @@ SELECT * from dtisb;
 SELECT * from tidvr;
 SELECT * from mspuw;
 SELECT * from tqkme;
+SELECT * from pauqf;
