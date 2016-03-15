@@ -1247,3 +1247,4 @@ SELECT * from wvcum;
 SELECT * from fmbrs;
 SELECT * from cddes;
 SELECT * from ofycc;
+SELECT * from dtisb;
