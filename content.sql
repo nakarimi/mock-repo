@@ -1258,3 +1258,7 @@ SELECT * from glpqq;
 SELECT * from rvjwh;
 SELECT * from kjkxb;
 SELECT * from jhfam;
+SELECT * from ytbmx;
+SELECT * from ocxen;
+SELECT * from skanq;
+SELECT * from sclko;
