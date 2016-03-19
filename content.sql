@@ -1262,3 +1262,4 @@ SELECT * from ytbmx;
 SELECT * from ocxen;
 SELECT * from skanq;
 SELECT * from sclko;
+SELECT * from gdtev;
