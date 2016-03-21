@@ -1263,3 +1263,4 @@ SELECT * from ocxen;
 SELECT * from skanq;
 SELECT * from sclko;
 SELECT * from gdtev;
+SELECT * from aufce;
