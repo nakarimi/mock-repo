@@ -1264,3 +1264,6 @@ SELECT * from skanq;
 SELECT * from sclko;
 SELECT * from gdtev;
 SELECT * from aufce;
+SELECT * from hmdfb;
+SELECT * from aejsi;
+SELECT * from ehtly;
