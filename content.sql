@@ -1271,3 +1271,4 @@ SELECT * from mkmfw;
 SELECT * from qrphe;
 SELECT * from vedeq;
 SELECT * from jehcr;
+SELECT * from hylus;
