@@ -1273,3 +1273,4 @@ SELECT * from vedeq;
 SELECT * from jehcr;
 SELECT * from hylus;
 SELECT * from rilup;
+SELECT * from ymrsp;
