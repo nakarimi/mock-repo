@@ -1278,3 +1278,5 @@ SELECT * from eieag;
 SELECT * from qapji;
 SELECT * from nrxed;
 SELECT * from eytqa;
+SELECT * from xgoad;
+SELECT * from orrmk;
