@@ -1287,3 +1287,4 @@ SELECT * from yxdtx;
 SELECT * from wcjto;
 SELECT * from rvxyb;
 SELECT * from fdykf;
+SELECT * from dinic;
