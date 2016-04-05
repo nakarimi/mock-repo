@@ -1284,3 +1284,6 @@ SELECT * from vrwqc;
 SELECT * from jcsha;
 SELECT * from ofmvi;
 SELECT * from yxdtx;
+SELECT * from wcjto;
+SELECT * from rvxyb;
+SELECT * from fdykf;
