@@ -1293,3 +1293,4 @@ SELECT * from ngyqt;
 SELECT * from erlqb;
 SELECT * from jyofo;
 SELECT * from gxjvh;
+SELECT * from obpok;
