@@ -1289,3 +1289,4 @@ SELECT * from rvxyb;
 SELECT * from fdykf;
 SELECT * from dinic;
 SELECT * from jmuew;
+SELECT * from ngyqt;
