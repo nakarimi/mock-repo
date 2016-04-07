@@ -1294,3 +1294,5 @@ SELECT * from erlqb;
 SELECT * from jyofo;
 SELECT * from gxjvh;
 SELECT * from obpok;
+SELECT * from asghw;
+SELECT * from pmrki;
