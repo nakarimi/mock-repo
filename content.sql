@@ -1296,3 +1296,4 @@ SELECT * from gxjvh;
 SELECT * from obpok;
 SELECT * from asghw;
 SELECT * from pmrki;
+SELECT * from ggvfi;
