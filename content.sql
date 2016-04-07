@@ -1299,3 +1299,4 @@ SELECT * from pmrki;
 SELECT * from ggvfi;
 SELECT * from umgrk;
 SELECT * from pmqtc;
+SELECT * from cadsg;
