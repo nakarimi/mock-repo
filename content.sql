@@ -1301,3 +1301,6 @@ SELECT * from umgrk;
 SELECT * from pmqtc;
 SELECT * from cadsg;
 SELECT * from tpunt;
+SELECT * from xbonr;
+SELECT * from dxeyu;
+SELECT * from dmbfd;
