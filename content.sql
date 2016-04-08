@@ -1304,3 +1304,4 @@ SELECT * from tpunt;
 SELECT * from xbonr;
 SELECT * from dxeyu;
 SELECT * from dmbfd;
+SELECT * from koqvv;
