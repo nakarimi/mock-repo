@@ -1310,3 +1310,7 @@ SELECT * from qecyo;
 SELECT * from vfxia;
 SELECT * from fojhd;
 SELECT * from sfgro;
+SELECT * from gpgan;
+SELECT * from uappa;
+SELECT * from pjcjm;
+SELECT * from tpdkk;
