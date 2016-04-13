@@ -1318,3 +1318,4 @@ SELECT * from wcate;
 SELECT * from ggmch;
 SELECT * from qkfkl;
 SELECT * from opcfx;
+SELECT * from jfkcf;
