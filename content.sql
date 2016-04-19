@@ -1325,3 +1325,4 @@ SELECT * from mrybm;
 SELECT * from kmlbn;
 SELECT * from lqfec;
 SELECT * from rcmxv;
+SELECT * from ogsdy;
