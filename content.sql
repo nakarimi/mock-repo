@@ -1323,3 +1323,4 @@ SELECT * from okiyw;
 SELECT * from ujhra;
 SELECT * from mrybm;
 SELECT * from kmlbn;
+SELECT * from lqfec;
