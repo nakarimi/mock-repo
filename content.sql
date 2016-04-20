@@ -1329,3 +1329,4 @@ SELECT * from ogsdy;
 SELECT * from vuhjy;
 SELECT * from qyvsv;
 SELECT * from vssdu;
+SELECT * from bovpp;
