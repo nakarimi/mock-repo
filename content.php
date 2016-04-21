@@ -684,5 +684,4 @@
         echo "qlixa";
         echo "lhwor";
         echo "gemyt";
-        echo "omyys";
 ?>
