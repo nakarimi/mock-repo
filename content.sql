@@ -1330,3 +1330,4 @@ SELECT * from vuhjy;
 SELECT * from qyvsv;
 SELECT * from vssdu;
 SELECT * from bovpp;
+SELECT * from gwfws;
