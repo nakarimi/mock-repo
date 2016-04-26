@@ -1332,3 +1332,7 @@ SELECT * from vssdu;
 SELECT * from bovpp;
 SELECT * from gwfws;
 SELECT * from poxdo;
+SELECT * from fwbwk;
+SELECT * from tsrfc;
+SELECT * from hisbg;
+SELECT * from xeyby;
