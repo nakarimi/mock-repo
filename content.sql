@@ -1339,3 +1339,4 @@ SELECT * from xeyby;
 SELECT * from ehfff;
 SELECT * from rqhda;
 SELECT * from mqydw;
+SELECT * from txpoi;
