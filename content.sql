@@ -1341,3 +1341,4 @@ SELECT * from rqhda;
 SELECT * from mqydw;
 SELECT * from txpoi;
 SELECT * from vofxb;
+SELECT * from tplfk;
