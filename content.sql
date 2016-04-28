@@ -1344,3 +1344,4 @@ SELECT * from vofxb;
 SELECT * from tplfk;
 SELECT * from dtlle;
 SELECT * from nlihu;
+SELECT * from pkeqw;
