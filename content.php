@@ -696,5 +696,4 @@
         echo "htdib";
         echo "pfcjx";
         echo "qfcqy";
-        echo "luciv";
 ?>
