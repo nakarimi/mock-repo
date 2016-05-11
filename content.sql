@@ -1347,3 +1347,4 @@ SELECT * from nlihu;
 SELECT * from pkeqw;
 SELECT * from ujtup;
 SELECT * from vluvc;
+SELECT * from xjnpe;
