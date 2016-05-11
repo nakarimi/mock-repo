@@ -1345,3 +1345,4 @@ SELECT * from tplfk;
 SELECT * from dtlle;
 SELECT * from nlihu;
 SELECT * from pkeqw;
+SELECT * from ujtup;
