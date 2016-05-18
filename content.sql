@@ -1355,3 +1355,4 @@ SELECT * from etymw;
 SELECT * from jwjlp;
 SELECT * from jvprd;
 SELECT * from simec;
+SELECT * from vcauf;
