@@ -1354,3 +1354,4 @@ SELECT * from uhrbu;
 SELECT * from etymw;
 SELECT * from jwjlp;
 SELECT * from jvprd;
+SELECT * from simec;
