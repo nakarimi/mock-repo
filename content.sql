@@ -1352,3 +1352,4 @@ SELECT * from tboht;
 SELECT * from orwvq;
 SELECT * from uhrbu;
 SELECT * from etymw;
+SELECT * from jwjlp;
