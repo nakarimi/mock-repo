@@ -1357,3 +1357,5 @@ SELECT * from jvprd;
 SELECT * from simec;
 SELECT * from vcauf;
 SELECT * from vohlp;
+SELECT * from abjnk;
+SELECT * from gatev;
