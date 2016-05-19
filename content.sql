@@ -1359,3 +1359,4 @@ SELECT * from vcauf;
 SELECT * from vohlp;
 SELECT * from abjnk;
 SELECT * from gatev;
+SELECT * from knmok;
