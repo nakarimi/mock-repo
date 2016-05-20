@@ -1360,3 +1360,4 @@ SELECT * from vohlp;
 SELECT * from abjnk;
 SELECT * from gatev;
 SELECT * from knmok;
+SELECT * from tcqqt;
