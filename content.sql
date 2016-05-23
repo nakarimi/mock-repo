@@ -1362,3 +1362,4 @@ SELECT * from gatev;
 SELECT * from knmok;
 SELECT * from tcqqt;
 SELECT * from thwbq;
+SELECT * from yiofw;
