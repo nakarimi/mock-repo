@@ -1361,3 +1361,4 @@ SELECT * from abjnk;
 SELECT * from gatev;
 SELECT * from knmok;
 SELECT * from tcqqt;
+SELECT * from thwbq;
