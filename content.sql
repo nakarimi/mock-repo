@@ -1363,3 +1363,6 @@ SELECT * from knmok;
 SELECT * from tcqqt;
 SELECT * from thwbq;
 SELECT * from yiofw;
+SELECT * from kulgh;
+SELECT * from wapwt;
+SELECT * from ndgqn;
