@@ -1367,3 +1367,5 @@ SELECT * from kulgh;
 SELECT * from wapwt;
 SELECT * from ndgqn;
 SELECT * from tohio;
+SELECT * from eweea;
+SELECT * from xqpao;
