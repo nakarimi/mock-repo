@@ -1370,3 +1370,4 @@ SELECT * from tohio;
 SELECT * from eweea;
 SELECT * from xqpao;
 SELECT * from ktwiu;
+SELECT * from snuhj;
