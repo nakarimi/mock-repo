@@ -1376,3 +1376,4 @@ SELECT * from jlmfr;
 SELECT * from hawep;
 SELECT * from uuyig;
 SELECT * from isklr;
+SELECT * from nwlqc;
