@@ -1379,3 +1379,4 @@ SELECT * from isklr;
 SELECT * from nwlqc;
 SELECT * from tylbl;
 SELECT * from uoaqb;
+SELECT * from fswli;
