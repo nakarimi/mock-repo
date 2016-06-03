@@ -1381,3 +1381,6 @@ SELECT * from tylbl;
 SELECT * from uoaqb;
 SELECT * from fswli;
 SELECT * from sstqf;
+SELECT * from savni;
+SELECT * from hmpmc;
+SELECT * from xdlxh;
