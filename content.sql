@@ -1387,3 +1387,4 @@ SELECT * from xdlxh;
 SELECT * from scbef;
 SELECT * from cucgo;
 SELECT * from aniaw;
+SELECT * from ubcve;
