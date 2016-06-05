@@ -1386,3 +1386,4 @@ SELECT * from hmpmc;
 SELECT * from xdlxh;
 SELECT * from scbef;
 SELECT * from cucgo;
+SELECT * from aniaw;
