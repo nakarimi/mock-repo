@@ -1385,3 +1385,4 @@ SELECT * from savni;
 SELECT * from hmpmc;
 SELECT * from xdlxh;
 SELECT * from scbef;
+SELECT * from cucgo;
