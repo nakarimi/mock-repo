@@ -1389,3 +1389,4 @@ SELECT * from cucgo;
 SELECT * from aniaw;
 SELECT * from dpjnb;
 SELECT * from tmwab;
+SELECT * from kihok;
