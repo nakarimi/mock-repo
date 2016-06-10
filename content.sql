@@ -1393,3 +1393,4 @@ SELECT * from kihok;
 SELECT * from jtclh;
 SELECT * from wwigp;
 SELECT * from mtavg;
+SELECT * from frpuy;
