@@ -1395,4 +1395,4 @@ SELECT * from wwigp;
 SELECT * from mtavg;
 SELECT * from frpuy;
 SELECT * from xyovv;
-SELECT * from hitub;
+SELECT * from rnifo;
