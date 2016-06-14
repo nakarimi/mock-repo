@@ -1397,3 +1397,4 @@ SELECT * from frpuy;
 SELECT * from xyovv;
 SELECT * from rnifo;
 SELECT * from eurcv;
+SELECT * from cfanw;
