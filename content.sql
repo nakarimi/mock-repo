@@ -1396,3 +1396,4 @@ SELECT * from mtavg;
 SELECT * from frpuy;
 SELECT * from xyovv;
 SELECT * from rnifo;
+SELECT * from eurcv;
