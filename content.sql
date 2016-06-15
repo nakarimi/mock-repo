@@ -1399,3 +1399,4 @@ SELECT * from rnifo;
 SELECT * from eurcv;
 SELECT * from cfanw;
 SELECT * from xeitc;
+SELECT * from wtjbl;
