@@ -1402,3 +1402,5 @@ SELECT * from xeitc;
 SELECT * from wtjbl;
 SELECT * from plibc;
 SELECT * from ylxho;
+SELECT * from wdoak;
+SELECT * from fkcpy;
