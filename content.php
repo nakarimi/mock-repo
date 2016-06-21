@@ -724,5 +724,5 @@
         echo "lfrrb";
         echo "idhpl";
         echo "tbfff";
-        echo "pnoct";
+        echo "fujxa";
 ?>

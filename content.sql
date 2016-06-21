@@ -1406,3 +1406,4 @@ SELECT * from wdoak;
 SELECT * from fkcpy;
 SELECT * from hsshf;
 SELECT * from vxsmb;
+SELECT * from ekjpr;
