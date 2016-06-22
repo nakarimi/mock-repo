@@ -1407,3 +1407,4 @@ SELECT * from fkcpy;
 SELECT * from hsshf;
 SELECT * from vxsmb;
 SELECT * from ekjpr;
+SELECT * from nnyrw;
