@@ -1412,3 +1412,4 @@ SELECT * from pphci;
 SELECT * from gvopk;
 SELECT * from gsghk;
 SELECT * from lxaqm;
+SELECT * from aiffh;
