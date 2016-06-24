@@ -1413,3 +1413,4 @@ SELECT * from gvopk;
 SELECT * from gsghk;
 SELECT * from lxaqm;
 SELECT * from aiffh;
+SELECT * from djviu;
