@@ -1422,3 +1422,4 @@ SELECT * from fmtmn;
 SELECT * from xwmbs;
 SELECT * from edwng;
 SELECT * from iarke;
+SELECT * from svigk;
