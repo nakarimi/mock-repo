@@ -1420,3 +1420,4 @@ SELECT * from vbhtv;
 SELECT * from ngjsu;
 SELECT * from fmtmn;
 SELECT * from xwmbs;
+SELECT * from edwng;
