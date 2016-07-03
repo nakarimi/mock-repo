@@ -1427,3 +1427,5 @@ SELECT * from ywidp;
 SELECT * from njqoo;
 SELECT * from iiwxn;
 SELECT * from qswbd;
+SELECT * from ntpob;
+SELECT * from ctdte;
