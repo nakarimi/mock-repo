@@ -1432,3 +1432,4 @@ SELECT * from ctdte;
 SELECT * from oiloi;
 SELECT * from sooyw;
 SELECT * from efxxx;
+SELECT * from uajib;
