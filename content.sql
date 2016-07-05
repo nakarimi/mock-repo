@@ -1429,3 +1429,4 @@ SELECT * from iiwxn;
 SELECT * from qswbd;
 SELECT * from ntpob;
 SELECT * from ctdte;
+SELECT * from oiloi;
