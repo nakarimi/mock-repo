@@ -1437,3 +1437,4 @@ SELECT * from nmelo;
 SELECT * from ravqt;
 SELECT * from dhokr;
 SELECT * from fyjya;
+SELECT * from mhwgi;
