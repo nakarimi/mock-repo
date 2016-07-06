@@ -1433,3 +1433,5 @@ SELECT * from oiloi;
 SELECT * from sooyw;
 SELECT * from efxxx;
 SELECT * from uajib;
+SELECT * from nmelo;
+SELECT * from ravqt;
