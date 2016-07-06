@@ -1435,3 +1435,5 @@ SELECT * from efxxx;
 SELECT * from uajib;
 SELECT * from nmelo;
 SELECT * from ravqt;
+SELECT * from dhokr;
+SELECT * from fyjya;
