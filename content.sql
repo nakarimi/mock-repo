@@ -1439,3 +1439,4 @@ SELECT * from dhokr;
 SELECT * from fyjya;
 SELECT * from mhwgi;
 SELECT * from mwgxc;
+SELECT * from hwcpg;
