@@ -1441,3 +1441,4 @@ SELECT * from mhwgi;
 SELECT * from mwgxc;
 SELECT * from hwcpg;
 SELECT * from ujbtv;
+SELECT * from myupi;
