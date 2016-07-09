@@ -1442,3 +1442,6 @@ SELECT * from mwgxc;
 SELECT * from hwcpg;
 SELECT * from ujbtv;
 SELECT * from myupi;
+SELECT * from kkpjw;
+SELECT * from ljjvt;
+SELECT * from renah;
