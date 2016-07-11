@@ -746,5 +746,4 @@
         echo "qpntd";
         echo "bagrq";
         echo "rnrqm";
-        echo "tpfqx";
 ?>
