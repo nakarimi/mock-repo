@@ -1448,3 +1448,4 @@ SELECT * from renah;
 SELECT * from pmemh;
 SELECT * from lsrxf;
 SELECT * from gslfn;
+SELECT * from pypan;
