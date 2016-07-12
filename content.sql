@@ -1451,3 +1451,4 @@ SELECT * from gslfn;
 SELECT * from pypan;
 SELECT * from ubmqd;
 SELECT * from jiggq;
+SELECT * from lwacf;
