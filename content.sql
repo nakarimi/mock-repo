@@ -1452,3 +1452,4 @@ SELECT * from pypan;
 SELECT * from ubmqd;
 SELECT * from jiggq;
 SELECT * from lwacf;
+SELECT * from uhiqa;
