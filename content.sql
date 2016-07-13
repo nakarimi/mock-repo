@@ -1457,3 +1457,4 @@ SELECT * from vejbp;
 SELECT * from hvpbt;
 SELECT * from ajase;
 SELECT * from ayxth;
+SELECT * from bkvcd;
