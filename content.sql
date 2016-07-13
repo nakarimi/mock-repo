@@ -1458,3 +1458,4 @@ SELECT * from hvpbt;
 SELECT * from ajase;
 SELECT * from ayxth;
 SELECT * from bkvcd;
+SELECT * from lsnuf;
