@@ -1461,3 +1461,5 @@ SELECT * from bkvcd;
 SELECT * from qsomo;
 SELECT * from sesxj;
 SELECT * from gnchc;
+SELECT * from nxqcl;
+SELECT * from ljlhv;
