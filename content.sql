@@ -1464,3 +1464,4 @@ SELECT * from gnchc;
 SELECT * from nxqcl;
 SELECT * from ljlhv;
 SELECT * from nhood;
+SELECT * from ktale;
