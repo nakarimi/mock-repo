@@ -1471,3 +1471,4 @@ SELECT * from rlbfk;
 SELECT * from dyvvo;
 SELECT * from sijtf;
 SELECT * from cgpgs;
+SELECT * from vxlxk;
