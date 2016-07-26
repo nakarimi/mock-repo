@@ -1472,3 +1472,4 @@ SELECT * from dyvvo;
 SELECT * from sijtf;
 SELECT * from cgpgs;
 SELECT * from vxlxk;
+SELECT * from abowr;
