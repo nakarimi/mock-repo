@@ -1473,3 +1473,4 @@ SELECT * from sijtf;
 SELECT * from cgpgs;
 SELECT * from vxlxk;
 SELECT * from abowr;
+SELECT * from caeaf;
