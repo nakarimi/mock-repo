@@ -1481,3 +1481,4 @@ SELECT * from ffqxf;
 SELECT * from kcmml;
 SELECT * from ckgud;
 SELECT * from nxxie;
+SELECT * from ryftx;
