@@ -1483,3 +1483,4 @@ SELECT * from ckgud;
 SELECT * from nxxie;
 SELECT * from ryftx;
 SELECT * from gwtcl;
+SELECT * from yrijo;
