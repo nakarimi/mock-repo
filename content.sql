@@ -1489,3 +1489,4 @@ SELECT * from dsibp;
 SELECT * from jqico;
 SELECT * from whtxd;
 SELECT * from fwghv;
+SELECT * from mkoha;
