@@ -1487,3 +1487,4 @@ SELECT * from yrijo;
 SELECT * from niopu;
 SELECT * from dsibp;
 SELECT * from jqico;
+SELECT * from whtxd;
