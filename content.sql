@@ -1493,3 +1493,4 @@ SELECT * from mkoha;
 SELECT * from csopx;
 SELECT * from dnepe;
 SELECT * from plfrq;
+SELECT * from llvur;
