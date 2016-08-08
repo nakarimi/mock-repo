@@ -1491,4 +1491,5 @@ SELECT * from whtxd;
 SELECT * from fwghv;
 SELECT * from mkoha;
 SELECT * from csopx;
-SELECT * from nbgnf;
+SELECT * from dnepe;
+SELECT * from plfrq;
