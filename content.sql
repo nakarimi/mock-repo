@@ -1494,3 +1494,4 @@ SELECT * from csopx;
 SELECT * from dnepe;
 SELECT * from plfrq;
 SELECT * from llvur;
+SELECT * from erlqk;
