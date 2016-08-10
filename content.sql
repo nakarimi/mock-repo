@@ -1496,3 +1496,4 @@ SELECT * from plfrq;
 SELECT * from llvur;
 SELECT * from erlqk;
 SELECT * from tfhaj;
+SELECT * from hqeyt;
