@@ -1501,3 +1501,4 @@ SELECT * from tpgke;
 SELECT * from wktat;
 SELECT * from htppt;
 SELECT * from hgaxb;
+SELECT * from bcqwf;
