@@ -1503,3 +1503,4 @@ SELECT * from htppt;
 SELECT * from hgaxb;
 SELECT * from ucqlf;
 SELECT * from bcsnn;
+SELECT * from wvtbp;
