@@ -1506,3 +1506,4 @@ SELECT * from bcsnn;
 SELECT * from wvtbp;
 SELECT * from nxwsl;
 SELECT * from bgyya;
+SELECT * from alfpy;
