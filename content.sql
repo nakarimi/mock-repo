@@ -1508,3 +1508,4 @@ SELECT * from nxwsl;
 SELECT * from bgyya;
 SELECT * from alfpy;
 SELECT * from osbjm;
+SELECT * from vornv;
