@@ -1510,3 +1510,4 @@ SELECT * from alfpy;
 SELECT * from osbjm;
 SELECT * from vornv;
 SELECT * from uhxog;
+SELECT * from lqosc;

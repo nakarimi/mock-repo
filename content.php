@@ -762,5 +762,4 @@
         echo "ksnnl";
         echo "terou";
         echo "cohar";
-        echo "desbh";
 ?>
