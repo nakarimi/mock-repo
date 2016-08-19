@@ -1515,4 +1515,3 @@ SELECT * from hhxab;
 SELECT * from psacw;
 SELECT * from pouus;
 SELECT * from wsndl;
-SELECT * from ldcml;
