@@ -1516,3 +1516,4 @@ SELECT * from psacw;
 SELECT * from pouus;
 SELECT * from wsndl;
 SELECT * from rewec;
+SELECT * from amsbd;
