@@ -1514,4 +1514,4 @@ SELECT * from lqosc;
 SELECT * from hhxab;
 SELECT * from psacw;
 SELECT * from pouus;
-SELECT * from fyyko;
+SELECT * from wsndl;
