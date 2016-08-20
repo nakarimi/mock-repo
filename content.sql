@@ -1517,3 +1517,6 @@ SELECT * from pouus;
 SELECT * from wsndl;
 SELECT * from rewec;
 SELECT * from amsbd;
+SELECT * from wnhmi;
+SELECT * from xeaoq;
+SELECT * from vacxu;
