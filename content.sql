@@ -1520,3 +1520,4 @@ SELECT * from amsbd;
 SELECT * from wnhmi;
 SELECT * from xeaoq;
 SELECT * from vacxu;
+SELECT * from hnsaj;
