@@ -1521,3 +1521,4 @@ SELECT * from wnhmi;
 SELECT * from xeaoq;
 SELECT * from vacxu;
 SELECT * from hnsaj;
+SELECT * from buksp;
