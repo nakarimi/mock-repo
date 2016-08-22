@@ -1522,4 +1522,4 @@ SELECT * from xeaoq;
 SELECT * from vacxu;
 SELECT * from hnsaj;
 SELECT * from buksp;
-SELECT * from cmkby;
+SELECT * from knovr;
