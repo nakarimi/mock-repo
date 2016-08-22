@@ -1523,3 +1523,4 @@ SELECT * from vacxu;
 SELECT * from hnsaj;
 SELECT * from buksp;
 SELECT * from knovr;
+SELECT * from phxhl;
