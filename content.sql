@@ -1530,3 +1530,4 @@ SELECT * from thjpn;
 SELECT * from jvcep;
 SELECT * from dcwjn;
 SELECT * from kgtec;
+SELECT * from ddenl;
