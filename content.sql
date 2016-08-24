@@ -1536,3 +1536,4 @@ SELECT * from jhewy;
 SELECT * from nknoa;
 SELECT * from yqqkf;
 SELECT * from thcvs;
+SELECT * from wdysp;
