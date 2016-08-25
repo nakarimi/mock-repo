@@ -1547,4 +1547,4 @@ SELECT * from yijbl;
 SELECT * from wwdwq;
 SELECT * from hhxms;
 SELECT * from qkfmu;
-SELECT * from trnsr;
+SELECT * from mubdu;
