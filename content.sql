@@ -1551,3 +1551,4 @@ SELECT * from mubdu;
 SELECT * from wdhak;
 SELECT * from iwqbm;
 SELECT * from ykjma;
+SELECT * from ngvqf;
