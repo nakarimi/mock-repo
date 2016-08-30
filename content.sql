@@ -1559,3 +1559,4 @@ SELECT * from eowqp;
 SELECT * from hgfdp;
 SELECT * from drlmd;
 SELECT * from csera;
+SELECT * from ddaem;
