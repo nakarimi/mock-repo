@@ -1553,3 +1553,8 @@ SELECT * from iwqbm;
 SELECT * from ykjma;
 SELECT * from ngvqf;
 SELECT * from ooqof;
+SELECT * from ydcam;
+SELECT * from auhrf;
+SELECT * from eowqp;
+SELECT * from hgfdp;
+SELECT * from drlmd;
