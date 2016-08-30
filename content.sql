@@ -1560,3 +1560,4 @@ SELECT * from hgfdp;
 SELECT * from drlmd;
 SELECT * from csera;
 SELECT * from ddaem;
+SELECT * from wjbep;
