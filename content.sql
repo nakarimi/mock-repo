@@ -1567,3 +1567,4 @@ SELECT * from gyrvi;
 SELECT * from yohri;
 SELECT * from dihro;
 SELECT * from wulym;
+SELECT * from hwfqc;
