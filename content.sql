@@ -1574,3 +1574,4 @@ SELECT * from ispvo;
 SELECT * from qniff;
 SELECT * from gwfii;
 SELECT * from wulpn;
+SELECT * from byebo;
