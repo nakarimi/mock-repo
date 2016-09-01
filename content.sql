@@ -1575,3 +1575,4 @@ SELECT * from qniff;
 SELECT * from gwfii;
 SELECT * from wulpn;
 SELECT * from byebo;
+SELECT * from wannb;
