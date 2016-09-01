@@ -1577,3 +1577,5 @@ SELECT * from wulpn;
 SELECT * from byebo;
 SELECT * from wannb;
 SELECT * from kvakn;
+SELECT * from qfbhu;
+SELECT * from bjgvx;
