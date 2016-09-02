@@ -1582,3 +1582,4 @@ SELECT * from bjgvx;
 SELECT * from jgwlk;
 SELECT * from dooet;
 SELECT * from jftmv;
+SELECT * from pluow;
