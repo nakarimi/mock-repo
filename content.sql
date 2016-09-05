@@ -1583,3 +1583,8 @@ SELECT * from jgwlk;
 SELECT * from dooet;
 SELECT * from jftmv;
 SELECT * from pluow;
+SELECT * from wvsro;
+SELECT * from bdxxa;
+SELECT * from gxwgo;
+SELECT * from gojjf;
+SELECT * from vnpve;

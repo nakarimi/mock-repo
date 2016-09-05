@@ -795,6 +795,5 @@
         echo "dixac";
         echo "evwjo";
         echo "tdmcu";
-        echo "okjxp";
-        echo "yblth";
+        echo "btsud";
 ?>
