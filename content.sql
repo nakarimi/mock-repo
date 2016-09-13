@@ -1594,3 +1594,4 @@ SELECT * from rutdm;
 SELECT * from lskby;
 SELECT * from sthki;
 SELECT * from bvdvv;
+SELECT * from npykk;
