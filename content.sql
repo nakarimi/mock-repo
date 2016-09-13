@@ -1593,3 +1593,4 @@ SELECT * from ostxd;
 SELECT * from rutdm;
 SELECT * from lskby;
 SELECT * from sthki;
+SELECT * from bvdvv;
