@@ -1596,3 +1596,4 @@ SELECT * from sthki;
 SELECT * from bvdvv;
 SELECT * from npykk;
 SELECT * from pkqux;
+SELECT * from nblft;
