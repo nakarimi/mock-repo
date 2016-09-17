@@ -1599,3 +1599,5 @@ SELECT * from pkqux;
 SELECT * from nblft;
 SELECT * from hxtmf;
 SELECT * from sblir;
+SELECT * from tgnoa;
+SELECT * from ppcov;
