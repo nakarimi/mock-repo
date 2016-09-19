@@ -1601,3 +1601,4 @@ SELECT * from hxtmf;
 SELECT * from sblir;
 SELECT * from tgnoa;
 SELECT * from ppcov;
+SELECT * from pmakk;
