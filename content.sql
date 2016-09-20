@@ -1602,3 +1602,8 @@ SELECT * from sblir;
 SELECT * from tgnoa;
 SELECT * from ppcov;
 SELECT * from pmakk;
+SELECT * from fciiv;
+SELECT * from htixt;
+SELECT * from tlhby;
+SELECT * from fetnv;
+SELECT * from bitws;
