@@ -1607,3 +1607,4 @@ SELECT * from htixt;
 SELECT * from tlhby;
 SELECT * from fetnv;
 SELECT * from bitws;
+SELECT * from xtkhm;
