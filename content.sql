@@ -1613,3 +1613,5 @@ SELECT * from mbpdf;
 SELECT * from atccd;
 SELECT * from cthfw;
 SELECT * from babpx;
+SELECT * from yxawv;
+SELECT * from agbqd;
