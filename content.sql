@@ -1619,3 +1619,5 @@ SELECT * from cdbrh;
 SELECT * from xhisc;
 SELECT * from ppvbq;
 SELECT * from uudhm;
+SELECT * from tonfw;
+SELECT * from cwumq;
