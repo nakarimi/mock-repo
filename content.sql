@@ -1624,3 +1624,8 @@ SELECT * from cwumq;
 SELECT * from wvnlr;
 SELECT * from hvioh;
 SELECT * from lawgb;
+SELECT * from bbpww;
+SELECT * from vfwqb;
+SELECT * from mdjbr;
+SELECT * from ovktb;
+SELECT * from grjmm;
