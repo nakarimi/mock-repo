@@ -1631,3 +1631,4 @@ SELECT * from ovktb;
 SELECT * from grjmm;
 SELECT * from qkiqo;
 SELECT * from ikpyy;
+SELECT * from xotus;
