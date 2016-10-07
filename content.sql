@@ -1642,4 +1642,4 @@ SELECT * from pokrp;
 SELECT * from vvkwp;
 SELECT * from cijhc;
 SELECT * from nnumx;
-SELECT * from cjjlb;
+SELECT * from ifwiv;
