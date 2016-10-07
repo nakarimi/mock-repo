@@ -1641,4 +1641,4 @@ SELECT * from lihum;
 SELECT * from pokrp;
 SELECT * from vvkwp;
 SELECT * from cijhc;
-SELECT * from xgglh;
+SELECT * from nnumx;
