@@ -1645,3 +1645,4 @@ SELECT * from nnumx;
 SELECT * from ifwiv;
 SELECT * from gaoju;
 SELECT * from twnxf;
+SELECT * from qccym;
