@@ -1649,3 +1649,4 @@ SELECT * from qccym;
 SELECT * from sjbbl;
 SELECT * from bnelb;
 SELECT * from lnkwv;
+SELECT * from xryqn;
