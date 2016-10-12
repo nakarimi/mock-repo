@@ -1648,3 +1648,4 @@ SELECT * from twnxf;
 SELECT * from qccym;
 SELECT * from sjbbl;
 SELECT * from bnelb;
+SELECT * from lnkwv;
