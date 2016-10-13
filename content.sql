@@ -1652,3 +1652,4 @@ SELECT * from lnkwv;
 SELECT * from xryqn;
 SELECT * from sgbtr;
 SELECT * from oqadm;
+SELECT * from ynsyr;
