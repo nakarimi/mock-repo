@@ -1653,4 +1653,4 @@ SELECT * from xryqn;
 SELECT * from sgbtr;
 SELECT * from oqadm;
 SELECT * from ynsyr;
-SELECT * from hrswo;
+SELECT * from qnato;
