@@ -1654,3 +1654,7 @@ SELECT * from sgbtr;
 SELECT * from oqadm;
 SELECT * from ynsyr;
 SELECT * from qnato;
+SELECT * from kwtwn;
+SELECT * from flvbk;
+SELECT * from blchu;
+SELECT * from qlpbn;
