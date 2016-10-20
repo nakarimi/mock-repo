@@ -1661,3 +1661,4 @@ SELECT * from qlpbn;
 SELECT * from dwtte;
 SELECT * from mgfew;
 SELECT * from kuwun;
+SELECT * from coemo;
