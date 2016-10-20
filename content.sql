@@ -1658,3 +1658,5 @@ SELECT * from kwtwn;
 SELECT * from flvbk;
 SELECT * from blchu;
 SELECT * from qlpbn;
+SELECT * from dwtte;
+SELECT * from mgfew;
