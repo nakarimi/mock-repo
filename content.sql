@@ -1660,3 +1660,4 @@ SELECT * from blchu;
 SELECT * from qlpbn;
 SELECT * from dwtte;
 SELECT * from mgfew;
+SELECT * from kuwun;
