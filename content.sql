@@ -1663,3 +1663,8 @@ SELECT * from mgfew;
 SELECT * from kuwun;
 SELECT * from coemo;
 SELECT * from xkwin;
+SELECT * from ccocc;
+SELECT * from rlbfx;
+SELECT * from eadmf;
+SELECT * from xpewq;
+SELECT * from dwfgm;
