@@ -1673,3 +1673,4 @@ SELECT * from dufvd;
 SELECT * from rlsqy;
 SELECT * from kovun;
 SELECT * from psswb;
+SELECT * from svbko;
