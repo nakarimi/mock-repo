@@ -1675,3 +1675,4 @@ SELECT * from kovun;
 SELECT * from psswb;
 SELECT * from svbko;
 SELECT * from feqsl;
+SELECT * from ebuoy;
