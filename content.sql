@@ -1678,3 +1678,4 @@ SELECT * from feqsl;
 SELECT * from ebuoy;
 SELECT * from mrcap;
 SELECT * from fdyvg;
+SELECT * from qktve;
