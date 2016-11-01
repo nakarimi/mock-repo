@@ -1677,3 +1677,4 @@ SELECT * from svbko;
 SELECT * from feqsl;
 SELECT * from ebuoy;
 SELECT * from mrcap;
+SELECT * from fdyvg;
