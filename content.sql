@@ -1679,3 +1679,6 @@ SELECT * from ebuoy;
 SELECT * from mrcap;
 SELECT * from fdyvg;
 SELECT * from qktve;
+SELECT * from brlnc;
+SELECT * from txvrg;
+SELECT * from kherl;
