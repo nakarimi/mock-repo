@@ -1684,3 +1684,4 @@ SELECT * from txvrg;
 SELECT * from kherl;
 SELECT * from wiyum;
 SELECT * from qsofc;
+SELECT * from uiwjj;
