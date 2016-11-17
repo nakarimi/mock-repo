@@ -1688,3 +1688,4 @@ SELECT * from uiwjj;
 SELECT * from hmhib;
 SELECT * from rqpsg;
 SELECT * from gwoul;
+SELECT * from hkdme;
