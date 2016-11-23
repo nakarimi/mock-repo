@@ -1690,3 +1690,4 @@ SELECT * from rqpsg;
 SELECT * from gwoul;
 SELECT * from hkdme;
 SELECT * from ecyuh;
+SELECT * from xjtvn;

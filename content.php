@@ -885,5 +885,4 @@
         echo "vqien";
         echo "lujhg";
         echo "curno";
-        echo "tqlnp";
 ?>
