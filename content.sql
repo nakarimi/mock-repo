@@ -1693,3 +1693,4 @@ SELECT * from ecyuh;
 SELECT * from xjtvn;
 SELECT * from byuox;
 SELECT * from rbtew;
+SELECT * from exlqa;
