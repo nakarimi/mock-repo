@@ -1695,3 +1695,4 @@ SELECT * from byuox;
 SELECT * from rbtew;
 SELECT * from exlqa;
 SELECT * from vboes;
+SELECT * from nvbxp;
