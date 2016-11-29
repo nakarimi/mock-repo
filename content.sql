@@ -1707,3 +1707,4 @@ SELECT * from abinj;
 SELECT * from apfhu;
 SELECT * from tgtia;
 SELECT * from fdfev;
+SELECT * from thcpp;
