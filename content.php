@@ -889,6 +889,4 @@
         echo "agpbm";
         echo "qhnvj";
         echo "peobu";
-        echo "rkgen";
-        echo "wrrbs";
 ?>
