@@ -1704,3 +1704,4 @@ SELECT * from cvxkx;
 SELECT * from sxejy;
 SELECT * from owwwh;
 SELECT * from abinj;
+SELECT * from apfhu;
