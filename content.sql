@@ -1708,3 +1708,4 @@ SELECT * from apfhu;
 SELECT * from tgtia;
 SELECT * from fdfev;
 SELECT * from thcpp;
+SELECT * from drexf;
