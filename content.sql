@@ -1709,3 +1709,6 @@ SELECT * from tgtia;
 SELECT * from fdfev;
 SELECT * from thcpp;
 SELECT * from drexf;
+SELECT * from xjuxv;
+SELECT * from qnmoc;
+SELECT * from sqeog;
