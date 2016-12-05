@@ -1715,3 +1715,4 @@ SELECT * from sqeog;
 SELECT * from ylpik;
 SELECT * from vnvfq;
 SELECT * from viufc;
+SELECT * from cpqed;
