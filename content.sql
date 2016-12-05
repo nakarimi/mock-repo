@@ -1716,3 +1716,4 @@ SELECT * from ylpik;
 SELECT * from vnvfq;
 SELECT * from viufc;
 SELECT * from cpqed;
+SELECT * from viewa;
