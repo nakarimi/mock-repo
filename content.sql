@@ -1719,3 +1719,4 @@ SELECT * from cpqed;
 SELECT * from viewa;
 SELECT * from durhe;
 SELECT * from kjkne;
+SELECT * from oeuop;
