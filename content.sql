@@ -1724,3 +1724,4 @@ SELECT * from vxomw;
 SELECT * from vgxth;
 SELECT * from mjxlh;
 SELECT * from nasfl;
+SELECT * from mnopt;
