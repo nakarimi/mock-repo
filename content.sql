@@ -1725,4 +1725,7 @@ SELECT * from vgxth;
 SELECT * from mjxlh;
 SELECT * from nasfl;
 SELECT * from mnopt;
-SELECT * from phmak;
+SELECT * from ryfiy;
+SELECT * from aycuj;
+SELECT * from sufex;
+SELECT * from xjdqt;
