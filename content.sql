@@ -1729,4 +1729,4 @@ SELECT * from ryfiy;
 SELECT * from aycuj;
 SELECT * from sufex;
 SELECT * from xjdqt;
-SELECT * from kmsyr;
+SELECT * from uhlak;
