@@ -1730,4 +1730,4 @@ SELECT * from aycuj;
 SELECT * from sufex;
 SELECT * from xjdqt;
 SELECT * from uhlak;
-SELECT * from tlpiq;
+SELECT * from lqogs;
