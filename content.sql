@@ -1731,4 +1731,4 @@ SELECT * from sufex;
 SELECT * from xjdqt;
 SELECT * from uhlak;
 SELECT * from lqogs;
-SELECT * from dmrpc;
+SELECT * from mmagg;
