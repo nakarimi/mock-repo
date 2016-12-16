@@ -903,5 +903,4 @@
         echo "reuan";
         echo "byfvo";
         echo "vshod";
-        echo "kcobj";
 ?>
