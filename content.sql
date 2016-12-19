@@ -1732,3 +1732,4 @@ SELECT * from xjdqt;
 SELECT * from uhlak;
 SELECT * from lqogs;
 SELECT * from fqgyg;
+SELECT * from pibja;
