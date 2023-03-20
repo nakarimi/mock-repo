@@ -1741,3 +1741,4 @@ SELECT * from dkdaj;
 SELECT * from mgkrn;
 SELECT * from vbpuc;
 SELECT * from qvoxm;
+SELECT * from pmjsg;
