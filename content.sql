@@ -2226,3 +2226,4 @@ SELECT * from aoxsm;
 SELECT * from ndoil;
 SELECT * from unnaw;
 SELECT * from fwycq;
+SELECT * from oxico;
