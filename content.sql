@@ -1978,3 +1978,4 @@ SELECT * from dtpud;
 SELECT * from jiubn;
 SELECT * from gutco;
 SELECT * from iymkx;
+SELECT * from mpjra;
