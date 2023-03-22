@@ -906,4 +906,5 @@
         echo "wgtoh";
         echo "firkp";
         echo "onspn";
+        echo "rdidk";
 ?>
