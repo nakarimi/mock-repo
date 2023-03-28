@@ -1980,3 +1980,4 @@ SELECT * from gutco;
 SELECT * from iymkx;
 SELECT * from mpjra;
 SELECT * from dcdyh;
+SELECT * from lmgac;
