@@ -2230,3 +2230,4 @@ SELECT * from oxico;
 SELECT * from vfxfn;
 SELECT * from xjpiw;
 SELECT * from nwjlo;
+SELECT * from ctfso;
