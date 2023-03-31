@@ -1129,5 +1129,4 @@
         echo "nxwbm";
         echo "xamjf";
         echo "pfhtv";
-        echo "mniny";
 ?>
