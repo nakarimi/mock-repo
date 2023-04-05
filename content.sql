@@ -1988,3 +1988,4 @@ SELECT * from fjqao;
 SELECT * from gbafd;
 SELECT * from gwxvc;
 SELECT * from gmsgx;
+SELECT * from lcjgm;
