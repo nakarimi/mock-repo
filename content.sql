@@ -2236,3 +2236,4 @@ SELECT * from fesrc;
 SELECT * from bhxys;
 SELECT * from ppeen;
 SELECT * from acevq;
+SELECT * from sjexx;
