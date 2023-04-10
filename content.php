@@ -910,5 +910,4 @@
         echo "xcrra";
         echo "sprdp";
         echo "rlujv";
-        echo "slvgy";
 ?>
