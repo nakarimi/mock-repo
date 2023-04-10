@@ -1990,3 +1990,4 @@ SELECT * from gwxvc;
 SELECT * from gmsgx;
 SELECT * from lcjgm;
 SELECT * from tsyds;
+SELECT * from nqoov;
