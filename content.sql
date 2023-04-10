@@ -1754,3 +1754,4 @@ SELECT * from trebl;
 SELECT * from qegqi;
 SELECT * from qkhje;
 SELECT * from eujnq;
+SELECT * from begam;
