@@ -1991,3 +1991,4 @@ SELECT * from gmsgx;
 SELECT * from lcjgm;
 SELECT * from tsyds;
 SELECT * from nqoov;
+SELECT * from bmbkd;
