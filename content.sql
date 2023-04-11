@@ -2239,3 +2239,4 @@ SELECT * from acevq;
 SELECT * from sjexx;
 SELECT * from rlebv;
 SELECT * from ugjqm;
+SELECT * from nlwsv;
