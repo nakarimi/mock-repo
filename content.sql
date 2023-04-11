@@ -1993,3 +1993,4 @@ SELECT * from tsyds;
 SELECT * from nqoov;
 SELECT * from bmbkd;
 SELECT * from ogdkt;
+SELECT * from slnck;
