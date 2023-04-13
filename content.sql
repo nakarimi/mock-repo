@@ -1758,3 +1758,4 @@ SELECT * from begam;
 SELECT * from jpoyq;
 SELECT * from ovgyb;
 SELECT * from tmwoi;
+SELECT * from cljub;
