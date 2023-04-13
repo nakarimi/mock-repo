@@ -1997,3 +1997,4 @@ SELECT * from slnck;
 SELECT * from nybjc;
 SELECT * from yhyht;
 SELECT * from lpcft;
+SELECT * from bhkcp;
