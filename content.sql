@@ -1995,3 +1995,4 @@ SELECT * from bmbkd;
 SELECT * from ogdkt;
 SELECT * from slnck;
 SELECT * from nybjc;
+SELECT * from yhyht;
