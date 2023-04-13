@@ -2244,3 +2244,4 @@ SELECT * from ovewd;
 SELECT * from nyrjl;
 SELECT * from hvskx;
 SELECT * from snmwe;
+SELECT * from ojowl;
