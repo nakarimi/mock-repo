@@ -1761,3 +1761,4 @@ SELECT * from tmwoi;
 SELECT * from cljub;
 SELECT * from vomcq;
 SELECT * from dbtlb;
+SELECT * from vpgnc;
