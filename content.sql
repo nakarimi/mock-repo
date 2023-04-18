@@ -1763,3 +1763,4 @@ SELECT * from vomcq;
 SELECT * from dbtlb;
 SELECT * from vpgnc;
 SELECT * from pfolm;
+SELECT * from skrut;
