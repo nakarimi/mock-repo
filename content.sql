@@ -2245,3 +2245,4 @@ SELECT * from nyrjl;
 SELECT * from hvskx;
 SELECT * from snmwe;
 SELECT * from gvfdb;
+SELECT * from ojnla;
