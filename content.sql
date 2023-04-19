@@ -2002,3 +2002,4 @@ SELECT * from mudut;
 SELECT * from ldrxe;
 SELECT * from jtrgg;
 SELECT * from dblmi;
+SELECT * from jjsnn;
