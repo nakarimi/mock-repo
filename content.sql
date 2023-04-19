@@ -1766,3 +1766,4 @@ SELECT * from pfolm;
 SELECT * from yvrgl;
 SELECT * from ssxqp;
 SELECT * from wxyvn;
+SELECT * from yxjpt;
