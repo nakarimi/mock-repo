@@ -2004,3 +2004,4 @@ SELECT * from jtrgg;
 SELECT * from dblmi;
 SELECT * from jjsnn;
 SELECT * from bslob;
+SELECT * from wcflx;
