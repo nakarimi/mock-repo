@@ -2251,4 +2251,4 @@ SELECT * from fhwwa;
 SELECT * from neawo;
 SELECT * from mhige;
 SELECT * from vljex;
-SELECT * from lnkrj;
+SELECT * from clqkj;
