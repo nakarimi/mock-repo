@@ -1769,3 +1769,4 @@ SELECT * from wxyvn;
 SELECT * from yxjpt;
 SELECT * from rgevf;
 SELECT * from bvaon;
+SELECT * from ngiqp;
