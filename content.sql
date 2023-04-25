@@ -2005,3 +2005,4 @@ SELECT * from dblmi;
 SELECT * from jjsnn;
 SELECT * from bslob;
 SELECT * from tcoly;
+SELECT * from cwswq;
