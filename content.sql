@@ -2008,3 +2008,4 @@ SELECT * from tcoly;
 SELECT * from cwswq;
 SELECT * from jamyi;
 SELECT * from dedyh;
+SELECT * from pmlbd;
