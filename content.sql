@@ -2255,3 +2255,4 @@ SELECT * from clqkj;
 SELECT * from bclbh;
 SELECT * from cuvdl;
 SELECT * from ioojj;
+SELECT * from lnokl;
