@@ -1773,3 +1773,4 @@ SELECT * from ngiqp;
 SELECT * from grfsd;
 SELECT * from gsfvt;
 SELECT * from lgenf;
+SELECT * from agvmx;
