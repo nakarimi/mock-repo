@@ -2257,4 +2257,3 @@ SELECT * from cuvdl;
 SELECT * from ioojj;
 SELECT * from lnokl;
 SELECT * from gqldb;
-SELECT * from mrkpv;
