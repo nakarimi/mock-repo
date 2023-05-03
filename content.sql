@@ -2010,4 +2010,4 @@ SELECT * from jamyi;
 SELECT * from dedyh;
 SELECT * from pmlbd;
 SELECT * from ieakw;
-SELECT * from sypqn;
+SELECT * from fcdmc;
