@@ -2257,4 +2257,4 @@ SELECT * from cuvdl;
 SELECT * from ioojj;
 SELECT * from lnokl;
 SELECT * from gqldb;
-SELECT * from pjpha;
+SELECT * from bucij;
