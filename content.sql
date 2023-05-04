@@ -1775,3 +1775,4 @@ SELECT * from gsfvt;
 SELECT * from lgenf;
 SELECT * from rcbit;
 SELECT * from vyujg;
+SELECT * from mqrim;
