@@ -2259,3 +2259,4 @@ SELECT * from lnokl;
 SELECT * from gqldb;
 SELECT * from bucij;
 SELECT * from ohblk;
+SELECT * from xdvom;
