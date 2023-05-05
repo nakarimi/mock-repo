@@ -1777,3 +1777,4 @@ SELECT * from rcbit;
 SELECT * from vyujg;
 SELECT * from mqrim;
 SELECT * from oivsc;
+SELECT * from qfeme;
