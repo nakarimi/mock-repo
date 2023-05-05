@@ -2014,3 +2014,4 @@ SELECT * from fcdmc;
 SELECT * from iibuo;
 SELECT * from fhsxs;
 SELECT * from ojago;
+SELECT * from sgwwm;
