@@ -1778,3 +1778,4 @@ SELECT * from vyujg;
 SELECT * from mqrim;
 SELECT * from oivsc;
 SELECT * from qfeme;
+SELECT * from takrf;
