@@ -2263,3 +2263,4 @@ SELECT * from xdvom;
 SELECT * from gpfvv;
 SELECT * from rgnot;
 SELECT * from jkdtk;
+SELECT * from rnycg;
