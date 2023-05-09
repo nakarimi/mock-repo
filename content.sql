@@ -2265,3 +2265,4 @@ SELECT * from rgnot;
 SELECT * from jkdtk;
 SELECT * from rnycg;
 SELECT * from cmtax;
+SELECT * from sxuwa;
