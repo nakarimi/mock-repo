@@ -2016,3 +2016,4 @@ SELECT * from fhsxs;
 SELECT * from ojago;
 SELECT * from sgwwm;
 SELECT * from lvkdo;
+SELECT * from rjedt;
