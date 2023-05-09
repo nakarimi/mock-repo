@@ -2018,4 +2018,4 @@ SELECT * from sgwwm;
 SELECT * from lvkdo;
 SELECT * from rjedt;
 SELECT * from cqsov;
-SELECT * from wqxva;
+SELECT * from tcnqr;
