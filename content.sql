@@ -1783,3 +1783,4 @@ SELECT * from ocyxj;
 SELECT * from ltwfr;
 SELECT * from xlsqt;
 SELECT * from elifw;
+SELECT * from clnib;
