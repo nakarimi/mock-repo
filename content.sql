@@ -2268,3 +2268,4 @@ SELECT * from cmtax;
 SELECT * from esafb;
 SELECT * from wkxps;
 SELECT * from kwpnw;
+SELECT * from lynkg;
