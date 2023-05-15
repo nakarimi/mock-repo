@@ -1786,3 +1786,4 @@ SELECT * from elifw;
 SELECT * from clnib;
 SELECT * from hysmi;
 SELECT * from wogic;
+SELECT * from fgmmn;
