@@ -1785,4 +1785,4 @@ SELECT * from xlsqt;
 SELECT * from elifw;
 SELECT * from clnib;
 SELECT * from hysmi;
-SELECT * from xywno;
+SELECT * from wogic;
