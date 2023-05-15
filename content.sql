@@ -2023,3 +2023,4 @@ SELECT * from hllfo;
 SELECT * from xfgpl;
 SELECT * from tgklf;
 SELECT * from nahop;
+SELECT * from vsoov;
