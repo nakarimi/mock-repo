@@ -2025,3 +2025,4 @@ SELECT * from tgklf;
 SELECT * from nahop;
 SELECT * from vsoov;
 SELECT * from gbspa;
+SELECT * from waqwe;
