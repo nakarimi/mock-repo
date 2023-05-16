@@ -1788,3 +1788,4 @@ SELECT * from hysmi;
 SELECT * from wogic;
 SELECT * from fgmmn;
 SELECT * from pbpef;
+SELECT * from cuvep;
