@@ -2273,3 +2273,4 @@ SELECT * from hffwh;
 SELECT * from xibpg;
 SELECT * from molks;
 SELECT * from tjpqf;
+SELECT * from frdlb;
