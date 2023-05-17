@@ -1789,3 +1789,4 @@ SELECT * from wogic;
 SELECT * from fgmmn;
 SELECT * from pbpef;
 SELECT * from cuvep;
+SELECT * from fopfk;
