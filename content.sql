@@ -2028,3 +2028,4 @@ SELECT * from gbspa;
 SELECT * from waqwe;
 SELECT * from jwoyg;
 SELECT * from njbvo;
+SELECT * from gpplx;
