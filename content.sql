@@ -2275,3 +2275,4 @@ SELECT * from molks;
 SELECT * from tjpqf;
 SELECT * from frdlb;
 SELECT * from knsom;
+SELECT * from uvijl;
