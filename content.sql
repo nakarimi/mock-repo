@@ -1791,3 +1791,4 @@ SELECT * from pbpef;
 SELECT * from cuvep;
 SELECT * from fopfk;
 SELECT * from vjdhl;
+SELECT * from nkpcf;
