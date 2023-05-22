@@ -1792,3 +1792,4 @@ SELECT * from cuvep;
 SELECT * from fopfk;
 SELECT * from vjdhl;
 SELECT * from nkpcf;
+SELECT * from yvjej;
