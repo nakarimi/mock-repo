@@ -2276,3 +2276,4 @@ SELECT * from tjpqf;
 SELECT * from frdlb;
 SELECT * from knsom;
 SELECT * from uvijl;
+SELECT * from ejadj;
