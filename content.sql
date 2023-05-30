@@ -2279,3 +2279,4 @@ SELECT * from uvijl;
 SELECT * from ejadj;
 SELECT * from vnrcv;
 SELECT * from itnvo;
+SELECT * from pvufe;
