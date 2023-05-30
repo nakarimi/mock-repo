@@ -582,3 +582,4 @@ SELECT * from bdmen;
 SELECT * from ijxkt;
 SELECT * from wfnfv;
 SELECT * from hprle;
+SELECT * from pwefd;
