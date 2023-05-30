@@ -1794,3 +1794,4 @@ SELECT * from vjdhl;
 SELECT * from nkpcf;
 SELECT * from yvjej;
 SELECT * from vhxws;
+SELECT * from mnjyv;
