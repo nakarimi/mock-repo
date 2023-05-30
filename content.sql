@@ -2033,3 +2033,4 @@ SELECT * from cdcra;
 SELECT * from eilti;
 SELECT * from qnfpo;
 SELECT * from sfmxi;
+SELECT * from uehrw;
