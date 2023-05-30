@@ -144,3 +144,4 @@ SELECT * from xxmfu;
 SELECT * from wgycl;
 SELECT * from trghl;
 SELECT * from sayus;
+SELECT * from catag;
