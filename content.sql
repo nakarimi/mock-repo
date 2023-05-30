@@ -1796,3 +1796,4 @@ SELECT * from yvjej;
 SELECT * from vhxws;
 SELECT * from mnjyv;
 SELECT * from smvge;
+SELECT * from vexft;
