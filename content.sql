@@ -293,3 +293,4 @@ SELECT * from lwmcv;
 SELECT * from bipex;
 SELECT * from ncwow;
 SELECT * from oqpil;
+SELECT * from nmnsm;
