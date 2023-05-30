@@ -437,3 +437,4 @@ SELECT * from femvl;
 SELECT * from trnhe;
 SELECT * from cfoie;
 SELECT * from pasir;
+SELECT * from eyvlq;
