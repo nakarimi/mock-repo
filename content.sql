@@ -2032,3 +2032,4 @@ SELECT * from gpplx;
 SELECT * from cdcra;
 SELECT * from eilti;
 SELECT * from qnfpo;
+SELECT * from sfmxi;
