@@ -146,3 +146,4 @@ SELECT * from trghl;
 SELECT * from sayus;
 SELECT * from catag;
 SELECT * from mdure;
+SELECT * from ixnqx;
