@@ -2281,3 +2281,4 @@ SELECT * from vnrcv;
 SELECT * from itnvo;
 SELECT * from pvufe;
 SELECT * from jyotb;
+SELECT * from debje;
