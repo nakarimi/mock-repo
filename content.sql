@@ -439,3 +439,4 @@ SELECT * from cfoie;
 SELECT * from pasir;
 SELECT * from eyvlq;
 SELECT * from hlcbq;
+SELECT * from jgpfx;
