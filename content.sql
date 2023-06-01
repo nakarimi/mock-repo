@@ -2035,3 +2035,4 @@ SELECT * from qnfpo;
 SELECT * from sfmxi;
 SELECT * from uehrw;
 SELECT * from tswvm;
+SELECT * from rirho;
