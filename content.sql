@@ -295,3 +295,4 @@ SELECT * from ncwow;
 SELECT * from oqpil;
 SELECT * from nmnsm;
 SELECT * from molxi;
+SELECT * from wsrmg;
