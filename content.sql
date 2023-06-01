@@ -147,3 +147,4 @@ SELECT * from sayus;
 SELECT * from catag;
 SELECT * from mdure;
 SELECT * from ixnqx;
+SELECT * from xnsgi;
