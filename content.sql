@@ -440,3 +440,4 @@ SELECT * from pasir;
 SELECT * from eyvlq;
 SELECT * from hlcbq;
 SELECT * from jgpfx;
+SELECT * from smcpi;
