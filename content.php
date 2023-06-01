@@ -1,5 +1,5 @@
 <?php
         echo "xbqke";
         echo "hwkol";
-        echo "uwgab";
+        echo "olmak";
 ?>
