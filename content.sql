@@ -149,3 +149,4 @@ SELECT * from mdure;
 SELECT * from ixnqx;
 SELECT * from xnsgi;
 SELECT * from lnygv;
+SELECT * from ieanh;
