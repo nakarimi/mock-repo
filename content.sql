@@ -1799,3 +1799,4 @@ SELECT * from smvge;
 SELECT * from vexft;
 SELECT * from sbxfh;
 SELECT * from aekqn;
+SELECT * from asisy;
