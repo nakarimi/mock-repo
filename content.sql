@@ -2036,3 +2036,4 @@ SELECT * from sfmxi;
 SELECT * from uehrw;
 SELECT * from tswvm;
 SELECT * from rirho;
+SELECT * from amefg;
