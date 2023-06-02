@@ -2284,3 +2284,4 @@ SELECT * from jyotb;
 SELECT * from debje;
 SELECT * from otryt;
 SELECT * from jnxfk;
+SELECT * from ghekj;
