@@ -296,3 +296,4 @@ SELECT * from oqpil;
 SELECT * from nmnsm;
 SELECT * from molxi;
 SELECT * from wsrmg;
+SELECT * from obvha;
