@@ -442,3 +442,4 @@ SELECT * from hlcbq;
 SELECT * from jgpfx;
 SELECT * from smcpi;
 SELECT * from csdnp;
+SELECT * from dmagi;
