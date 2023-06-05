@@ -1802,3 +1802,4 @@ SELECT * from aekqn;
 SELECT * from asisy;
 SELECT * from sgphf;
 SELECT * from pntho;
+SELECT * from ufctf;
