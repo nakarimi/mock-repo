@@ -444,3 +444,4 @@ SELECT * from smcpi;
 SELECT * from csdnp;
 SELECT * from dmagi;
 SELECT * from vxcrg;
+SELECT * from nwpcw;
