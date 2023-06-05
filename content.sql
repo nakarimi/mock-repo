@@ -151,3 +151,4 @@ SELECT * from xnsgi;
 SELECT * from lnygv;
 SELECT * from ieanh;
 SELECT * from ghebv;
+SELECT * from bgoir;
