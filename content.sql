@@ -588,3 +588,4 @@ SELECT * from tuwie;
 SELECT * from ulxvt;
 SELECT * from lxlwn;
 SELECT * from xfqnr;
+SELECT * from eccao;
