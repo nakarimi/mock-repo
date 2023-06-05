@@ -443,3 +443,4 @@ SELECT * from jgpfx;
 SELECT * from smcpi;
 SELECT * from csdnp;
 SELECT * from dmagi;
+SELECT * from vxcrg;
