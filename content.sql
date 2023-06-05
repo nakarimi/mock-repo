@@ -299,3 +299,4 @@ SELECT * from wsrmg;
 SELECT * from obvha;
 SELECT * from vissp;
 SELECT * from vjqfr;
+SELECT * from mhkvs;
