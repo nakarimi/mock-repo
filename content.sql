@@ -590,3 +590,4 @@ SELECT * from lxlwn;
 SELECT * from xfqnr;
 SELECT * from eccao;
 SELECT * from ibxxo;
+SELECT * from xfecs;
