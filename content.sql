@@ -2045,3 +2045,4 @@ SELECT * from ycobe;
 SELECT * from fbqra;
 SELECT * from wyaxo;
 SELECT * from kxqut;
+SELECT * from djpqi;
