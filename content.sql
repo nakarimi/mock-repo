@@ -2290,3 +2290,4 @@ SELECT * from rduij;
 SELECT * from hrsan;
 SELECT * from yeyyv;
 SELECT * from yfdmx;
+SELECT * from sptul;
