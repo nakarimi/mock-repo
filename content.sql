@@ -595,3 +595,4 @@ SELECT * from aeflu;
 SELECT * from snrys;
 SELECT * from ymkck;
 SELECT * from xmfjk;
+SELECT * from losdh;
