@@ -7,3 +7,4 @@ SELECT * from gykjk;
 SELECT * from ooplh;
 SELECT * from blhqw;
 SELECT * from jtakc;
+SELECT * from ykwvx;
