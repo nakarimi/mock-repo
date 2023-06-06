@@ -305,3 +305,4 @@ SELECT * from ktsnj;
 SELECT * from whecp;
 SELECT * from qcfbx;
 SELECT * from dvsed;
+SELECT * from kkxeg;
