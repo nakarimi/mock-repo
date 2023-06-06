@@ -155,3 +155,4 @@ SELECT * from bgoir;
 SELECT * from mpowj;
 SELECT * from pcfea;
 SELECT * from pgmay;
+SELECT * from cgdmn;
