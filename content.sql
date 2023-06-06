@@ -300,3 +300,4 @@ SELECT * from obvha;
 SELECT * from vissp;
 SELECT * from vjqfr;
 SELECT * from mhkvs;
+SELECT * from knxhk;
