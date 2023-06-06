@@ -156,3 +156,4 @@ SELECT * from mpowj;
 SELECT * from pcfea;
 SELECT * from pgmay;
 SELECT * from cgdmn;
+SELECT * from vkjpf;
