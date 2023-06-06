@@ -591,3 +591,4 @@ SELECT * from xfqnr;
 SELECT * from eccao;
 SELECT * from ibxxo;
 SELECT * from xfecs;
+SELECT * from aeflu;
