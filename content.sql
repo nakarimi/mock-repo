@@ -446,3 +446,4 @@ SELECT * from dmagi;
 SELECT * from vxcrg;
 SELECT * from nwpcw;
 SELECT * from illda;
+SELECT * from ajxyf;
