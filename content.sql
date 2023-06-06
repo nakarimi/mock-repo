@@ -2043,3 +2043,4 @@ SELECT * from rrfle;
 SELECT * from didcf;
 SELECT * from ycobe;
 SELECT * from fbqra;
+SELECT * from wyaxo;
