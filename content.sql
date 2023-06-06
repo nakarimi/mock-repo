@@ -1808,3 +1808,4 @@ SELECT * from jafwo;
 SELECT * from wvdwr;
 SELECT * from srvoa;
 SELECT * from phstp;
+SELECT * from juglf;
