@@ -594,3 +594,4 @@ SELECT * from xfecs;
 SELECT * from aeflu;
 SELECT * from snrys;
 SELECT * from ymkck;
+SELECT * from qfasb;
