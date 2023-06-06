@@ -303,3 +303,4 @@ SELECT * from mhkvs;
 SELECT * from knxhk;
 SELECT * from ktsnj;
 SELECT * from whecp;
+SELECT * from qcfbx;
