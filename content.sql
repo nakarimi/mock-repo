@@ -10,3 +10,4 @@ SELECT * from jtakc;
 SELECT * from ykwvx;
 SELECT * from dfldw;
 SELECT * from scuax;
+SELECT * from arycv;
