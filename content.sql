@@ -2292,3 +2292,6 @@ SELECT * from yeyyv;
 SELECT * from yfdmx;
 SELECT * from sptul;
 SELECT * from eduqd;
+SELECT * from rmbwc;
+SELECT * from vwscg;
+SELECT * from rarro;
