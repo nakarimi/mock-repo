@@ -2046,3 +2046,5 @@ SELECT * from fbqra;
 SELECT * from wyaxo;
 SELECT * from kxqut;
 SELECT * from ehlqb;
+SELECT * from nnhkp;
+SELECT * from jtlcb;
