@@ -1809,3 +1809,5 @@ SELECT * from wvdwr;
 SELECT * from srvoa;
 SELECT * from phstp;
 SELECT * from bnoxy;
+SELECT * from vixun;
+SELECT * from tjyhp;
