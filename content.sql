@@ -12,3 +12,5 @@ SELECT * from dfldw;
 SELECT * from scuax;
 SELECT * from arycv;
 SELECT * from jfvjb;
+SELECT * from cwnss;
+SELECT * from uvull;
