@@ -157,3 +157,5 @@ SELECT * from pcfea;
 SELECT * from pgmay;
 SELECT * from cgdmn;
 SELECT * from qmumv;
+SELECT * from xvata;
+SELECT * from sscik;
