@@ -596,3 +596,4 @@ SELECT * from snrys;
 SELECT * from ymkck;
 SELECT * from xmfjk;
 SELECT * from losdh;
+SELECT * from efdbp;
