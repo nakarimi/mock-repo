@@ -307,3 +307,4 @@ SELECT * from qcfbx;
 SELECT * from dvsed;
 SELECT * from kkxeg;
 SELECT * from ybidd;
+SELECT * from daymp;
