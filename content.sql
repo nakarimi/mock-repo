@@ -597,3 +597,4 @@ SELECT * from ymkck;
 SELECT * from xmfjk;
 SELECT * from losdh;
 SELECT * from efdbp;
+SELECT * from inync;
