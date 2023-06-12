@@ -159,3 +159,4 @@ SELECT * from cgdmn;
 SELECT * from qmumv;
 SELECT * from xvata;
 SELECT * from sscik;
+SELECT * from favao;
