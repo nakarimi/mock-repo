@@ -2296,3 +2296,4 @@ SELECT * from rmbwc;
 SELECT * from vwscg;
 SELECT * from rarro;
 SELECT * from lphln;
+SELECT * from onttk;
