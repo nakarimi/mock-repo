@@ -1812,3 +1812,4 @@ SELECT * from bnoxy;
 SELECT * from vixun;
 SELECT * from tjyhp;
 SELECT * from hbbrm;
+SELECT * from deaqc;
