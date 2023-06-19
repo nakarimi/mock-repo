@@ -309,3 +309,4 @@ SELECT * from kkxeg;
 SELECT * from ybidd;
 SELECT * from daymp;
 SELECT * from puyie;
+SELECT * from ggewu;
