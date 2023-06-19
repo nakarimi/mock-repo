@@ -16,3 +16,4 @@ SELECT * from cwnss;
 SELECT * from uvull;
 SELECT * from qyxuh;
 SELECT * from hlecw;
+SELECT * from fthbm;
