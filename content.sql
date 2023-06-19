@@ -161,3 +161,4 @@ SELECT * from xvata;
 SELECT * from sscik;
 SELECT * from favao;
 SELECT * from wxcvl;
+SELECT * from cknol;
