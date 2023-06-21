@@ -162,3 +162,4 @@ SELECT * from sscik;
 SELECT * from favao;
 SELECT * from wxcvl;
 SELECT * from cknol;
+SELECT * from hdfja;
