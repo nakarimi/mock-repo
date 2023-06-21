@@ -2299,3 +2299,4 @@ SELECT * from lphln;
 SELECT * from onttk;
 SELECT * from cwjte;
 SELECT * from paove;
+SELECT * from wwfyp;
