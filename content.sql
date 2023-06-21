@@ -600,3 +600,4 @@ SELECT * from efdbp;
 SELECT * from inync;
 SELECT * from gblsd;
 SELECT * from jream;
+SELECT * from prcxi;
