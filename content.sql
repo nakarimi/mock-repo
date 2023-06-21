@@ -311,3 +311,4 @@ SELECT * from daymp;
 SELECT * from puyie;
 SELECT * from ggewu;
 SELECT * from jngsm;
+SELECT * from jswxu;
