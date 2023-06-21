@@ -163,3 +163,4 @@ SELECT * from favao;
 SELECT * from wxcvl;
 SELECT * from cknol;
 SELECT * from hdfja;
+SELECT * from cuhyf;
