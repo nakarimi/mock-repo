@@ -1815,3 +1815,4 @@ SELECT * from hbbrm;
 SELECT * from deaqc;
 SELECT * from dgbmx;
 SELECT * from lpkvv;
+SELECT * from enukh;
