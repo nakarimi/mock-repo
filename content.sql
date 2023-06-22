@@ -19,3 +19,4 @@ SELECT * from hlecw;
 SELECT * from fthbm;
 SELECT * from yacxx;
 SELECT * from aqtil;
+SELECT * from osbfx;
