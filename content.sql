@@ -2053,3 +2053,4 @@ SELECT * from ovmxn;
 SELECT * from ctljh;
 SELECT * from mdhvw;
 SELECT * from hnodh;
+SELECT * from aqoti;
