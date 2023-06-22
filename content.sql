@@ -602,3 +602,4 @@ SELECT * from gblsd;
 SELECT * from jream;
 SELECT * from prcxi;
 SELECT * from vxuda;
+SELECT * from egaue;
