@@ -1816,3 +1816,4 @@ SELECT * from deaqc;
 SELECT * from dgbmx;
 SELECT * from lpkvv;
 SELECT * from enukh;
+SELECT * from mpbvj;
