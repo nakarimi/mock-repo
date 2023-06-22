@@ -2300,3 +2300,4 @@ SELECT * from onttk;
 SELECT * from cwjte;
 SELECT * from paove;
 SELECT * from wwfyp;
+SELECT * from pervx;
