@@ -1818,3 +1818,4 @@ SELECT * from lpkvv;
 SELECT * from enukh;
 SELECT * from mpbvj;
 SELECT * from yevks;
+SELECT * from wtung;
