@@ -21,3 +21,4 @@ SELECT * from yacxx;
 SELECT * from aqtil;
 SELECT * from osbfx;
 SELECT * from ovmip;
+SELECT * from vjajb;
