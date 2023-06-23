@@ -315,3 +315,4 @@ SELECT * from jswxu;
 SELECT * from oyesa;
 SELECT * from jkdxd;
 SELECT * from nqnvu;
+SELECT * from pxdie;
