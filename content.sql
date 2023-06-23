@@ -460,3 +460,4 @@ SELECT * from knrfi;
 SELECT * from iynjr;
 SELECT * from lentj;
 SELECT * from kdgnm;
+SELECT * from iyknj;
