@@ -167,3 +167,4 @@ SELECT * from cuhyf;
 SELECT * from urbli;
 SELECT * from ipncl;
 SELECT * from xdidk;
+SELECT * from jxgqi;
