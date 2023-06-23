@@ -314,3 +314,4 @@ SELECT * from jngsm;
 SELECT * from jswxu;
 SELECT * from oyesa;
 SELECT * from jkdxd;
+SELECT * from nqnvu;
