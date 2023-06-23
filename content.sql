@@ -604,3 +604,4 @@ SELECT * from prcxi;
 SELECT * from vxuda;
 SELECT * from egaue;
 SELECT * from jdoab;
+SELECT * from vfkql;
