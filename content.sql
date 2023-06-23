@@ -2302,3 +2302,4 @@ SELECT * from paove;
 SELECT * from wwfyp;
 SELECT * from pervx;
 SELECT * from kvebl;
+SELECT * from ukjql;
