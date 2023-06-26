@@ -1821,3 +1821,4 @@ SELECT * from yevks;
 SELECT * from wtung;
 SELECT * from bpvwb;
 SELECT * from xyywh;
+SELECT * from xowvb;
