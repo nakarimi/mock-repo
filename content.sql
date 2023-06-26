@@ -2057,3 +2057,4 @@ SELECT * from aqoti;
 SELECT * from idacx;
 SELECT * from ddpxx;
 SELECT * from ixrhb;
+SELECT * from bbjkb;
