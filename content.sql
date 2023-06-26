@@ -1820,3 +1820,4 @@ SELECT * from mpbvj;
 SELECT * from yevks;
 SELECT * from wtung;
 SELECT * from bpvwb;
+SELECT * from xyywh;
