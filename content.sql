@@ -2306,3 +2306,4 @@ SELECT * from ukjql;
 SELECT * from fbsyf;
 SELECT * from bfwxq;
 SELECT * from jwnsi;
+SELECT * from juclj;
