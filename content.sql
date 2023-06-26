@@ -317,3 +317,4 @@ SELECT * from jkdxd;
 SELECT * from nqnvu;
 SELECT * from pxdie;
 SELECT * from bkxqh;
+SELECT * from gmbgf;
