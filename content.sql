@@ -318,3 +318,4 @@ SELECT * from nqnvu;
 SELECT * from pxdie;
 SELECT * from bkxqh;
 SELECT * from gmbgf;
+SELECT * from idvdu;
