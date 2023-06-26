@@ -461,3 +461,4 @@ SELECT * from iynjr;
 SELECT * from lentj;
 SELECT * from kdgnm;
 SELECT * from iyknj;
+SELECT * from bwgie;
