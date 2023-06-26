@@ -2305,3 +2305,4 @@ SELECT * from kvebl;
 SELECT * from ukjql;
 SELECT * from fbsyf;
 SELECT * from bfwxq;
+SELECT * from jwnsi;
