@@ -169,3 +169,4 @@ SELECT * from ipncl;
 SELECT * from xdidk;
 SELECT * from jxgqi;
 SELECT * from sxjgq;
+SELECT * from jjdvk;
