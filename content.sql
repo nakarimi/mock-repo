@@ -25,3 +25,4 @@ SELECT * from vjajb;
 SELECT * from lvaii;
 SELECT * from dfnoe;
 SELECT * from wipcc;
+SELECT * from tkfqj;
