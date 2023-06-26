@@ -23,3 +23,4 @@ SELECT * from osbfx;
 SELECT * from ovmip;
 SELECT * from vjajb;
 SELECT * from lvaii;
+SELECT * from dfnoe;
