@@ -27,3 +27,4 @@ SELECT * from dfnoe;
 SELECT * from wipcc;
 SELECT * from tkfqj;
 SELECT * from xlavk;
+SELECT * from phbmd;
