@@ -2062,3 +2062,4 @@ SELECT * from ooogd;
 SELECT * from yoohr;
 SELECT * from poqmm;
 SELECT * from whwhr;
+SELECT * from orquk;
