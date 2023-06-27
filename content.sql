@@ -320,3 +320,4 @@ SELECT * from bkxqh;
 SELECT * from gmbgf;
 SELECT * from idvdu;
 SELECT * from xdltg;
+SELECT * from vdcow;
