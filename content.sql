@@ -173,3 +173,4 @@ SELECT * from jjdvk;
 SELECT * from bsnfh;
 SELECT * from obiyg;
 SELECT * from rpctx;
+SELECT * from lnlts;
