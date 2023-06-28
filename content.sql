@@ -322,3 +322,4 @@ SELECT * from idvdu;
 SELECT * from xdltg;
 SELECT * from vdcow;
 SELECT * from upawi;
+SELECT * from xqwha;
