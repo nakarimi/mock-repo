@@ -2311,3 +2311,4 @@ SELECT * from yoknv;
 SELECT * from pbgom;
 SELECT * from yqgkg;
 SELECT * from qdvoy;
+SELECT * from iletk;
