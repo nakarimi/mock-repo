@@ -31,3 +31,4 @@ SELECT * from phbmd;
 SELECT * from vxxhd;
 SELECT * from fyswn;
 SELECT * from kiuei;
+SELECT * from nwlkg;
