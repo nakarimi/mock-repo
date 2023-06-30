@@ -470,3 +470,4 @@ SELECT * from xmobe;
 SELECT * from trflm;
 SELECT * from pecxs;
 SELECT * from iuyeo;
+SELECT * from mtuyh;
