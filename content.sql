@@ -616,3 +616,4 @@ SELECT * from nuqwl;
 SELECT * from piybt;
 SELECT * from hbmre;
 SELECT * from sslbw;
+SELECT * from fcsiy;
