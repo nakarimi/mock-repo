@@ -33,3 +33,4 @@ SELECT * from fyswn;
 SELECT * from kiuei;
 SELECT * from nwlkg;
 SELECT * from nvuwf;
+SELECT * from ciuqx;
