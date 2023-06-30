@@ -325,3 +325,4 @@ SELECT * from upawi;
 SELECT * from xqwha;
 SELECT * from swfqy;
 SELECT * from uvysg;
+SELECT * from wbsun;
