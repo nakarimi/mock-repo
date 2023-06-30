@@ -176,3 +176,4 @@ SELECT * from rpctx;
 SELECT * from lnlts;
 SELECT * from gekja;
 SELECT * from npbgv;
+SELECT * from pancs;
