@@ -2312,3 +2312,4 @@ SELECT * from pbgom;
 SELECT * from yqgkg;
 SELECT * from qdvoy;
 SELECT * from iletk;
+SELECT * from lcytu;
