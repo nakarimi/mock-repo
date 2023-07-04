@@ -472,3 +472,4 @@ SELECT * from pecxs;
 SELECT * from iuyeo;
 SELECT * from mtuyh;
 SELECT * from mlpnj;
+SELECT * from llekt;
