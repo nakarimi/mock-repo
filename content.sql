@@ -2068,3 +2068,4 @@ SELECT * from uqwdj;
 SELECT * from pmduw;
 SELECT * from gvgwf;
 SELECT * from gledp;
+SELECT * from beldn;
