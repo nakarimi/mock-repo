@@ -1833,3 +1833,4 @@ SELECT * from trocl;
 SELECT * from qtrry;
 SELECT * from eriii;
 SELECT * from kmxxa;
+SELECT * from prwcg;
