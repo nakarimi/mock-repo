@@ -328,3 +328,4 @@ SELECT * from uvysg;
 SELECT * from wbsun;
 SELECT * from phhvr;
 SELECT * from ebfbl;
+SELECT * from beoqp;
