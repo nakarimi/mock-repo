@@ -618,3 +618,4 @@ SELECT * from hbmre;
 SELECT * from sslbw;
 SELECT * from fcsiy;
 SELECT * from ciarg;
+SELECT * from eqwuv;
