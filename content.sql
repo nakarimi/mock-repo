@@ -35,3 +35,4 @@ SELECT * from nwlkg;
 SELECT * from nvuwf;
 SELECT * from ciuqx;
 SELECT * from cdxnu;
+SELECT * from ruhqx;
