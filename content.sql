@@ -2070,3 +2070,4 @@ SELECT * from gvgwf;
 SELECT * from gledp;
 SELECT * from beldn;
 SELECT * from ohyvr;
+SELECT * from sqcfj;
