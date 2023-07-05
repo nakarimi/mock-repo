@@ -36,3 +36,4 @@ SELECT * from nvuwf;
 SELECT * from ciuqx;
 SELECT * from cdxnu;
 SELECT * from ruhqx;
+SELECT * from xmkcq;
