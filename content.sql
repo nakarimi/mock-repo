@@ -474,3 +474,4 @@ SELECT * from mtuyh;
 SELECT * from mlpnj;
 SELECT * from llekt;
 SELECT * from yeggk;
+SELECT * from cooru;
