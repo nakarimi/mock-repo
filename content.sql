@@ -180,3 +180,4 @@ SELECT * from pancs;
 SELECT * from qwapc;
 SELECT * from deurb;
 SELECT * from mbshb;
+SELECT * from ipsje;
