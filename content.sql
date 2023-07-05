@@ -181,3 +181,4 @@ SELECT * from qwapc;
 SELECT * from deurb;
 SELECT * from mbshb;
 SELECT * from ipsje;
+SELECT * from alvyo;
