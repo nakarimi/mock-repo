@@ -330,3 +330,4 @@ SELECT * from phhvr;
 SELECT * from ebfbl;
 SELECT * from beoqp;
 SELECT * from furno;
+SELECT * from dolxy;
