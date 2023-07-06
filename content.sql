@@ -183,3 +183,4 @@ SELECT * from mbshb;
 SELECT * from ipsje;
 SELECT * from alvyo;
 SELECT * from sscvj;
+SELECT * from upxxp;
