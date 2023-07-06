@@ -2319,3 +2319,4 @@ SELECT * from ywthb;
 SELECT * from ngdvi;
 SELECT * from qbjqf;
 SELECT * from gumib;
+SELECT * from mncxk;
