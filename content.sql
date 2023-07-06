@@ -475,3 +475,4 @@ SELECT * from mlpnj;
 SELECT * from llekt;
 SELECT * from yeggk;
 SELECT * from cooru;
+SELECT * from bxkcs;
