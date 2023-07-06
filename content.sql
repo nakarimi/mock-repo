@@ -38,3 +38,4 @@ SELECT * from cdxnu;
 SELECT * from ruhqx;
 SELECT * from xmkcq;
 SELECT * from fuhpv;
+SELECT * from rwnuc;
