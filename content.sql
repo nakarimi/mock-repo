@@ -2072,3 +2072,4 @@ SELECT * from beldn;
 SELECT * from ohyvr;
 SELECT * from sqcfj;
 SELECT * from tcrnk;
+SELECT * from gpwkj;
