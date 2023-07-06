@@ -476,3 +476,4 @@ SELECT * from llekt;
 SELECT * from yeggk;
 SELECT * from cooru;
 SELECT * from bxkcs;
+SELECT * from favvr;
