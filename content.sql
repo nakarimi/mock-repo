@@ -1836,3 +1836,4 @@ SELECT * from kmxxa;
 SELECT * from prwcg;
 SELECT * from snabo;
 SELECT * from lfgas;
+SELECT * from eksen;
