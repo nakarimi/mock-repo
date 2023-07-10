@@ -332,3 +332,4 @@ SELECT * from beoqp;
 SELECT * from furno;
 SELECT * from dolxy;
 SELECT * from uvfar;
+SELECT * from gwovy;
