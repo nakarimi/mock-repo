@@ -2320,3 +2320,4 @@ SELECT * from ngdvi;
 SELECT * from qbjqf;
 SELECT * from gumib;
 SELECT * from mncxk;
+SELECT * from pscyh;
