@@ -1839,3 +1839,4 @@ SELECT * from lfgas;
 SELECT * from eksen;
 SELECT * from ilhln;
 SELECT * from jdbon;
+SELECT * from drarm;
