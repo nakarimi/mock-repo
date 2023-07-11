@@ -478,3 +478,4 @@ SELECT * from cooru;
 SELECT * from bxkcs;
 SELECT * from favvr;
 SELECT * from bfink;
+SELECT * from gvpkj;
