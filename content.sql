@@ -333,3 +333,4 @@ SELECT * from furno;
 SELECT * from dolxy;
 SELECT * from uvfar;
 SELECT * from gwovy;
+SELECT * from mmqcc;
