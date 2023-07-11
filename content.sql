@@ -625,3 +625,4 @@ SELECT * from cgysk;
 SELECT * from dmrdf;
 SELECT * from smypt;
 SELECT * from fdprp;
+SELECT * from iawnt;
