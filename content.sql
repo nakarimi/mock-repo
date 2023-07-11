@@ -335,3 +335,4 @@ SELECT * from uvfar;
 SELECT * from gwovy;
 SELECT * from mmqcc;
 SELECT * from qbffc;
+SELECT * from rinhw;
