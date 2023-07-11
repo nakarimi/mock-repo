@@ -2074,3 +2074,4 @@ SELECT * from sqcfj;
 SELECT * from tcrnk;
 SELECT * from gpwkj;
 SELECT * from wovnx;
+SELECT * from odelu;
