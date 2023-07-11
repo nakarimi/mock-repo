@@ -42,3 +42,4 @@ SELECT * from rwnuc;
 SELECT * from kxtbo;
 SELECT * from imbvb;
 SELECT * from maksf;
+SELECT * from adunq;
