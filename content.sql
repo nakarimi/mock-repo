@@ -623,3 +623,4 @@ SELECT * from rqdla;
 SELECT * from kumcf;
 SELECT * from cgysk;
 SELECT * from dmrdf;
+SELECT * from smypt;
