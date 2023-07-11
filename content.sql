@@ -2075,3 +2075,4 @@ SELECT * from tcrnk;
 SELECT * from gpwkj;
 SELECT * from wovnx;
 SELECT * from odelu;
+SELECT * from fafbu;
