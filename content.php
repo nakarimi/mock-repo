@@ -113,5 +113,4 @@
         echo "saptf";
         echo "rdpwl";
         echo "tsxod";
-        echo "qfoab";
 ?>
