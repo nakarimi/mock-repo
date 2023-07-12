@@ -188,3 +188,4 @@ SELECT * from jtxuk;
 SELECT * from xhcsp;
 SELECT * from ijiui;
 SELECT * from mtgkr;
+SELECT * from dajis;
