@@ -626,3 +626,4 @@ SELECT * from dmrdf;
 SELECT * from smypt;
 SELECT * from fdprp;
 SELECT * from iawnt;
+SELECT * from frqbi;
