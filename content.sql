@@ -338,3 +338,4 @@ SELECT * from qbffc;
 SELECT * from rinhw;
 SELECT * from osjvw;
 SELECT * from nvurp;
+SELECT * from ejaqs;
