@@ -2326,3 +2326,4 @@ SELECT * from lvcvp;
 SELECT * from twahl;
 SELECT * from caagn;
 SELECT * from gndll;
+SELECT * from pkcnu;
