@@ -44,3 +44,4 @@ SELECT * from imbvb;
 SELECT * from maksf;
 SELECT * from adunq;
 SELECT * from minsx;
+SELECT * from fdixd;
