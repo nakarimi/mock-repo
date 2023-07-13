@@ -2078,3 +2078,4 @@ SELECT * from odelu;
 SELECT * from fafbu;
 SELECT * from ekijx;
 SELECT * from fvjmv;
+SELECT * from rnoff;
