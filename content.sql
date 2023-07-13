@@ -1842,3 +1842,4 @@ SELECT * from jdbon;
 SELECT * from drarm;
 SELECT * from prraf;
 SELECT * from njsuw;
+SELECT * from fatow;
