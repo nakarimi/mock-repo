@@ -483,3 +483,4 @@ SELECT * from ickon;
 SELECT * from llpyg;
 SELECT * from etytc;
 SELECT * from nwvbj;
+SELECT * from efugs;
