@@ -629,3 +629,4 @@ SELECT * from iawnt;
 SELECT * from frqbi;
 SELECT * from ywkyd;
 SELECT * from nkrtk;
+SELECT * from futrg;
