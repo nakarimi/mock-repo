@@ -1844,3 +1844,4 @@ SELECT * from prraf;
 SELECT * from njsuw;
 SELECT * from fatow;
 SELECT * from wpctp;
+SELECT * from cuisi;
