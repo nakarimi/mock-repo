@@ -1845,3 +1845,4 @@ SELECT * from njsuw;
 SELECT * from fatow;
 SELECT * from wpctp;
 SELECT * from cuisi;
+SELECT * from jmdla;
