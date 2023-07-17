@@ -46,4 +46,3 @@ SELECT * from adunq;
 SELECT * from minsx;
 SELECT * from fdixd;
 SELECT * from dgmqj;
-SELECT * from ahssk;
