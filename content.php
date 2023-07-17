@@ -112,5 +112,4 @@
         echo "vnheq";
         echo "saptf";
         echo "rdpwl";
-        echo "mfbto";
 ?>
