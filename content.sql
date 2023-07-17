@@ -2082,3 +2082,4 @@ SELECT * from rnoff;
 SELECT * from ttdcx;
 SELECT * from fkure;
 SELECT * from gctev;
+SELECT * from hufge;
