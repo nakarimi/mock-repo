@@ -47,3 +47,4 @@ SELECT * from minsx;
 SELECT * from fdixd;
 SELECT * from dgmqj;
 SELECT * from siprw;
+SELECT * from knals;
