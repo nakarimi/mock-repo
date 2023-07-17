@@ -2080,4 +2080,3 @@ SELECT * from ekijx;
 SELECT * from fvjmv;
 SELECT * from rnoff;
 SELECT * from ttdcx;
-SELECT * from lyqdh;
