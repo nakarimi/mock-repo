@@ -340,3 +340,4 @@ SELECT * from osjvw;
 SELECT * from nvurp;
 SELECT * from ejaqs;
 SELECT * from aftaf;
+SELECT * from lsike;
