@@ -2327,4 +2327,3 @@ SELECT * from twahl;
 SELECT * from caagn;
 SELECT * from gndll;
 SELECT * from pkcnu;
-SELECT * from yeucd;
