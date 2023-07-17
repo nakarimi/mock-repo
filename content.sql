@@ -48,3 +48,4 @@ SELECT * from fdixd;
 SELECT * from dgmqj;
 SELECT * from siprw;
 SELECT * from knals;
+SELECT * from badhs;
