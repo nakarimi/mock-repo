@@ -2329,4 +2329,4 @@ SELECT * from gndll;
 SELECT * from pkcnu;
 SELECT * from ojcoy;
 SELECT * from pceth;
-SELECT * from nscni;
+SELECT * from potrx;

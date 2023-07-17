@@ -1161,5 +1161,4 @@
         echo "xrher";
         echo "dinml";
         echo "rofeq";
-        echo "ktjon";
 ?>
