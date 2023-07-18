@@ -486,4 +486,4 @@ SELECT * from nwvbj;
 SELECT * from efugs;
 SELECT * from jqnfk;
 SELECT * from aywhl;
-SELECT * from dkpij;
+SELECT * from talnk;
