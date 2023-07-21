@@ -632,3 +632,4 @@ SELECT * from nkrtk;
 SELECT * from wnftn;
 SELECT * from ovsrg;
 SELECT * from rjwxv;
+SELECT * from kdbqk;
