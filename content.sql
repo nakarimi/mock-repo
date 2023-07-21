@@ -194,3 +194,4 @@ SELECT * from pwiai;
 SELECT * from biapp;
 SELECT * from hylvd;
 SELECT * from hrpcy;
+SELECT * from urame;
