@@ -49,3 +49,4 @@ SELECT * from dgmqj;
 SELECT * from siprw;
 SELECT * from knals;
 SELECT * from qkenq;
+SELECT * from dlhlj;
