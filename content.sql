@@ -342,3 +342,4 @@ SELECT * from ejaqs;
 SELECT * from aftaf;
 SELECT * from lsike;
 SELECT * from ethsm;
+SELECT * from pwneu;
