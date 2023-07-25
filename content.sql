@@ -343,3 +343,4 @@ SELECT * from aftaf;
 SELECT * from lsike;
 SELECT * from ethsm;
 SELECT * from pwneu;
+SELECT * from mbnhn;
