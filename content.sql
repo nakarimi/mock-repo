@@ -197,3 +197,4 @@ SELECT * from hrpcy;
 SELECT * from urame;
 SELECT * from burtw;
 SELECT * from hanpi;
+SELECT * from fevnc;
