@@ -490,4 +490,3 @@ SELECT * from talnk;
 SELECT * from ckccc;
 SELECT * from qojag;
 SELECT * from cuoai;
-SELECT * from mkibf;
