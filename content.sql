@@ -344,3 +344,4 @@ SELECT * from lsike;
 SELECT * from ethsm;
 SELECT * from pwneu;
 SELECT * from mbnhn;
+SELECT * from kajef;
