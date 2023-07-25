@@ -51,3 +51,4 @@ SELECT * from knals;
 SELECT * from qkenq;
 SELECT * from dlhlj;
 SELECT * from eufth;
+SELECT * from kdoni;
