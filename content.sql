@@ -2085,3 +2085,4 @@ SELECT * from gctev;
 SELECT * from jetxp;
 SELECT * from hhoqq;
 SELECT * from uiryl;
+SELECT * from alogu;
