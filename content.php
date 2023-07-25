@@ -116,5 +116,4 @@
         echo "lqouo";
         echo "hnlrf";
         echo "vqcxb";
-        echo "niwyg";
 ?>
