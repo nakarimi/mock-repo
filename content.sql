@@ -52,4 +52,3 @@ SELECT * from qkenq;
 SELECT * from dlhlj;
 SELECT * from eufth;
 SELECT * from kdoni;
-SELECT * from syoap;
