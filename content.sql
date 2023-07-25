@@ -634,4 +634,4 @@ SELECT * from ovsrg;
 SELECT * from rjwxv;
 SELECT * from kdbqk;
 SELECT * from mopts;
-SELECT * from wwxgx;
+SELECT * from xbtei;
