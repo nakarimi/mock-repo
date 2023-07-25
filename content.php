@@ -1050,5 +1050,4 @@
         echo "axrer";
         echo "cmqno";
         echo "hdqrk";
-        echo "gtwid";
 ?>
