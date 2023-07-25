@@ -1849,4 +1849,3 @@ SELECT * from iypfj;
 SELECT * from jkadp;
 SELECT * from jdhlo;
 SELECT * from kmjqi;
-SELECT * from yjgym;
