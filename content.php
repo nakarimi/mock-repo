@@ -943,5 +943,4 @@
         echo "eqsak";
         echo "qskpu";
         echo "qajne";
-        echo "pivow";
 ?>
