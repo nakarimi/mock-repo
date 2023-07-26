@@ -2333,3 +2333,4 @@ SELECT * from potrx;
 SELECT * from cvbxh;
 SELECT * from spjwm;
 SELECT * from nhicx;
+SELECT * from jktjx;
