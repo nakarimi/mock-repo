@@ -635,3 +635,4 @@ SELECT * from rjwxv;
 SELECT * from kdbqk;
 SELECT * from mopts;
 SELECT * from xbtei;
+SELECT * from ynois;
