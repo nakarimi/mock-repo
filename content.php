@@ -1164,5 +1164,4 @@
         echo "lbqan";
         echo "qmhms";
         echo "gjglq";
-        echo "jwyta";
 ?>
