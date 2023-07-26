@@ -490,3 +490,4 @@ SELECT * from talnk;
 SELECT * from ckccc;
 SELECT * from qojag;
 SELECT * from voxgi;
+SELECT * from eyhyj;
