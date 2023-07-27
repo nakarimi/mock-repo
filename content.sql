@@ -346,3 +346,4 @@ SELECT * from pwneu;
 SELECT * from mbnhn;
 SELECT * from vdftf;
 SELECT * from pmdmm;
+SELECT * from bmigc;
