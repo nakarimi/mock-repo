@@ -1850,3 +1850,4 @@ SELECT * from jkadp;
 SELECT * from jdhlo;
 SELECT * from kjyig;
 SELECT * from ikeft;
+SELECT * from yfcos;
