@@ -494,3 +494,4 @@ SELECT * from eyhyj;
 SELECT * from fdtao;
 SELECT * from ddwgs;
 SELECT * from tssmt;
+SELECT * from wnaxa;
