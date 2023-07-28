@@ -13,5 +13,4 @@
         echo "ckync";
         echo "tprdq";
         echo "rquiv";
-        echo "qowho";
 ?>
