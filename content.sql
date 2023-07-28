@@ -2088,3 +2088,4 @@ SELECT * from uiryl;
 SELECT * from eeouj;
 SELECT * from jlpjx;
 SELECT * from tgoup;
+SELECT * from kvslc;
