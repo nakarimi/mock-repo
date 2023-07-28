@@ -637,3 +637,4 @@ SELECT * from mopts;
 SELECT * from xbtei;
 SELECT * from ynois;
 SELECT * from buhsn;
+SELECT * from scgmq;
