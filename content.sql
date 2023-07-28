@@ -349,3 +349,4 @@ SELECT * from pmdmm;
 SELECT * from bmigc;
 SELECT * from fgbyb;
 SELECT * from puasu;
+SELECT * from odaxu;
