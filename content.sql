@@ -2336,3 +2336,4 @@ SELECT * from nhicx;
 SELECT * from jktjx;
 SELECT * from mwanm;
 SELECT * from qxxqv;
+SELECT * from qosfw;
