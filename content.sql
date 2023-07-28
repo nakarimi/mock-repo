@@ -492,3 +492,4 @@ SELECT * from qojag;
 SELECT * from voxgi;
 SELECT * from eyhyj;
 SELECT * from fdtao;
+SELECT * from ddwgs;
