@@ -200,3 +200,4 @@ SELECT * from idxiw;
 SELECT * from iflbk;
 SELECT * from rmvqb;
 SELECT * from qocss;
+SELECT * from igpym;
