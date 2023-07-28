@@ -348,3 +348,4 @@ SELECT * from vdftf;
 SELECT * from pmdmm;
 SELECT * from bmigc;
 SELECT * from fgbyb;
+SELECT * from puasu;
