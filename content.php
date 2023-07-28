@@ -164,5 +164,4 @@
         echo "dcdlf";
         echo "lqeuk";
         echo "atgtu";
-        echo "ayuji";
 ?>
