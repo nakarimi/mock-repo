@@ -639,3 +639,4 @@ SELECT * from ynois;
 SELECT * from buhsn;
 SELECT * from scgmq;
 SELECT * from klxrb;
+SELECT * from uwmoj;
