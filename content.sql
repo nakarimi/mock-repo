@@ -2093,3 +2093,4 @@ SELECT * from jkgft;
 SELECT * from jlaxv;
 SELECT * from qnhxb;
 SELECT * from mfsug;
+SELECT * from uecyi;
