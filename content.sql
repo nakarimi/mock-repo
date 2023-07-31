@@ -499,3 +499,4 @@ SELECT * from uunjl;
 SELECT * from caqcs;
 SELECT * from kybci;
 SELECT * from xculp;
+SELECT * from sktwc;
