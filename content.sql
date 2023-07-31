@@ -206,3 +206,4 @@ SELECT * from gbqav;
 SELECT * from ubocd;
 SELECT * from dcshx;
 SELECT * from fufbn;
+SELECT * from etkqi;
