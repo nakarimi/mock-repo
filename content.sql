@@ -1857,3 +1857,4 @@ SELECT * from tthya;
 SELECT * from lvoya;
 SELECT * from tvvgr;
 SELECT * from ghrlf;
+SELECT * from exime;
