@@ -2342,3 +2342,4 @@ SELECT * from wibig;
 SELECT * from aljvy;
 SELECT * from ugdhy;
 SELECT * from sednj;
+SELECT * from kfmjx;
