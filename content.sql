@@ -642,3 +642,4 @@ SELECT * from klxrb;
 SELECT * from uwmoj;
 SELECT * from vrtwk;
 SELECT * from lgvmk;
+SELECT * from lbfwu;
