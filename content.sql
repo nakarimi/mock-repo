@@ -60,3 +60,4 @@ SELECT * from fstdu;
 SELECT * from cvnct;
 SELECT * from fburh;
 SELECT * from kwwef;
+SELECT * from vljwp;
