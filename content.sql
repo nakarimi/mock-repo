@@ -203,3 +203,4 @@ SELECT * from qocss;
 SELECT * from igpym;
 SELECT * from vrnve;
 SELECT * from gbqav;
+SELECT * from ubocd;
