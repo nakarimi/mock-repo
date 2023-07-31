@@ -352,3 +352,4 @@ SELECT * from puasu;
 SELECT * from odaxu;
 SELECT * from ldfym;
 SELECT * from dthjx;
+SELECT * from vmygu;
