@@ -59,3 +59,4 @@ SELECT * from rtvbu;
 SELECT * from fstdu;
 SELECT * from cvnct;
 SELECT * from fburh;
+SELECT * from kwwef;
