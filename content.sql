@@ -2340,3 +2340,4 @@ SELECT * from qosfw;
 SELECT * from sasaq;
 SELECT * from wibig;
 SELECT * from aljvy;
+SELECT * from ugdhy;
