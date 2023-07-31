@@ -2341,3 +2341,4 @@ SELECT * from sasaq;
 SELECT * from wibig;
 SELECT * from aljvy;
 SELECT * from ugdhy;
+SELECT * from sednj;
