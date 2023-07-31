@@ -353,3 +353,4 @@ SELECT * from odaxu;
 SELECT * from ldfym;
 SELECT * from dthjx;
 SELECT * from vmygu;
+SELECT * from pward;
