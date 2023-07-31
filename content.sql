@@ -57,3 +57,4 @@ SELECT * from ffhnk;
 SELECT * from vxqqh;
 SELECT * from rtvbu;
 SELECT * from fstdu;
+SELECT * from cvnct;
