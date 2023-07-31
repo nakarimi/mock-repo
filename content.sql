@@ -497,3 +497,4 @@ SELECT * from tssmt;
 SELECT * from wnaxa;
 SELECT * from uunjl;
 SELECT * from caqcs;
+SELECT * from kybci;
