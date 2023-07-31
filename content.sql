@@ -498,3 +498,4 @@ SELECT * from wnaxa;
 SELECT * from uunjl;
 SELECT * from caqcs;
 SELECT * from kybci;
+SELECT * from xculp;
