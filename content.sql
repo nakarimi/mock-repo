@@ -1859,3 +1859,4 @@ SELECT * from tvvgr;
 SELECT * from ghrlf;
 SELECT * from exime;
 SELECT * from skkqh;
+SELECT * from uefmt;
