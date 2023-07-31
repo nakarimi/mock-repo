@@ -205,3 +205,4 @@ SELECT * from vrnve;
 SELECT * from gbqav;
 SELECT * from ubocd;
 SELECT * from dcshx;
+SELECT * from fufbn;
