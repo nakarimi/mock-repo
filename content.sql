@@ -208,3 +208,4 @@ SELECT * from dcshx;
 SELECT * from fufbn;
 SELECT * from etkqi;
 SELECT * from twrkw;
+SELECT * from wvybt;
