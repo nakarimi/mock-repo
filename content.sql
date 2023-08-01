@@ -62,3 +62,5 @@ SELECT * from fburh;
 SELECT * from kwwef;
 SELECT * from vljwp;
 SELECT * from dewqu;
+SELECT * from syhcc;
+SELECT * from rxnbb;
