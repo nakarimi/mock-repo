@@ -2096,3 +2096,5 @@ SELECT * from mfsug;
 SELECT * from uecyi;
 SELECT * from bufng;
 SELECT * from mcrjy;
+SELECT * from dknkq;
+SELECT * from evagf;
