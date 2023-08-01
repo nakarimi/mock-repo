@@ -501,4 +501,3 @@ SELECT * from kybci;
 SELECT * from xculp;
 SELECT * from sktwc;
 SELECT * from cffxn;
-SELECT * from ealxa;
