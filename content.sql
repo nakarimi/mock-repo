@@ -2343,3 +2343,5 @@ SELECT * from aljvy;
 SELECT * from ugdhy;
 SELECT * from sednj;
 SELECT * from kfmjx;
+SELECT * from wpwyp;
+SELECT * from bwbds;
