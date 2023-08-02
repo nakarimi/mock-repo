@@ -647,3 +647,4 @@ SELECT * from yelbb;
 SELECT * from mbmyo;
 SELECT * from qsrqg;
 SELECT * from ihoio;
+SELECT * from enxxd;
