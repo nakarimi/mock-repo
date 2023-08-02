@@ -503,3 +503,4 @@ SELECT * from sktwc;
 SELECT * from cffxn;
 SELECT * from vcphg;
 SELECT * from ruwwo;
+SELECT * from eujjq;
