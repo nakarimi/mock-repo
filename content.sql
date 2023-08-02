@@ -209,3 +209,4 @@ SELECT * from fufbn;
 SELECT * from etkqi;
 SELECT * from twrkw;
 SELECT * from gujmy;
+SELECT * from epesx;
