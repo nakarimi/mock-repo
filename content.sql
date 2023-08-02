@@ -2098,3 +2098,4 @@ SELECT * from bufng;
 SELECT * from mcrjy;
 SELECT * from dknkq;
 SELECT * from xblsh;
+SELECT * from ulqxm;
