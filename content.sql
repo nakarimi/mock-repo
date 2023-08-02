@@ -2345,3 +2345,4 @@ SELECT * from sednj;
 SELECT * from kfmjx;
 SELECT * from wpwyp;
 SELECT * from hdguf;
+SELECT * from dysyx;
