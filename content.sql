@@ -502,3 +502,4 @@ SELECT * from xculp;
 SELECT * from sktwc;
 SELECT * from cffxn;
 SELECT * from vcphg;
+SELECT * from ruwwo;
