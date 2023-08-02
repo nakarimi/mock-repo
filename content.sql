@@ -210,3 +210,4 @@ SELECT * from etkqi;
 SELECT * from twrkw;
 SELECT * from gujmy;
 SELECT * from epesx;
+SELECT * from igmxh;
