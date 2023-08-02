@@ -1862,3 +1862,4 @@ SELECT * from skkqh;
 SELECT * from uefmt;
 SELECT * from jjwfj;
 SELECT * from eboib;
+SELECT * from wdlai;
