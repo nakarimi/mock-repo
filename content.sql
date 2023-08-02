@@ -2347,3 +2347,4 @@ SELECT * from wpwyp;
 SELECT * from hdguf;
 SELECT * from dysyx;
 SELECT * from prbry;
+SELECT * from jsynh;
