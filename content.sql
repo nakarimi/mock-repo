@@ -1861,3 +1861,4 @@ SELECT * from exime;
 SELECT * from skkqh;
 SELECT * from uefmt;
 SELECT * from jjwfj;
+SELECT * from eboib;
