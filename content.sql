@@ -359,3 +359,4 @@ SELECT * from arpgd;
 SELECT * from ponae;
 SELECT * from sfvhd;
 SELECT * from diwmm;
+SELECT * from husdr;
