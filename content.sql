@@ -66,3 +66,4 @@ SELECT * from syhcc;
 SELECT * from guuyo;
 SELECT * from owiip;
 SELECT * from xlpqc;
+SELECT * from yidtq;
