@@ -650,3 +650,4 @@ SELECT * from ihoio;
 SELECT * from enxxd;
 SELECT * from hlvca;
 SELECT * from qnhdb;
+SELECT * from prhtv;
