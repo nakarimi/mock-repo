@@ -212,3 +212,4 @@ SELECT * from gujmy;
 SELECT * from epesx;
 SELECT * from igmxh;
 SELECT * from gqdxi;
+SELECT * from ashmd;
