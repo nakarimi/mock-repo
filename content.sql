@@ -67,4 +67,4 @@ SELECT * from guuyo;
 SELECT * from owiip;
 SELECT * from xlpqc;
 SELECT * from yidtq;
-SELECT * from kricf;
+SELECT * from lcmwi;
