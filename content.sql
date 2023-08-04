@@ -360,4 +360,4 @@ SELECT * from ponae;
 SELECT * from sfvhd;
 SELECT * from diwmm;
 SELECT * from husdr;
-SELECT * from jvdth;
+SELECT * from libix;
