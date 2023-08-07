@@ -652,3 +652,4 @@ SELECT * from hlvca;
 SELECT * from qnhdb;
 SELECT * from xfmdc;
 SELECT * from imjfu;
+SELECT * from kgqar;
