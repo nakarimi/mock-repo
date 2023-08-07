@@ -69,3 +69,4 @@ SELECT * from xlpqc;
 SELECT * from yidtq;
 SELECT * from lcmwi;
 SELECT * from cprbl;
+SELECT * from qkeqs;
