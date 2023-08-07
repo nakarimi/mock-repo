@@ -507,3 +507,4 @@ SELECT * from eujjq;
 SELECT * from xacng;
 SELECT * from pqmpm;
 SELECT * from barng;
+SELECT * from cmney;
