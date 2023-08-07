@@ -362,3 +362,4 @@ SELECT * from diwmm;
 SELECT * from husdr;
 SELECT * from libix;
 SELECT * from rgyqa;
+SELECT * from pdbna;
