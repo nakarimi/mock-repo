@@ -1867,3 +1867,4 @@ SELECT * from omhus;
 SELECT * from wunsp;
 SELECT * from ufbgx;
 SELECT * from kbbjq;
+SELECT * from gncrg;
