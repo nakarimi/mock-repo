@@ -72,5 +72,4 @@
         echo "rnhjx";
         echo "lfban";
         echo "oynlo";
-        echo "hjyyk";
 ?>
