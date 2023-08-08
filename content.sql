@@ -2352,3 +2352,4 @@ SELECT * from lyqmi;
 SELECT * from bbkir;
 SELECT * from xpqyn;
 SELECT * from nutud;
+SELECT * from necoc;
