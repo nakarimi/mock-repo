@@ -654,3 +654,4 @@ SELECT * from xfmdc;
 SELECT * from imjfu;
 SELECT * from tmpas;
 SELECT * from vdqhv;
+SELECT * from ukbhp;
