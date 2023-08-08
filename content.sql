@@ -363,3 +363,4 @@ SELECT * from husdr;
 SELECT * from libix;
 SELECT * from rgyqa;
 SELECT * from urcpr;
+SELECT * from vjqog;
