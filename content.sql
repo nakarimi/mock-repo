@@ -508,3 +508,4 @@ SELECT * from xacng;
 SELECT * from pqmpm;
 SELECT * from barng;
 SELECT * from urkbq;
+SELECT * from pjnor;
