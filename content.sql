@@ -216,3 +216,4 @@ SELECT * from etmwh;
 SELECT * from fbspv;
 SELECT * from afccg;
 SELECT * from ifoby;
+SELECT * from qkajs;
