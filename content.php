@@ -173,4 +173,5 @@
         echo "kdirx";
         echo "kmehr";
         echo "bgean";
+        echo "thril";
 ?>
