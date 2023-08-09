@@ -510,3 +510,4 @@ SELECT * from barng;
 SELECT * from urkbq;
 SELECT * from pjnor;
 SELECT * from ahmrh;
+SELECT * from fnfxk;
