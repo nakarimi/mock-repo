@@ -73,3 +73,4 @@ SELECT * from ifouj;
 SELECT * from shqqr;
 SELECT * from euufh;
 SELECT * from nstdj;
+SELECT * from wdpyq;
