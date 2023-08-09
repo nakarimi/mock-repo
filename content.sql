@@ -218,3 +218,4 @@ SELECT * from afccg;
 SELECT * from ifoby;
 SELECT * from qkajs;
 SELECT * from ycfab;
+SELECT * from tashj;
