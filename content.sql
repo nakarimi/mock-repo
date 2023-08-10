@@ -2107,3 +2107,5 @@ SELECT * from cmfkh;
 SELECT * from hfvtm;
 SELECT * from fowit;
 SELECT * from gbmnb;
+SELECT * from mmqqf;
+SELECT * from sofwq;
