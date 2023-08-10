@@ -656,3 +656,5 @@ SELECT * from tmpas;
 SELECT * from vdqhv;
 SELECT * from ukbhp;
 SELECT * from rfnro;
+SELECT * from smotb;
+SELECT * from aqhuf;
