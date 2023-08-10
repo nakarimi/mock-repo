@@ -23,4 +23,5 @@
         echo "nqsnr";
         echo "ochrp";
         echo "uwcow";
+        echo "wspnx";
 ?>
