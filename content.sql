@@ -2355,3 +2355,4 @@ SELECT * from nutud;
 SELECT * from necoc;
 SELECT * from uwkvf;
 SELECT * from houai;
+SELECT * from pdesk;
