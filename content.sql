@@ -368,3 +368,4 @@ SELECT * from gtxbg;
 SELECT * from ckaia;
 SELECT * from ockde;
 SELECT * from qwmqy;
+SELECT * from egxeg;
