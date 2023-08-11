@@ -220,3 +220,4 @@ SELECT * from qkajs;
 SELECT * from ycfab;
 SELECT * from tashj;
 SELECT * from joirg;
+SELECT * from rtjlx;
