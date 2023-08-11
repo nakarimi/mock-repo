@@ -2109,3 +2109,4 @@ SELECT * from fowit;
 SELECT * from gbmnb;
 SELECT * from mmqqf;
 SELECT * from sofwq;
+SELECT * from hsoul;
