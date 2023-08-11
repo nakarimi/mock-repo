@@ -2356,3 +2356,4 @@ SELECT * from necoc;
 SELECT * from uwkvf;
 SELECT * from houai;
 SELECT * from pdesk;
+SELECT * from anjjk;
