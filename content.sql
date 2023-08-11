@@ -658,3 +658,4 @@ SELECT * from ukbhp;
 SELECT * from rfnro;
 SELECT * from smotb;
 SELECT * from aqhuf;
+SELECT * from vbwxo;
