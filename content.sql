@@ -2358,3 +2358,4 @@ SELECT * from houai;
 SELECT * from pdesk;
 SELECT * from anjjk;
 SELECT * from buwnq;
+SELECT * from slvya;
