@@ -24,5 +24,4 @@
         echo "ochrp";
         echo "uwcow";
         echo "fkwby";
-        echo "ufphw";
 ?>
