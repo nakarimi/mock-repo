@@ -1174,5 +1174,4 @@
         echo "cpcwa";
         echo "owlwo";
         echo "gnnpv";
-        echo "scxtp";
 ?>
