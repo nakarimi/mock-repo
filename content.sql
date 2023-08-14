@@ -515,4 +515,3 @@ SELECT * from hliff;
 SELECT * from cfxou;
 SELECT * from gtexw;
 SELECT * from iqjth;
-SELECT * from nnccp;
