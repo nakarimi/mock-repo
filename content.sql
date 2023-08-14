@@ -76,3 +76,4 @@ SELECT * from nstdj;
 SELECT * from wdpyq;
 SELECT * from npopj;
 SELECT * from nwiqt;
+SELECT * from mcdcj;
