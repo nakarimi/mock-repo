@@ -1874,4 +1874,3 @@ SELECT * from ulfkv;
 SELECT * from gbmnl;
 SELECT * from uxhtr;
 SELECT * from cxbgq;
-SELECT * from iopgl;
