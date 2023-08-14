@@ -2111,3 +2111,4 @@ SELECT * from mmqqf;
 SELECT * from sofwq;
 SELECT * from hsoul;
 SELECT * from pemnt;
+SELECT * from tepwe;
