@@ -221,3 +221,4 @@ SELECT * from ycfab;
 SELECT * from tashj;
 SELECT * from joirg;
 SELECT * from rtjlx;
+SELECT * from cfnyx;
