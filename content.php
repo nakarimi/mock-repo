@@ -1059,5 +1059,4 @@
         echo "etytt";
         echo "ibxnp";
         echo "gthkv";
-        echo "ppikc";
 ?>
