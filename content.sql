@@ -222,4 +222,3 @@ SELECT * from tashj;
 SELECT * from joirg;
 SELECT * from rtjlx;
 SELECT * from cfnyx;
-SELECT * from dwxqk;
