@@ -175,5 +175,4 @@
         echo "bgean";
         echo "pmrut";
         echo "uihei";
-        echo "lrbsw";
 ?>
