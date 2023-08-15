@@ -224,5 +224,4 @@
         echo "yjxss";
         echo "ghfyf";
         echo "hfafx";
-        echo "xobfe";
 ?>
