@@ -225,3 +225,4 @@ SELECT * from cfnyx;
 SELECT * from vlddo;
 SELECT * from eusyl;
 SELECT * from mkobj;
+SELECT * from ttusj;
