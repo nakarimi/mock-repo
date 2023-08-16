@@ -519,3 +519,4 @@ SELECT * from dwudp;
 SELECT * from ssaix;
 SELECT * from qsjqe;
 SELECT * from fvpcs;
+SELECT * from gcecw;
