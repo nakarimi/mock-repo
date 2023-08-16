@@ -81,3 +81,4 @@ SELECT * from saahw;
 SELECT * from ssvby;
 SELECT * from jtkfc;
 SELECT * from cghvv;
+SELECT * from vvugo;
