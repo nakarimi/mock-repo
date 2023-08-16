@@ -2360,3 +2360,4 @@ SELECT * from anjjk;
 SELECT * from buwnq;
 SELECT * from usjif;
 SELECT * from ualnt;
+SELECT * from mulho;
