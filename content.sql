@@ -372,3 +372,4 @@ SELECT * from egxeg;
 SELECT * from scmkj;
 SELECT * from uwwqb;
 SELECT * from amcla;
+SELECT * from ajyxu;
