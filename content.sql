@@ -663,3 +663,4 @@ SELECT * from ulcsv;
 SELECT * from svswr;
 SELECT * from hcvbs;
 SELECT * from gcerm;
+SELECT * from qxnty;
