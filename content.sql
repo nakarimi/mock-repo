@@ -226,3 +226,4 @@ SELECT * from vlddo;
 SELECT * from eusyl;
 SELECT * from mkobj;
 SELECT * from ttusj;
+SELECT * from jveoi;
