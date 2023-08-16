@@ -79,3 +79,4 @@ SELECT * from nwiqt;
 SELECT * from mcdcj;
 SELECT * from saahw;
 SELECT * from ssvby;
+SELECT * from jtkfc;
