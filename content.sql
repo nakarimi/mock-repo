@@ -80,3 +80,4 @@ SELECT * from mcdcj;
 SELECT * from saahw;
 SELECT * from ssvby;
 SELECT * from jtkfc;
+SELECT * from cghvv;
