@@ -1878,3 +1878,4 @@ SELECT * from dvueh;
 SELECT * from nfmwv;
 SELECT * from iinhs;
 SELECT * from ejhjc;
+SELECT * from ueogq;
