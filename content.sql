@@ -2113,3 +2113,4 @@ SELECT * from hsoul;
 SELECT * from pemnt;
 SELECT * from gswji;
 SELECT * from taobc;
+SELECT * from owvmi;
