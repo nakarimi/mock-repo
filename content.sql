@@ -517,3 +517,4 @@ SELECT * from gtexw;
 SELECT * from iqjth;
 SELECT * from dwudp;
 SELECT * from ssaix;
+SELECT * from qsjqe;
