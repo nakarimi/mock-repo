@@ -1877,3 +1877,4 @@ SELECT * from cxbgq;
 SELECT * from dvueh;
 SELECT * from nfmwv;
 SELECT * from iinhs;
+SELECT * from ejhjc;
