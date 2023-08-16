@@ -664,3 +664,4 @@ SELECT * from svswr;
 SELECT * from hcvbs;
 SELECT * from gcerm;
 SELECT * from qxnty;
+SELECT * from acmiu;
