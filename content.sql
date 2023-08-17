@@ -375,3 +375,4 @@ SELECT * from amcla;
 SELECT * from ajyxu;
 SELECT * from sanel;
 SELECT * from ytkys;
+SELECT * from tolso;
