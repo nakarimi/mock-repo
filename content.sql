@@ -2363,3 +2363,4 @@ SELECT * from ualnt;
 SELECT * from mulho;
 SELECT * from ievef;
 SELECT * from rckkw;
+SELECT * from nrikk;
