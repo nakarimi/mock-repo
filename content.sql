@@ -520,3 +520,4 @@ SELECT * from ssaix;
 SELECT * from qsjqe;
 SELECT * from fvpcs;
 SELECT * from gcecw;
+SELECT * from ehfwi;
