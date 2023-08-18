@@ -2364,4 +2364,4 @@ SELECT * from mulho;
 SELECT * from ievef;
 SELECT * from rckkw;
 SELECT * from nrikk;
-SELECT * from jvbnv;
+SELECT * from plnox;
