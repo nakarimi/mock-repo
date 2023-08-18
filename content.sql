@@ -83,4 +83,4 @@ SELECT * from jtkfc;
 SELECT * from cghvv;
 SELECT * from vvugo;
 SELECT * from sredi;
-SELECT * from fftnu;
+SELECT * from katkx;
