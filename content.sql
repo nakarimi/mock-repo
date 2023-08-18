@@ -376,4 +376,4 @@ SELECT * from ajyxu;
 SELECT * from sanel;
 SELECT * from ytkys;
 SELECT * from tolso;
-SELECT * from wcuto;
+SELECT * from yodqq;
