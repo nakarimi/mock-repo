@@ -228,4 +228,4 @@ SELECT * from mkobj;
 SELECT * from ttusj;
 SELECT * from jveoi;
 SELECT * from tlbgj;
-SELECT * from wevnr;
+SELECT * from gupdg;
