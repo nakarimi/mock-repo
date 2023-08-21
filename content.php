@@ -953,5 +953,4 @@
         echo "xkaqj";
         echo "lowbu";
         echo "lbanm";
-        echo "ucory";
 ?>
