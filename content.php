@@ -24,5 +24,4 @@
         echo "ochrp";
         echo "vuxix";
         echo "exdwo";
-        echo "wtmts";
 ?>
