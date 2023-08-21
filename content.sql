@@ -2118,3 +2118,4 @@ SELECT * from ovfjy;
 SELECT * from sjjbr;
 SELECT * from nayop;
 SELECT * from tgxcr;
+SELECT * from ondmo;
