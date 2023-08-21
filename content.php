@@ -1173,5 +1173,4 @@
         echo "pjkoj";
         echo "cpcwa";
         echo "krktc";
-        echo "gqoye";
 ?>
