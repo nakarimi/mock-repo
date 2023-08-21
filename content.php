@@ -124,5 +124,4 @@
         echo "ntpmq";
         echo "tgapl";
         echo "ljkbg";
-        echo "xngny";
 ?>
