@@ -522,3 +522,4 @@ SELECT * from fvpcs;
 SELECT * from gcecw;
 SELECT * from ehfwi;
 SELECT * from qlexx;
+SELECT * from oshge;
