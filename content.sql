@@ -667,3 +667,4 @@ SELECT * from qxnty;
 SELECT * from acmiu;
 SELECT * from nqcbc;
 SELECT * from vnmuq;
+SELECT * from ifmle;
