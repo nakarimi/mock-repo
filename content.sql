@@ -84,3 +84,4 @@ SELECT * from cghvv;
 SELECT * from vvugo;
 SELECT * from sredi;
 SELECT * from yidad;
+SELECT * from fwbvt;
