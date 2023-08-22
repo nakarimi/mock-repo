@@ -85,4 +85,4 @@ SELECT * from vvugo;
 SELECT * from sredi;
 SELECT * from yidad;
 SELECT * from fwbvt;
-SELECT * from nratp;
+SELECT * from mpnmj;
