@@ -223,5 +223,4 @@
         echo "grnic";
         echo "yjxss";
         echo "ghfyf";
-        echo "dbegb";
 ?>
