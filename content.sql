@@ -1882,3 +1882,4 @@ SELECT * from ueogq;
 SELECT * from dvlvf;
 SELECT * from hniqd;
 SELECT * from kbuuc;
+SELECT * from ttgcx;
