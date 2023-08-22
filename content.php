@@ -1172,5 +1172,4 @@
         echo "yjcru";
         echo "pjkoj";
         echo "cpcwa";
-        echo "lacpl";
 ?>
