@@ -230,4 +230,4 @@ SELECT * from jveoi;
 SELECT * from tlbgj;
 SELECT * from dkayq;
 SELECT * from pbdhv;
-SELECT * from hmpcr;
+SELECT * from nxmid;
