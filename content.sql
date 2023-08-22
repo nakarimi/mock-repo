@@ -2366,3 +2366,4 @@ SELECT * from rckkw;
 SELECT * from nrikk;
 SELECT * from cdwmo;
 SELECT * from rrelq;
+SELECT * from mwduu;
