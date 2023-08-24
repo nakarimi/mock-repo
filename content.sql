@@ -2120,3 +2120,4 @@ SELECT * from nayop;
 SELECT * from tgxcr;
 SELECT * from ondmo;
 SELECT * from gwmal;
+SELECT * from svqqb;
