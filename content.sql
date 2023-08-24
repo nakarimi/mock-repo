@@ -378,4 +378,4 @@ SELECT * from ytkys;
 SELECT * from tolso;
 SELECT * from klmod;
 SELECT * from qxaem;
-SELECT * from rpsdd;
+SELECT * from hwasp;
