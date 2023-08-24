@@ -669,3 +669,4 @@ SELECT * from nqcbc;
 SELECT * from vnmuq;
 SELECT * from ifmle;
 SELECT * from foetu;
+SELECT * from cawfn;
