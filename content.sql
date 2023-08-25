@@ -525,3 +525,4 @@ SELECT * from qlexx;
 SELECT * from oshge;
 SELECT * from howid;
 SELECT * from bdstq;
+SELECT * from ampdj;
