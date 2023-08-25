@@ -87,3 +87,4 @@ SELECT * from yidad;
 SELECT * from fwbvt;
 SELECT * from vuehm;
 SELECT * from fkhit;
+SELECT * from trnho;
