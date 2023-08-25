@@ -89,4 +89,4 @@ SELECT * from vuehm;
 SELECT * from fkhit;
 SELECT * from trnho;
 SELECT * from ntkes;
-SELECT * from usdkk;
+SELECT * from axins;
