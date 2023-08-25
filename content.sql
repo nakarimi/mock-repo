@@ -2368,3 +2368,4 @@ SELECT * from cdwmo;
 SELECT * from rrelq;
 SELECT * from wobfi;
 SELECT * from xyejq;
+SELECT * from cohdj;
