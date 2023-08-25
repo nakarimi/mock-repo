@@ -2123,3 +2123,4 @@ SELECT * from gwmal;
 SELECT * from gsngo;
 SELECT * from lxcqq;
 SELECT * from rjrpw;
+SELECT * from crpgi;
