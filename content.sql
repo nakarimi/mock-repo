@@ -379,4 +379,4 @@ SELECT * from tolso;
 SELECT * from klmod;
 SELECT * from qxaem;
 SELECT * from iqucc;
-SELECT * from myljf;
+SELECT * from odswy;
