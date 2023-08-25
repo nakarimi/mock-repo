@@ -233,3 +233,4 @@ SELECT * from pbdhv;
 SELECT * from ghacr;
 SELECT * from lynbf;
 SELECT * from dfxcg;
+SELECT * from cyvtx;
