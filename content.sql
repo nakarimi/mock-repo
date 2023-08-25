@@ -380,3 +380,4 @@ SELECT * from klmod;
 SELECT * from qxaem;
 SELECT * from iqucc;
 SELECT * from odswy;
+SELECT * from fnmop;
