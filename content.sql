@@ -524,4 +524,4 @@ SELECT * from ehfwi;
 SELECT * from qlexx;
 SELECT * from oshge;
 SELECT * from howid;
-SELECT * from cltbr;
+SELECT * from bdstq;
