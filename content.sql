@@ -382,4 +382,4 @@ SELECT * from iqucc;
 SELECT * from odswy;
 SELECT * from fnmop;
 SELECT * from iyrqu;
-SELECT * from wtqxt;
+SELECT * from jpisn;
