@@ -88,3 +88,4 @@ SELECT * from fwbvt;
 SELECT * from vuehm;
 SELECT * from fkhit;
 SELECT * from trnho;
+SELECT * from ntkes;
