@@ -86,4 +86,4 @@ SELECT * from sredi;
 SELECT * from yidad;
 SELECT * from fwbvt;
 SELECT * from vuehm;
-SELECT * from qckxb;
+SELECT * from fkhit;
