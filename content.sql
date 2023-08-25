@@ -670,3 +670,4 @@ SELECT * from vnmuq;
 SELECT * from ifmle;
 SELECT * from foetu;
 SELECT * from njimq;
+SELECT * from cfpct;
