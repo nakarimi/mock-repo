@@ -527,4 +527,4 @@ SELECT * from howid;
 SELECT * from bdstq;
 SELECT * from ampdj;
 SELECT * from ujxsy;
-SELECT * from kugkm;
+SELECT * from bpwcs;
