@@ -673,3 +673,4 @@ SELECT * from njimq;
 SELECT * from cfpct;
 SELECT * from qogoe;
 SELECT * from kxleo;
+SELECT * from wpacu;
