@@ -90,3 +90,4 @@ SELECT * from fkhit;
 SELECT * from trnho;
 SELECT * from ntkes;
 SELECT * from wfwlk;
+SELECT * from xocfh;
