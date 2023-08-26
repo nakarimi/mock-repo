@@ -528,3 +528,4 @@ SELECT * from bdstq;
 SELECT * from ampdj;
 SELECT * from ujxsy;
 SELECT * from bpwcs;
+SELECT * from wsjwm;
