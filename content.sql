@@ -1890,3 +1890,4 @@ SELECT * from cunpj;
 SELECT * from xvhij;
 SELECT * from nhbhr;
 SELECT * from ixxws;
+SELECT * from qsxwx;
