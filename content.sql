@@ -2127,3 +2127,4 @@ SELECT * from juwgp;
 SELECT * from polmm;
 SELECT * from xmcgs;
 SELECT * from ossyg;
+SELECT * from wcmdu;
