@@ -531,3 +531,4 @@ SELECT * from bpwcs;
 SELECT * from wsjwm;
 SELECT * from basgr;
 SELECT * from utfws;
+SELECT * from iwctl;
