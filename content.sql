@@ -237,3 +237,4 @@ SELECT * from cyvtx;
 SELECT * from apfib;
 SELECT * from xqvcb;
 SELECT * from rudcn;
+SELECT * from amwfb;
