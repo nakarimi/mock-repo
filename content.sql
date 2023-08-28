@@ -676,3 +676,4 @@ SELECT * from kxleo;
 SELECT * from wpacu;
 SELECT * from uvqps;
 SELECT * from jnkmo;
+SELECT * from prvjf;
