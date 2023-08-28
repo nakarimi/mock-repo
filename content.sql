@@ -2372,3 +2372,4 @@ SELECT * from cohdj;
 SELECT * from ydlul;
 SELECT * from sjbop;
 SELECT * from fjcvg;
+SELECT * from qiexd;
