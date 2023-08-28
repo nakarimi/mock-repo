@@ -92,3 +92,4 @@ SELECT * from ntkes;
 SELECT * from wfwlk;
 SELECT * from xocfh;
 SELECT * from pubhw;
+SELECT * from kmjkt;
