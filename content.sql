@@ -2374,3 +2374,4 @@ SELECT * from sjbop;
 SELECT * from fjcvg;
 SELECT * from qiexd;
 SELECT * from ycoah;
+SELECT * from lovhf;
