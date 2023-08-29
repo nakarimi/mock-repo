@@ -239,3 +239,4 @@ SELECT * from xqvcb;
 SELECT * from rudcn;
 SELECT * from amwfb;
 SELECT * from bxlis;
+SELECT * from tasqh;
