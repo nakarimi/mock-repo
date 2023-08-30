@@ -2130,4 +2130,3 @@ SELECT * from ossyg;
 SELECT * from wcmdu;
 SELECT * from yvcvo;
 SELECT * from gvdnc;
-SELECT * from fijwh;
