@@ -679,4 +679,3 @@ SELECT * from jnkmo;
 SELECT * from prvjf;
 SELECT * from vccyd;
 SELECT * from saejd;
-SELECT * from dtwss;
