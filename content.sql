@@ -2131,3 +2131,4 @@ SELECT * from wcmdu;
 SELECT * from yvcvo;
 SELECT * from nhidy;
 SELECT * from qcgod;
+SELECT * from ngxix;
