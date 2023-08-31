@@ -389,3 +389,4 @@ SELECT * from fusdh;
 SELECT * from evgaq;
 SELECT * from oflkg;
 SELECT * from kmwmx;
+SELECT * from nqwsy;
