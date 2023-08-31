@@ -680,3 +680,4 @@ SELECT * from prvjf;
 SELECT * from vccyd;
 SELECT * from ncyfg;
 SELECT * from cxoms;
+SELECT * from vcfmn;
