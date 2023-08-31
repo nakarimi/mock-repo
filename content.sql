@@ -2378,3 +2378,4 @@ SELECT * from lovhf;
 SELECT * from hbcgn;
 SELECT * from bjxwy;
 SELECT * from ycohb;
+SELECT * from ftkba;
