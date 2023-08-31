@@ -97,3 +97,4 @@ SELECT * from iejbl;
 SELECT * from akqrh;
 SELECT * from xrnsf;
 SELECT * from sxajq;
+SELECT * from inhiw;
