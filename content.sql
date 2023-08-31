@@ -241,3 +241,4 @@ SELECT * from amwfb;
 SELECT * from bxlis;
 SELECT * from tasqh;
 SELECT * from xpuku;
+SELECT * from asthv;
