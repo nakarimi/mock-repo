@@ -534,3 +534,4 @@ SELECT * from utfws;
 SELECT * from iwctl;
 SELECT * from rmlrp;
 SELECT * from nanwi;
+SELECT * from sutfc;
