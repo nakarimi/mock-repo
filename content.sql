@@ -2379,3 +2379,4 @@ SELECT * from hbcgn;
 SELECT * from bjxwy;
 SELECT * from ycohb;
 SELECT * from ftkba;
+SELECT * from hmdmc;
