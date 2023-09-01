@@ -1895,3 +1895,4 @@ SELECT * from vybqf;
 SELECT * from varxw;
 SELECT * from xupad;
 SELECT * from fpgws;
+SELECT * from yqfqq;
