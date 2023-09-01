@@ -682,3 +682,4 @@ SELECT * from ncyfg;
 SELECT * from cxoms;
 SELECT * from vcfmn;
 SELECT * from ilnak;
+SELECT * from jrfwb;
