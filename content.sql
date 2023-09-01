@@ -243,3 +243,4 @@ SELECT * from tasqh;
 SELECT * from xpuku;
 SELECT * from asthv;
 SELECT * from kgdtd;
+SELECT * from nufbv;
