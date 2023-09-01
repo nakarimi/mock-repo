@@ -536,3 +536,4 @@ SELECT * from rmlrp;
 SELECT * from nanwi;
 SELECT * from sutfc;
 SELECT * from nydxh;
+SELECT * from fyufm;
