@@ -244,3 +244,4 @@ SELECT * from xpuku;
 SELECT * from asthv;
 SELECT * from kgdtd;
 SELECT * from nufbv;
+SELECT * from cskua;
