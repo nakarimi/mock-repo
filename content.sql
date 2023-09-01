@@ -393,3 +393,4 @@ SELECT * from nqwsy;
 SELECT * from wvmgm;
 SELECT * from hofiy;
 SELECT * from omoji;
+SELECT * from nxgxs;
