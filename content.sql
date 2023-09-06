@@ -2382,3 +2382,4 @@ SELECT * from ftkba;
 SELECT * from hmdmc;
 SELECT * from kynxq;
 SELECT * from sxwos;
+SELECT * from mnsvt;
