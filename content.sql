@@ -101,3 +101,4 @@ SELECT * from inhiw;
 SELECT * from ggmib;
 SELECT * from qfvtm;
 SELECT * from nbyql;
+SELECT * from xhtni;
