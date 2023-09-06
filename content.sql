@@ -539,3 +539,4 @@ SELECT * from nydxh;
 SELECT * from fyufm;
 SELECT * from rhgna;
 SELECT * from cuegd;
+SELECT * from uhmsb;
