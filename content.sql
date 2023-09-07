@@ -396,3 +396,4 @@ SELECT * from omoji;
 SELECT * from oottc;
 SELECT * from ofygm;
 SELECT * from exfwr;
+SELECT * from haauv;
