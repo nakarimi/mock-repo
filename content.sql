@@ -247,3 +247,4 @@ SELECT * from nufbv;
 SELECT * from cskua;
 SELECT * from vgghm;
 SELECT * from uvopt;
+SELECT * from trfrm;
