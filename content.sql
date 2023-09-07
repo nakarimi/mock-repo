@@ -1899,3 +1899,4 @@ SELECT * from yqfqq;
 SELECT * from wnhmk;
 SELECT * from ejccg;
 SELECT * from yejqy;
+SELECT * from uksgb;
