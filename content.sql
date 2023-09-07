@@ -102,3 +102,4 @@ SELECT * from ggmib;
 SELECT * from qfvtm;
 SELECT * from nbyql;
 SELECT * from xhtni;
+SELECT * from ymamj;
