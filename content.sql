@@ -395,3 +395,4 @@ SELECT * from hofiy;
 SELECT * from omoji;
 SELECT * from oottc;
 SELECT * from ofygm;
+SELECT * from exfwr;
