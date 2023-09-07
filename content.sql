@@ -2384,3 +2384,4 @@ SELECT * from kynxq;
 SELECT * from sxwos;
 SELECT * from mnsvt;
 SELECT * from krrjr;
+SELECT * from ralws;
