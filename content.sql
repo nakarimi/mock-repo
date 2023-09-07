@@ -686,3 +686,4 @@ SELECT * from jrfwb;
 SELECT * from arapp;
 SELECT * from chull;
 SELECT * from onkvg;
+SELECT * from eaqra;
