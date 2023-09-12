@@ -542,3 +542,4 @@ SELECT * from cuegd;
 SELECT * from uhmsb;
 SELECT * from ufcdy;
 SELECT * from qqfhv;
+SELECT * from xsaaf;
