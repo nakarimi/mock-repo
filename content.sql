@@ -105,3 +105,4 @@ SELECT * from xhtni;
 SELECT * from ymamj;
 SELECT * from oasfe;
 SELECT * from kdyfy;
+SELECT * from tdpcs;
