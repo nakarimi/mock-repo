@@ -250,3 +250,4 @@ SELECT * from uvopt;
 SELECT * from trfrm;
 SELECT * from wjwiv;
 SELECT * from vwjia;
+SELECT * from uvsgq;
