@@ -2386,3 +2386,4 @@ SELECT * from mnsvt;
 SELECT * from krrjr;
 SELECT * from bdrry;
 SELECT * from ccnpw;
+SELECT * from kgsay;
