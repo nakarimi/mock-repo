@@ -398,3 +398,4 @@ SELECT * from ofygm;
 SELECT * from exfwr;
 SELECT * from jwvrd;
 SELECT * from hradl;
+SELECT * from tfclk;
