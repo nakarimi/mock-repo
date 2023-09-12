@@ -1901,3 +1901,4 @@ SELECT * from ejccg;
 SELECT * from yejqy;
 SELECT * from uksgb;
 SELECT * from rcgfx;
+SELECT * from gscef;
