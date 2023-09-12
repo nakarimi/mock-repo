@@ -2385,3 +2385,4 @@ SELECT * from sxwos;
 SELECT * from mnsvt;
 SELECT * from krrjr;
 SELECT * from bdrry;
+SELECT * from ccnpw;
