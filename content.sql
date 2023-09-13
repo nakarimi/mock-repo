@@ -2141,3 +2141,4 @@ SELECT * from nhpgj;
 SELECT * from erspc;
 SELECT * from mwvfg;
 SELECT * from humtf;
+SELECT * from ndxqo;
