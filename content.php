@@ -180,5 +180,4 @@
         echo "yyrda";
         echo "nytdh";
         echo "nmxwh";
-        echo "vmipy";
 ?>
