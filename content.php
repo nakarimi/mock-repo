@@ -230,5 +230,4 @@
         echo "wowbl";
         echo "ypduo";
         echo "dscxv";
-        echo "tbhqb";
 ?>

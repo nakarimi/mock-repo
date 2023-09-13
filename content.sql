@@ -689,3 +689,4 @@ SELECT * from onkvg;
 SELECT * from bsmos;
 SELECT * from yosvw;
 SELECT * from dgfcs;
+SELECT * from ewnsh;
