@@ -958,5 +958,4 @@
         echo "ratjb";
         echo "ahhel";
         echo "rntvd";
-        echo "btwcg";
 ?>
