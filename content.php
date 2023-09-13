@@ -130,5 +130,4 @@
         echo "hkuso";
         echo "yhbtj";
         echo "ndffv";
-        echo "ftvtb";
 ?>

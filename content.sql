@@ -399,3 +399,4 @@ SELECT * from exfwr;
 SELECT * from jwvrd;
 SELECT * from hradl;
 SELECT * from tfclk;
+SELECT * from lkyay;
