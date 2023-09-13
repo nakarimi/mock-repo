@@ -1179,5 +1179,4 @@
         echo "ulmgn";
         echo "vbpxf";
         echo "uwjrt";
-        echo "ricso";
 ?>
