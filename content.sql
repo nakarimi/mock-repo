@@ -2140,3 +2140,4 @@ SELECT * from dwpfe;
 SELECT * from nhpgj;
 SELECT * from erspc;
 SELECT * from mwvfg;
+SELECT * from humtf;
