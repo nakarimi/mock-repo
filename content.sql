@@ -107,3 +107,4 @@ SELECT * from oasfe;
 SELECT * from kdyfy;
 SELECT * from tdpcs;
 SELECT * from nqopq;
+SELECT * from sjuxe;
