@@ -252,3 +252,4 @@ SELECT * from wjwiv;
 SELECT * from vwjia;
 SELECT * from uvsgq;
 SELECT * from mhjyo;
+SELECT * from qicwh;
