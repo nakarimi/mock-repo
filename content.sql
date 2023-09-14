@@ -2389,3 +2389,4 @@ SELECT * from ccnpw;
 SELECT * from kgsay;
 SELECT * from nikvs;
 SELECT * from qhksb;
+SELECT * from vnylo;
