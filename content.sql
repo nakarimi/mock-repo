@@ -691,3 +691,4 @@ SELECT * from yosvw;
 SELECT * from dgfcs;
 SELECT * from ewnsh;
 SELECT * from kvbby;
+SELECT * from sxnsk;
