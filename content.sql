@@ -109,3 +109,4 @@ SELECT * from tdpcs;
 SELECT * from nqopq;
 SELECT * from sjuxe;
 SELECT * from dtscu;
+SELECT * from kevop;
