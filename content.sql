@@ -1906,3 +1906,4 @@ SELECT * from ygcse;
 SELECT * from eymms;
 SELECT * from blgph;
 SELECT * from ysfiq;
+SELECT * from muebu;
