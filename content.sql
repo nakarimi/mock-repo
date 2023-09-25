@@ -110,3 +110,4 @@ SELECT * from nqopq;
 SELECT * from sjuxe;
 SELECT * from dtscu;
 SELECT * from kevop;
+SELECT * from bmexw;
