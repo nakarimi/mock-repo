@@ -2391,3 +2391,4 @@ SELECT * from nikvs;
 SELECT * from qhksb;
 SELECT * from vnylo;
 SELECT * from psuph;
+SELECT * from dajch;
