@@ -1907,3 +1907,4 @@ SELECT * from eymms;
 SELECT * from blgph;
 SELECT * from ysfiq;
 SELECT * from muebu;
+SELECT * from ooybx;
