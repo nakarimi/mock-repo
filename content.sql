@@ -403,3 +403,4 @@ SELECT * from lkyay;
 SELECT * from cdgkk;
 SELECT * from xbpgy;
 SELECT * from fycaq;
+SELECT * from obuwm;
