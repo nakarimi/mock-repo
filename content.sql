@@ -111,3 +111,4 @@ SELECT * from sjuxe;
 SELECT * from dtscu;
 SELECT * from kevop;
 SELECT * from bmexw;
+SELECT * from mqbqi;
