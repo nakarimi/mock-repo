@@ -694,3 +694,4 @@ SELECT * from kvbby;
 SELECT * from sxnsk;
 SELECT * from jufvm;
 SELECT * from jpmsd;
+SELECT * from kklea;
