@@ -257,3 +257,4 @@ SELECT * from syeeo;
 SELECT * from vjgjn;
 SELECT * from eadwa;
 SELECT * from vmbuq;
+SELECT * from qspkx;
