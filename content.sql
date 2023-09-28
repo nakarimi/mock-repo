@@ -259,3 +259,4 @@ SELECT * from eadwa;
 SELECT * from vmbuq;
 SELECT * from qspkx;
 SELECT * from sdpkb;
+SELECT * from gehud;
