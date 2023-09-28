@@ -112,3 +112,4 @@ SELECT * from dtscu;
 SELECT * from kevop;
 SELECT * from bmexw;
 SELECT * from mqbqi;
+SELECT * from ljjjp;
