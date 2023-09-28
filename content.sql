@@ -260,3 +260,4 @@ SELECT * from vmbuq;
 SELECT * from qspkx;
 SELECT * from sdpkb;
 SELECT * from skbwp;
+SELECT * from mgahm;
