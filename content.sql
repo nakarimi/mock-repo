@@ -2146,4 +2146,3 @@ SELECT * from xejjx;
 SELECT * from iywms;
 SELECT * from madtj;
 SELECT * from dgpfb;
-SELECT * from vynqq;
