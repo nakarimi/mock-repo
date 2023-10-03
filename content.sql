@@ -1909,4 +1909,3 @@ SELECT * from ysfiq;
 SELECT * from muebu;
 SELECT * from ooybx;
 SELECT * from xumvb;
-SELECT * from vnctg;
