@@ -2393,4 +2393,3 @@ SELECT * from vnylo;
 SELECT * from psuph;
 SELECT * from dajch;
 SELECT * from prylv;
-SELECT * from gbyox;
