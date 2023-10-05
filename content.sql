@@ -1910,3 +1910,4 @@ SELECT * from muebu;
 SELECT * from ooybx;
 SELECT * from pritk;
 SELECT * from rivxg;
+SELECT * from ykfsc;
