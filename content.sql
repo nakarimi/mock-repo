@@ -2149,3 +2149,4 @@ SELECT * from rtvvk;
 SELECT * from beygc;
 SELECT * from dltnw;
 SELECT * from tykcb;
+SELECT * from mwgua;
