@@ -262,3 +262,4 @@ SELECT * from sdpkb;
 SELECT * from skbwp;
 SELECT * from mgahm;
 SELECT * from hlrqy;
+SELECT * from stssm;
