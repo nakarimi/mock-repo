@@ -2151,3 +2151,4 @@ SELECT * from dltnw;
 SELECT * from tykcb;
 SELECT * from mwgua;
 SELECT * from nqsrg;
+SELECT * from brjat;
