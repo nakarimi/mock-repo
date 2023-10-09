@@ -553,3 +553,4 @@ SELECT * from bbhwm;
 SELECT * from yfucm;
 SELECT * from sbfvx;
 SELECT * from qinmr;
+SELECT * from lwuqh;
