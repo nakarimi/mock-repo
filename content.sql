@@ -2153,3 +2153,4 @@ SELECT * from mwgua;
 SELECT * from nqsrg;
 SELECT * from brjat;
 SELECT * from afpfi;
+SELECT * from hklpx;
