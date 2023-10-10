@@ -1916,3 +1916,4 @@ SELECT * from ticxl;
 SELECT * from lrfrr;
 SELECT * from chvfx;
 SELECT * from nlick;
+SELECT * from ccjuv;
