@@ -264,3 +264,4 @@ SELECT * from mgahm;
 SELECT * from hlrqy;
 SELECT * from stssm;
 SELECT * from rtstr;
+SELECT * from liqst;
