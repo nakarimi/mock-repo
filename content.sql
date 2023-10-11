@@ -699,3 +699,4 @@ SELECT * from viiib;
 SELECT * from wpgyq;
 SELECT * from tiwlu;
 SELECT * from pmneh;
+SELECT * from bbnak;
