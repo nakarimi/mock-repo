@@ -1918,3 +1918,4 @@ SELECT * from chvfx;
 SELECT * from nlick;
 SELECT * from ccjuv;
 SELECT * from ucibn;
+SELECT * from karbs;
