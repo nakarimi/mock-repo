@@ -969,5 +969,5 @@
         echo "iulap";
         echo "youam";
         echo "cyrai";
-        echo "prnpc";
+        echo "nswbd";
 ?>
