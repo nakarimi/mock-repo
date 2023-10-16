@@ -1920,3 +1920,4 @@ SELECT * from ccjuv;
 SELECT * from ucibn;
 SELECT * from gmijw;
 SELECT * from raujk;
+SELECT * from iqioy;
