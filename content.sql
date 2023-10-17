@@ -1923,3 +1923,4 @@ SELECT * from raujk;
 SELECT * from iqioy;
 SELECT * from vtyvl;
 SELECT * from nltcq;
+SELECT * from lqsuh;
