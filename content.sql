@@ -2405,3 +2405,5 @@ SELECT * from iscyb;
 SELECT * from odbit;
 SELECT * from xioal;
 SELECT * from iiork;
+SELECT * from dlsmm;
+SELECT * from ebwgu;
