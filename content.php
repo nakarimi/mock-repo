@@ -971,5 +971,4 @@
         echo "cyrai";
         echo "upfiv";
         echo "kcqig";
-        echo "vyamq";
 ?>
