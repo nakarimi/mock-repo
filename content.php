@@ -1192,5 +1192,4 @@
         echo "ctjuc";
         echo "qebyj";
         echo "rkcvk";
-        echo "kgyfq";
 ?>
