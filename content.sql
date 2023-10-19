@@ -411,4 +411,3 @@ SELECT * from lpfju;
 SELECT * from bjfdx;
 SELECT * from gegww;
 SELECT * from ghoiv;
-SELECT * from hoyge;
