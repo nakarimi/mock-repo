@@ -1075,5 +1075,4 @@
         echo "kvqpx";
         echo "cprfe";
         echo "khotp";
-        echo "hgyft";
 ?>
