@@ -970,5 +970,4 @@
         echo "youam";
         echo "cyrai";
         echo "upfiv";
-        echo "ejtpe";
 ?>
