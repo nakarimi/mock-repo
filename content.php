@@ -33,5 +33,4 @@
         echo "nrklk";
         echo "xrnjv";
         echo "hmbib";
-        echo "yshlr";
 ?>
