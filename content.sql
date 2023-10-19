@@ -556,4 +556,3 @@ SELECT * from qinmr;
 SELECT * from lwuqh;
 SELECT * from kxwei;
 SELECT * from cnqrb;
-SELECT * from frwpo;
