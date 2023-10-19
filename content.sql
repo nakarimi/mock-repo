@@ -2161,4 +2161,3 @@ SELECT * from yongl;
 SELECT * from egbiv;
 SELECT * from xnkvf;
 SELECT * from gsgkj;
-SELECT * from ufkye;
