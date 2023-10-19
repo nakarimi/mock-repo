@@ -969,5 +969,4 @@
         echo "iulap";
         echo "youam";
         echo "cyrai";
-        echo "oqmqw";
 ?>
