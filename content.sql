@@ -701,3 +701,4 @@ SELECT * from tiwlu;
 SELECT * from pmneh;
 SELECT * from bbnak;
 SELECT * from vymld;
+SELECT * from svqux;
