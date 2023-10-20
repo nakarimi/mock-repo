@@ -266,3 +266,4 @@ SELECT * from stssm;
 SELECT * from rtstr;
 SELECT * from liqst;
 SELECT * from wneej;
+SELECT * from tktts;
