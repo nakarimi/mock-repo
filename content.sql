@@ -703,3 +703,4 @@ SELECT * from bbnak;
 SELECT * from vymld;
 SELECT * from svqux;
 SELECT * from cuxxt;
+SELECT * from idixo;
