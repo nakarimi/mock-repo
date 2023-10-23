@@ -268,3 +268,4 @@ SELECT * from liqst;
 SELECT * from wneej;
 SELECT * from tktts;
 SELECT * from vthgo;
+SELECT * from fawca;
