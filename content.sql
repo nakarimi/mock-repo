@@ -120,3 +120,4 @@ SELECT * from mpgax;
 SELECT * from gfise;
 SELECT * from ppfwo;
 SELECT * from yewnd;
+SELECT * from njpsr;
