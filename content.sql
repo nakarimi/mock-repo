@@ -413,3 +413,4 @@ SELECT * from gegww;
 SELECT * from ghoiv;
 SELECT * from hmamd;
 SELECT * from jlyvn;
+SELECT * from dtnfo;
