@@ -1925,3 +1925,4 @@ SELECT * from vtyvl;
 SELECT * from nltcq;
 SELECT * from kmdfg;
 SELECT * from jtbrg;
+SELECT * from rehar;
