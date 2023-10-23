@@ -2163,3 +2163,4 @@ SELECT * from xnkvf;
 SELECT * from bpnbv;
 SELECT * from dsydb;
 SELECT * from hecua;
+SELECT * from vhuwk;
