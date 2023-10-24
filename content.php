@@ -32,5 +32,4 @@
         echo "svpyp";
         echo "nrklk";
         echo "xrnjv";
-        echo "yiegp";
 ?>
