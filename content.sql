@@ -1927,3 +1927,4 @@ SELECT * from kmdfg;
 SELECT * from jtbrg;
 SELECT * from rehar;
 SELECT * from eovfq;
+SELECT * from cwfdb;
