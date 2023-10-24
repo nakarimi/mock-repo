@@ -970,5 +970,4 @@
         echo "youam";
         echo "xvjlq";
         echo "qjcmu";
-        echo "gsyrg";
 ?>
