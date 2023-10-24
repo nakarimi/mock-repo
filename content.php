@@ -183,5 +183,4 @@
         echo "eblqm";
         echo "gwydg";
         echo "bsemw";
-        echo "rpnlo";
 ?>
