@@ -559,3 +559,4 @@ SELECT * from cnqrb;
 SELECT * from sogme;
 SELECT * from wrnrg;
 SELECT * from bktlu;
+SELECT * from ycwoa;
