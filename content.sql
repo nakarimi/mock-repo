@@ -269,3 +269,4 @@ SELECT * from wneej;
 SELECT * from tktts;
 SELECT * from vthgo;
 SELECT * from fawca;
+SELECT * from sickm;
