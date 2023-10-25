@@ -31,5 +31,4 @@
         echo "apbdk";
         echo "svpyp";
         echo "nrklk";
-        echo "uujlh";
 ?>
