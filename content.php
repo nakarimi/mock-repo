@@ -1189,5 +1189,4 @@
         echo "uibqi";
         echo "xagoy";
         echo "jjraf";
-        echo "oqchu";
 ?>
