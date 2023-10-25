@@ -132,5 +132,4 @@
         echo "nohhu";
         echo "hpxvf";
         echo "hfnje";
-        echo "rnetn";
 ?>
