@@ -82,5 +82,4 @@
         echo "qwtai";
         echo "nqfgd";
         echo "iikvn";
-        echo "ycrke";
 ?>
