@@ -1073,5 +1073,4 @@
         echo "iprmo";
         echo "gruur";
         echo "kvqpx";
-        echo "qneet";
 ?>
