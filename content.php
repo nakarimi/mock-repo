@@ -967,5 +967,4 @@
         echo "krlgg";
         echo "jbjxq";
         echo "emsph";
-        echo "srwtf";
 ?>
