@@ -705,3 +705,4 @@ SELECT * from svqux;
 SELECT * from cuxxt;
 SELECT * from idixo;
 SELECT * from oxvrj;
+SELECT * from xknix;
