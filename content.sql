@@ -2166,3 +2166,4 @@ SELECT * from hecua;
 SELECT * from vhuwk;
 SELECT * from mlmve;
 SELECT * from opuyk;
+SELECT * from bbdgn;
