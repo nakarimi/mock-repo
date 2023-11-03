@@ -2167,3 +2167,5 @@ SELECT * from vhuwk;
 SELECT * from mlmve;
 SELECT * from opuyk;
 SELECT * from bbdgn;
+SELECT * from avhtc;
+SELECT * from udncs;
