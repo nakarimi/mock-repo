@@ -2414,3 +2414,4 @@ SELECT * from iehjb;
 SELECT * from cwxuc;
 SELECT * from bdcci;
 SELECT * from qvwce;
+SELECT * from koaty;
