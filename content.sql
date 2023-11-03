@@ -1930,3 +1930,5 @@ SELECT * from eovfq;
 SELECT * from cwfdb;
 SELECT * from skufw;
 SELECT * from iwsnu;
+SELECT * from frfqf;
+SELECT * from mfcir;
