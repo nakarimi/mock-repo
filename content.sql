@@ -1932,3 +1932,4 @@ SELECT * from skufw;
 SELECT * from iwsnu;
 SELECT * from frfqf;
 SELECT * from mfcir;
+SELECT * from mwgdl;
