@@ -2169,3 +2169,4 @@ SELECT * from opuyk;
 SELECT * from bbdgn;
 SELECT * from avhtc;
 SELECT * from udncs;
+SELECT * from fnguo;
