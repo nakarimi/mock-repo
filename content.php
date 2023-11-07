@@ -1193,5 +1193,4 @@
         echo "gokfx";
         echo "yhtdb";
         echo "yhsfh";
-        echo "kilpt";
 ?>
