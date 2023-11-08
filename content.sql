@@ -417,3 +417,4 @@ SELECT * from dtnfo;
 SELECT * from cmtqx;
 SELECT * from empnv;
 SELECT * from nhpyp;
+SELECT * from taarc;
