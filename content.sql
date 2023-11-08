@@ -271,3 +271,4 @@ SELECT * from vthgo;
 SELECT * from fawca;
 SELECT * from sickm;
 SELECT * from whusd;
+SELECT * from eawnv;
