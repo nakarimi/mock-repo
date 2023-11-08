@@ -419,3 +419,4 @@ SELECT * from empnv;
 SELECT * from nhpyp;
 SELECT * from taarc;
 SELECT * from xmfxh;
+SELECT * from pecal;
