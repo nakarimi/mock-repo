@@ -2174,3 +2174,4 @@ SELECT * from wrcmg;
 SELECT * from anfsc;
 SELECT * from rpefs;
 SELECT * from rctop;
+SELECT * from ljjja;
