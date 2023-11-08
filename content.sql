@@ -125,3 +125,4 @@ SELECT * from dqlpd;
 SELECT * from ygfua;
 SELECT * from ripvl;
 SELECT * from xmuum;
+SELECT * from omsts;
