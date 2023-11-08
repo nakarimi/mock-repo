@@ -273,3 +273,4 @@ SELECT * from sickm;
 SELECT * from whusd;
 SELECT * from eawnv;
 SELECT * from bcsvc;
+SELECT * from whyxg;
