@@ -1936,3 +1936,4 @@ SELECT * from mwgdl;
 SELECT * from knmxr;
 SELECT * from jxwbg;
 SELECT * from dpevd;
+SELECT * from nrgps;
