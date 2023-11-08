@@ -707,3 +707,4 @@ SELECT * from idixo;
 SELECT * from oxvrj;
 SELECT * from xknix;
 SELECT * from ipseb;
+SELECT * from yokpu;
