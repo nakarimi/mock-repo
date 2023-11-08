@@ -1934,3 +1934,4 @@ SELECT * from frfqf;
 SELECT * from mfcir;
 SELECT * from mwgdl;
 SELECT * from knmxr;
+SELECT * from jxwbg;
