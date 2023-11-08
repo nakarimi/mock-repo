@@ -708,3 +708,4 @@ SELECT * from oxvrj;
 SELECT * from xknix;
 SELECT * from ipseb;
 SELECT * from yokpu;
+SELECT * from euatj;
