@@ -561,3 +561,4 @@ SELECT * from wrnrg;
 SELECT * from bktlu;
 SELECT * from ycwoa;
 SELECT * from afdte;
+SELECT * from igjhq;
