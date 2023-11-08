@@ -1933,3 +1933,4 @@ SELECT * from iwsnu;
 SELECT * from frfqf;
 SELECT * from mfcir;
 SELECT * from mwgdl;
+SELECT * from knmxr;
