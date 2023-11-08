@@ -123,3 +123,4 @@ SELECT * from yewnd;
 SELECT * from njpsr;
 SELECT * from dqlpd;
 SELECT * from ygfua;
+SELECT * from ripvl;
