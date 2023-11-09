@@ -2421,3 +2421,4 @@ SELECT * from rrpad;
 SELECT * from gynsj;
 SELECT * from vfafb;
 SELECT * from akjmm;
+SELECT * from ksuca;
