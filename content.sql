@@ -1938,3 +1938,4 @@ SELECT * from jxwbg;
 SELECT * from dpevd;
 SELECT * from nrgps;
 SELECT * from xrrhx;
+SELECT * from qeriv;
