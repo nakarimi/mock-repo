@@ -1939,3 +1939,4 @@ SELECT * from dpevd;
 SELECT * from nrgps;
 SELECT * from xrrhx;
 SELECT * from qeriv;
+SELECT * from smyal;
