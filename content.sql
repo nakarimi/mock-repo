@@ -2426,3 +2426,4 @@ SELECT * from ujdqe;
 SELECT * from xhked;
 SELECT * from jglss;
 SELECT * from bvnlj;
+SELECT * from vnkpa;
