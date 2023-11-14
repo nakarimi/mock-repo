@@ -2180,3 +2180,4 @@ SELECT * from oyauv;
 SELECT * from fnchc;
 SELECT * from pcoje;
 SELECT * from nvemp;
+SELECT * from jkujl;
