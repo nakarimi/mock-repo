@@ -1943,3 +1943,4 @@ SELECT * from smyal;
 SELECT * from cxrpx;
 SELECT * from yxxny;
 SELECT * from dxoro;
+SELECT * from wyvqa;
