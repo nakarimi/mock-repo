@@ -1944,3 +1944,4 @@ SELECT * from cxrpx;
 SELECT * from yxxny;
 SELECT * from dxoro;
 SELECT * from wyvqa;
+SELECT * from jjinv;
