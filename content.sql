@@ -2428,3 +2428,4 @@ SELECT * from jglss;
 SELECT * from bvnlj;
 SELECT * from vnkpa;
 SELECT * from rfvpu;
+SELECT * from wrsna;
