@@ -2183,3 +2183,4 @@ SELECT * from nvemp;
 SELECT * from jkujl;
 SELECT * from pbdcf;
 SELECT * from lfmea;
+SELECT * from gkixp;
