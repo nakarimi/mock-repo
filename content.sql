@@ -2429,3 +2429,4 @@ SELECT * from bvnlj;
 SELECT * from vnkpa;
 SELECT * from rfvpu;
 SELECT * from wrsna;
+SELECT * from ebvtd;
