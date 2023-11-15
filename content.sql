@@ -1946,3 +1946,4 @@ SELECT * from dxoro;
 SELECT * from wyvqa;
 SELECT * from jjinv;
 SELECT * from prrdx;
+SELECT * from dnjog;
