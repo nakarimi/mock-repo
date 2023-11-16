@@ -421,3 +421,4 @@ SELECT * from taarc;
 SELECT * from xmfxh;
 SELECT * from pecal;
 SELECT * from pcpki;
+SELECT * from plgoy;
