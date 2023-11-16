@@ -423,3 +423,4 @@ SELECT * from pecal;
 SELECT * from pcpki;
 SELECT * from plgoy;
 SELECT * from ubiog;
+SELECT * from qyygr;
