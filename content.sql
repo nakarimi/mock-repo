@@ -1951,3 +1951,4 @@ SELECT * from thulb;
 SELECT * from tycaa;
 SELECT * from tpkjf;
 SELECT * from ymhmk;
+SELECT * from qwxqd;
