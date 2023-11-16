@@ -275,3 +275,4 @@ SELECT * from eawnv;
 SELECT * from bcsvc;
 SELECT * from whyxg;
 SELECT * from xptaf;
+SELECT * from xeatq;
