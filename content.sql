@@ -278,3 +278,4 @@ SELECT * from xptaf;
 SELECT * from xeatq;
 SELECT * from oohol;
 SELECT * from mlyod;
+SELECT * from icnrs;
