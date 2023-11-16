@@ -569,3 +569,4 @@ SELECT * from borwc;
 SELECT * from aotog;
 SELECT * from xtkxw;
 SELECT * from gupcf;
+SELECT * from juneq;
