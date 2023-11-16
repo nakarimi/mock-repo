@@ -568,3 +568,4 @@ SELECT * from fqoqc;
 SELECT * from borwc;
 SELECT * from aotog;
 SELECT * from xtkxw;
+SELECT * from gupcf;
