@@ -2189,3 +2189,4 @@ SELECT * from kydrv;
 SELECT * from tpsyy;
 SELECT * from asbbh;
 SELECT * from dngmw;
+SELECT * from lirkr;
