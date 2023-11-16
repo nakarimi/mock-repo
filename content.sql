@@ -2187,3 +2187,4 @@ SELECT * from gkixp;
 SELECT * from ykqbe;
 SELECT * from kydrv;
 SELECT * from tpsyy;
+SELECT * from asbbh;
