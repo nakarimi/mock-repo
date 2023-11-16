@@ -565,3 +565,4 @@ SELECT * from igjhq;
 SELECT * from ngpnl;
 SELECT * from eperh;
 SELECT * from fqoqc;
+SELECT * from borwc;
