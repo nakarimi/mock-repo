@@ -710,3 +710,4 @@ SELECT * from ipseb;
 SELECT * from yokpu;
 SELECT * from euatj;
 SELECT * from bujxd;
+SELECT * from wvmgv;
