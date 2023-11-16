@@ -276,3 +276,4 @@ SELECT * from bcsvc;
 SELECT * from whyxg;
 SELECT * from xptaf;
 SELECT * from xeatq;
+SELECT * from oohol;
