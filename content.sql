@@ -2431,3 +2431,4 @@ SELECT * from rfvpu;
 SELECT * from wrsna;
 SELECT * from ebvtd;
 SELECT * from wjfnk;
+SELECT * from qggwk;
