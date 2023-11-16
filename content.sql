@@ -130,3 +130,4 @@ SELECT * from lgktt;
 SELECT * from vajvi;
 SELECT * from atwgc;
 SELECT * from orsgg;
+SELECT * from rjjvq;
