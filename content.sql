@@ -127,3 +127,4 @@ SELECT * from ripvl;
 SELECT * from xmuum;
 SELECT * from omsts;
 SELECT * from lgktt;
+SELECT * from vajvi;
