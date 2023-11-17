@@ -1953,3 +1953,4 @@ SELECT * from tpkjf;
 SELECT * from ymhmk;
 SELECT * from qwxqd;
 SELECT * from mmxax;
+SELECT * from bopdk;
