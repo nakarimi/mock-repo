@@ -2437,3 +2437,4 @@ SELECT * from mdcgt;
 SELECT * from laacq;
 SELECT * from wlfio;
 SELECT * from wwrjf;
+SELECT * from bqnlf;
