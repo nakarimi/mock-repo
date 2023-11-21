@@ -571,3 +571,4 @@ SELECT * from xtkxw;
 SELECT * from gupcf;
 SELECT * from juneq;
 SELECT * from wgnym;
+SELECT * from mjnfc;
