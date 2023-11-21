@@ -282,3 +282,4 @@ SELECT * from icnrs;
 SELECT * from hgnmt;
 SELECT * from ydclv;
 SELECT * from nuhue;
+SELECT * from eukcd;
