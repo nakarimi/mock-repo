@@ -1954,3 +1954,4 @@ SELECT * from ymhmk;
 SELECT * from qwxqd;
 SELECT * from mmxax;
 SELECT * from bopdk;
+SELECT * from swenp;
