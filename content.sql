@@ -717,3 +717,4 @@ SELECT * from xmoek;
 SELECT * from wejef;
 SELECT * from frghc;
 SELECT * from hhgkp;
+SELECT * from prdiq;
