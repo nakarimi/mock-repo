@@ -2191,3 +2191,4 @@ SELECT * from asbbh;
 SELECT * from dngmw;
 SELECT * from lirkr;
 SELECT * from xgquv;
+SELECT * from yccdu;
