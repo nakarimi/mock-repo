@@ -2438,3 +2438,4 @@ SELECT * from laacq;
 SELECT * from wlfio;
 SELECT * from wwrjf;
 SELECT * from bqnlf;
+SELECT * from xebun;
