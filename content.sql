@@ -2193,3 +2193,4 @@ SELECT * from lirkr;
 SELECT * from xgquv;
 SELECT * from yccdu;
 SELECT * from oemkr;
+SELECT * from ygjju;
