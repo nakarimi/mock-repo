@@ -2194,3 +2194,4 @@ SELECT * from xgquv;
 SELECT * from yccdu;
 SELECT * from oemkr;
 SELECT * from rjguv;
+SELECT * from sipdb;
