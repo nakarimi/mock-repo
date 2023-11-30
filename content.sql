@@ -2444,3 +2444,4 @@ SELECT * from pprtm;
 SELECT * from eysmh;
 SELECT * from igksf;
 SELECT * from nrdjv;
+SELECT * from wvmvs;
