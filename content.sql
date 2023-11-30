@@ -574,3 +574,4 @@ SELECT * from wgnym;
 SELECT * from mjnfc;
 SELECT * from toobc;
 SELECT * from oqbuf;
+SELECT * from rvugh;
