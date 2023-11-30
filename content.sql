@@ -429,3 +429,4 @@ SELECT * from kakvf;
 SELECT * from jehmn;
 SELECT * from qgiqd;
 SELECT * from wojgb;
+SELECT * from jcwoc;
