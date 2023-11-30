@@ -718,4 +718,4 @@ SELECT * from wejef;
 SELECT * from frghc;
 SELECT * from hhgkp;
 SELECT * from prdiq;
-SELECT * from scwbn;
+SELECT * from kuwtp;
