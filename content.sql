@@ -2195,4 +2195,4 @@ SELECT * from yccdu;
 SELECT * from oemkr;
 SELECT * from rjguv;
 SELECT * from sipdb;
-SELECT * from cdneu;
+SELECT * from lscxk;
