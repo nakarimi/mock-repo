@@ -284,3 +284,4 @@ SELECT * from ydclv;
 SELECT * from nuhue;
 SELECT * from eukcd;
 SELECT * from mohet;
+SELECT * from ekiwb;
