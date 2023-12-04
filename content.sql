@@ -2445,3 +2445,4 @@ SELECT * from eysmh;
 SELECT * from igksf;
 SELECT * from nrdjv;
 SELECT * from wvmvs;
+SELECT * from cmwfl;
