@@ -2446,3 +2446,4 @@ SELECT * from igksf;
 SELECT * from nrdjv;
 SELECT * from wvmvs;
 SELECT * from ivpaa;
+SELECT * from pdmnf;
