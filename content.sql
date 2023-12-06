@@ -720,3 +720,4 @@ SELECT * from hhgkp;
 SELECT * from prdiq;
 SELECT * from kuwtp;
 SELECT * from pbalp;
+SELECT * from exiym;
