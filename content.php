@@ -999,5 +999,5 @@
         echo "xosig";
         echo "xosjx";
         echo "hiwno";
-        echo "subfu";
+        echo "aclvt";
 ?>
