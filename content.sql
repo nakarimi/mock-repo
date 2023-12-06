@@ -576,3 +576,4 @@ SELECT * from toobc;
 SELECT * from oqbuf;
 SELECT * from rvugh;
 SELECT * from cevxj;
+SELECT * from nbmrn;
