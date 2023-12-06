@@ -1963,3 +1963,4 @@ SELECT * from agrbf;
 SELECT * from dvehg;
 SELECT * from owdqv;
 SELECT * from gpjil;
+SELECT * from inthq;
