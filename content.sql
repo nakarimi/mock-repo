@@ -287,3 +287,4 @@ SELECT * from mohet;
 SELECT * from ekiwb;
 SELECT * from hvnnv;
 SELECT * from unvii;
+SELECT * from ucxcc;
