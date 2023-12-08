@@ -432,3 +432,4 @@ SELECT * from wojgb;
 SELECT * from jcwoc;
 SELECT * from jfowc;
 SELECT * from pexjc;
+SELECT * from vgcxu;
