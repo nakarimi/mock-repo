@@ -577,3 +577,4 @@ SELECT * from oqbuf;
 SELECT * from rvugh;
 SELECT * from cevxj;
 SELECT * from nbmrn;
+SELECT * from inffr;
