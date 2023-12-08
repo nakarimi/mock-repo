@@ -139,3 +139,4 @@ SELECT * from ylqdw;
 SELECT * from tpibd;
 SELECT * from iqtwb;
 SELECT * from xtltc;
+SELECT * from fikca;
