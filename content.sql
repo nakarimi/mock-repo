@@ -722,3 +722,4 @@ SELECT * from kuwtp;
 SELECT * from pbalp;
 SELECT * from exiym;
 SELECT * from cmuqf;
+SELECT * from rdaun;
