@@ -1967,4 +1967,4 @@ SELECT * from inthq;
 SELECT * from gdelj;
 SELECT * from idtlp;
 SELECT * from bksmh;
-SELECT * from crqty;
+SELECT * from wciib;
