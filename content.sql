@@ -1968,3 +1968,4 @@ SELECT * from gdelj;
 SELECT * from idtlp;
 SELECT * from bksmh;
 SELECT * from wciib;
+SELECT * from xfavs;
