@@ -2206,3 +2206,4 @@ SELECT * from qvwbf;
 SELECT * from liegc;
 SELECT * from krbpu;
 SELECT * from cbsxy;
+SELECT * from tdawk;
