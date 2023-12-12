@@ -724,3 +724,4 @@ SELECT * from exiym;
 SELECT * from cmuqf;
 SELECT * from rdaun;
 SELECT * from axrpj;
+SELECT * from buojw;
