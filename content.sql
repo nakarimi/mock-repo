@@ -288,3 +288,4 @@ SELECT * from ekiwb;
 SELECT * from hvnnv;
 SELECT * from unvii;
 SELECT * from ucxcc;
+SELECT * from wxofv;
