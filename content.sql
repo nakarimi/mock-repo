@@ -580,3 +580,4 @@ SELECT * from nbmrn;
 SELECT * from inffr;
 SELECT * from bdmen;
 SELECT * from ijxkt;
+SELECT * from wfnfv;
