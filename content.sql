@@ -2457,3 +2457,4 @@ SELECT * from ftrfb;
 SELECT * from wsyun;
 SELECT * from lccwa;
 SELECT * from jetki;
+SELECT * from xpbxj;
