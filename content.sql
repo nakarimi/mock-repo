@@ -1969,3 +1969,4 @@ SELECT * from idtlp;
 SELECT * from bksmh;
 SELECT * from wciib;
 SELECT * from xfavs;
+SELECT * from gtppv;
