@@ -290,3 +290,4 @@ SELECT * from unvii;
 SELECT * from ucxcc;
 SELECT * from wxofv;
 SELECT * from lwmcv;
+SELECT * from bipex;
