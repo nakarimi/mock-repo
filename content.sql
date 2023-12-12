@@ -141,3 +141,4 @@ SELECT * from iqtwb;
 SELECT * from xtltc;
 SELECT * from fikca;
 SELECT * from xxmfu;
+SELECT * from wgycl;
