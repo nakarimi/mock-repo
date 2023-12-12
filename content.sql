@@ -2456,3 +2456,4 @@ SELECT * from tnoha;
 SELECT * from ftrfb;
 SELECT * from wsyun;
 SELECT * from lccwa;
+SELECT * from jetki;
