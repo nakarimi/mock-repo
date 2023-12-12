@@ -435,3 +435,4 @@ SELECT * from pexjc;
 SELECT * from vgcxu;
 SELECT * from femvl;
 SELECT * from trnhe;
+SELECT * from cfoie;
