@@ -1974,3 +1974,4 @@ SELECT * from opiwm;
 SELECT * from mmiyb;
 SELECT * from iqpos;
 SELECT * from csrbl;
+SELECT * from dtpud;
