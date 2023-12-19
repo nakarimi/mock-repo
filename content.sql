@@ -1976,3 +1976,4 @@ SELECT * from iqpos;
 SELECT * from csrbl;
 SELECT * from dtpud;
 SELECT * from jiubn;
+SELECT * from gutco;
