@@ -2458,3 +2458,4 @@ SELECT * from wsyun;
 SELECT * from lccwa;
 SELECT * from jetki;
 SELECT * from awelk;
+SELECT * from cifgt;
