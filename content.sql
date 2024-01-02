@@ -2460,3 +2460,4 @@ SELECT * from jetki;
 SELECT * from awelk;
 SELECT * from cifgt;
 SELECT * from sfsnr;
+SELECT * from iusah;
