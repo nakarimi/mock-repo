@@ -2216,3 +2216,4 @@ SELECT * from vhfni;
 SELECT * from umjhg;
 SELECT * from vbqts;
 SELECT * from auryc;
+SELECT * from sfkib;
