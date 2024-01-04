@@ -2464,3 +2464,4 @@ SELECT * from iusah;
 SELECT * from aesgc;
 SELECT * from npdpd;
 SELECT * from yrogx;
+SELECT * from rysye;
