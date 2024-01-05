@@ -2218,3 +2218,4 @@ SELECT * from vbqts;
 SELECT * from auryc;
 SELECT * from lyfee;
 SELECT * from aqtlh;
+SELECT * from phmgn;
