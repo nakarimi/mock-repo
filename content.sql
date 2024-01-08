@@ -2466,3 +2466,4 @@ SELECT * from npdpd;
 SELECT * from yrogx;
 SELECT * from rysye;
 SELECT * from qfvdp;
+SELECT * from wkuat;
