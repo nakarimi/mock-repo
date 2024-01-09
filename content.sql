@@ -2467,4 +2467,4 @@ SELECT * from yrogx;
 SELECT * from rysye;
 SELECT * from qfvdp;
 SELECT * from wkuat;
-SELECT * from yfcud;
+SELECT * from yoxmq;
