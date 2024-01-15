@@ -2221,3 +2221,4 @@ SELECT * from aqtlh;
 SELECT * from phmgn;
 SELECT * from buxor;
 SELECT * from seqgc;
+SELECT * from anewu;
