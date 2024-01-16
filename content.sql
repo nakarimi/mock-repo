@@ -2222,3 +2222,4 @@ SELECT * from phmgn;
 SELECT * from buxor;
 SELECT * from seqgc;
 SELECT * from veutv;
+SELECT * from aoxsm;
