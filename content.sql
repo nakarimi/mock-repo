@@ -2469,3 +2469,4 @@ SELECT * from qfvdp;
 SELECT * from wkuat;
 SELECT * from yoxmq;
 SELECT * from kaxod;
+SELECT * from pkmox;
