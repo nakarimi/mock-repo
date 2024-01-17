@@ -2470,3 +2470,4 @@ SELECT * from wkuat;
 SELECT * from yoxmq;
 SELECT * from kaxod;
 SELECT * from pkmox;
+SELECT * from wxusi;
