@@ -2471,3 +2471,4 @@ SELECT * from yoxmq;
 SELECT * from kaxod;
 SELECT * from pkmox;
 SELECT * from wxusi;
+SELECT * from kxbto;
