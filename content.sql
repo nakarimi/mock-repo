@@ -2474,3 +2474,4 @@ SELECT * from wxusi;
 SELECT * from kxbto;
 SELECT * from yrxan;
 SELECT * from mnmdk;
+SELECT * from flotu;
