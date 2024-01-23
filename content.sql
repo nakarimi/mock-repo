@@ -2475,3 +2475,4 @@ SELECT * from kxbto;
 SELECT * from yrxan;
 SELECT * from mnmdk;
 SELECT * from flotu;
+SELECT * from nnqsf;
