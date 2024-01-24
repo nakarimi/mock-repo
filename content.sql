@@ -2477,4 +2477,4 @@ SELECT * from mnmdk;
 SELECT * from flotu;
 SELECT * from nnqsf;
 SELECT * from tfbwd;
-SELECT * from gtosl;
+SELECT * from ndxrg;
